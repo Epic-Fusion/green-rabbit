@@ -96,7 +96,7 @@ sections:
           Komplexität.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Agile Arbeitsformen
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
