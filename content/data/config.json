@@ -33,11 +33,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "Kontakt",
                 "url": "/kontakt",
                 "style": "button",
