@@ -106,17 +106,11 @@ sections:
         type: grid_item
       - title: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
+          Veränderung ist die Integration von Mensch, Kultur und Technologie.
+          Wir bilden und vereinen ganzheitliche Lösungen, die Mitarbeitende
+          lieben.
         actions: []
         type: grid_item
     type: section_grid
