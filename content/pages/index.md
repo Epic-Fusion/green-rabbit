@@ -15,7 +15,7 @@ sections:
       und Prinzipien, um eine nachhaltige Wirkung auf Mensch, Gesellschaft und
       Organisationen zu schaffen.
     actions:
-      - label: Let's talk
+      - label: Jetzt mehr erfahren!
         url: /contact
         style: button
   - section_id: latest-projects
