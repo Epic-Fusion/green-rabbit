@@ -61,17 +61,9 @@ sections:
         type: grid_item
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
+          volles Potenzial mit ihrem Team aktivieren können.
         actions: []
         type: grid_item
     type: section_grid
