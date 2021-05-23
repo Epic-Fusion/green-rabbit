@@ -2,7 +2,7 @@
 title: Kontakt
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Kontakt
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
