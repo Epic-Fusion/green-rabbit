@@ -4,17 +4,12 @@ hide_title: true
 sections:
   - title: Kontakt
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      #### Ob Kaffee oder Besprechung Ihres Vorhabens - wir sind für Sie da
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
+      eine E-Mail an hello@epicfusion.com.
     actions: []
     type: section_hero
 seo:
