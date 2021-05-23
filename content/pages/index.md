@@ -81,7 +81,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
+  - title: Unser Angebot
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
