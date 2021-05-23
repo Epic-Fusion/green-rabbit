@@ -2,7 +2,7 @@
 title: Wir Epic Fusion
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Wir Epic Fusion
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
