@@ -120,21 +120,6 @@ sections:
           um Raum für neue Ideen und echte Transformation zu ermöglichen.
         actions: []
         type: grid_item
-      - title: Cloud Security
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
     type: section_grid
   - section_id: latest-projects
     type: section_portfolio
