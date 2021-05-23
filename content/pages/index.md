@@ -18,7 +18,7 @@ sections:
       - label: Jetzt mehr erfahren!
         url: /contact
         style: button
-  - title: lorem-ipsum
+  - title: Unsere Kompetenzen
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
