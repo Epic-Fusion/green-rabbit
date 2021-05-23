@@ -120,7 +120,7 @@ sections:
           um Raum für neue Ideen und echte Transformation zu ermöglichen.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Cloud Security
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
