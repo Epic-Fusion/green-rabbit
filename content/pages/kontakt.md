@@ -5,7 +5,7 @@ sections:
   - title: Kontakt
     section_id: lorem-ipsum
     content: >
-      ##### Lassen Sie sich von uns überzeugen!
+      #### Wir helfen gerne weiter!
 
 
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
