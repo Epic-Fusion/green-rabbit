@@ -18,6 +18,15 @@
                 "style": "link"
             },
             {
+                "label": "Wir",
+                "url": "/ueber-uns",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
@@ -26,15 +35,6 @@
                 "label": "Kontakt",
                 "url": "/kontakt",
                 "style": "button",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Wir",
-                "url": "/ueber-uns",
-                "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false,
