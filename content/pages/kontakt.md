@@ -11,7 +11,7 @@ sections:
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
       eine E-Mail an hello@epicfusion.com.
     actions:
-      - label: lorem-ipsum
+      - label: Kontaktformular
         url: '#'
         style: link
         icon: dribbble
