@@ -20,7 +20,7 @@ sections:
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
-    subtitle: Wie wir es angehen
+    subtitle: Womit wir arbeiten
     col_number: three
     is_numbered: false
     grid_items: []
