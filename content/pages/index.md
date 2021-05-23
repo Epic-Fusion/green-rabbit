@@ -83,7 +83,7 @@ sections:
     type: section_grid
   - title: Unser Angebot
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Wie wir vorgehen
     col_number: three
     is_numbered: false
     grid_items: []
