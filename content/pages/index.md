@@ -57,7 +57,14 @@ sections:
         content: >
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
           Mitarbeitenden um. Für alle, von überall, jederzeit.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Zusammenarbeit
         image_alt: lorem-ipsum
