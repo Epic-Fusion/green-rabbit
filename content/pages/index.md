@@ -121,14 +121,6 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
