@@ -21,7 +21,7 @@ sections:
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
     subtitle: Womit wir arbeiten
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items: []
     type: section_grid
