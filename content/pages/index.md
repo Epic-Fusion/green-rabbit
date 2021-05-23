@@ -84,7 +84,7 @@ sections:
   - title: Unser Angebot
     section_id: lorem-ipsum
     subtitle: Wie wir es umsetzen
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items:
       - title: Cloud-Smart Strategie
