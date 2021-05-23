@@ -46,7 +46,7 @@ sections:
         actions:
           - label: Ausprobieren!
             url: '#'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
