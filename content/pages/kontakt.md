@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Kontakt
 hide_title: true
 sections: []
 seo:
