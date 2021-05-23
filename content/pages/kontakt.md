@@ -5,7 +5,7 @@ sections:
   - title: Kontakt
     section_id: lorem-ipsum
     content: >
-      #### Ob Kaffee oder Besprechung Ihres Vorhabens - wir sind für Sie da
+      ##### Lassen Sie sich von uns überzeugen!
 
 
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
