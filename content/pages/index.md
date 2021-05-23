@@ -104,7 +104,7 @@ sections:
           langfristig zu stärken.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Employee Experience
         image_alt: lorem-ipsum
         content: >
           Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
