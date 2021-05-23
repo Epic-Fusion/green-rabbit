@@ -39,7 +39,7 @@
             },
             {
                 "label": "Kontakt",
-                "url": "/contact",
+                "url": "/kontakt",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
