@@ -72,7 +72,7 @@ sections:
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
           volles Potenzial mit ihrem Team aktivieren können.
         actions:
-          - label: lorem-ipsum
+          - label: Verbinden
             url: '#'
             style: link
             icon: dribbble
