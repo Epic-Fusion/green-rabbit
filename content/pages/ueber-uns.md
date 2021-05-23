@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Wir Epic Fusion
 hide_title: true
 sections: []
 seo:
