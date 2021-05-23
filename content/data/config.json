@@ -71,5 +71,6 @@
             }
         ]
     },
-    "domain": "https://green-rabbit-ac387.netlify.app"
+    "domain": "https://green-rabbit-ac387.netlify.app",
+    "favicon": "/images/favicon-32x32.png"
 }
