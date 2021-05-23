@@ -5,9 +5,15 @@ sections:
   - section_id: hero
     type: section_hero
     title: Mindset is everything.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      #### Weshalb sind wir da?
+
+
+      Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
+      Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
+      begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
+      und Prinzipien, um eine nachhaltige Wirkung auf Mensch, Gesellschaft und
+      Organisationen zu schaffen.
     actions:
       - label: Let's talk
         url: /contact
