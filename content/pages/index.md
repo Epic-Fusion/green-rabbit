@@ -59,7 +59,7 @@ sections:
           Mitarbeitenden um. Für alle, von überall, jederzeit.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Zusammenarbeit
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
