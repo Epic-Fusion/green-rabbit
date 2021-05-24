@@ -24,7 +24,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Veränderung
+      - title: Challenge the Change
         image_alt: lorem-ipsum
         content: >
           Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
