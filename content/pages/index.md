@@ -58,7 +58,7 @@ sections:
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
           Mitarbeitenden um. Für alle, von überall, jederzeit.
         actions:
-          - label: Jetzt einloggen
+          - label: Jetzt bereitstellen
             url: '#'
             style: button
             icon: dribbble
