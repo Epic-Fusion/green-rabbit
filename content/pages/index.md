@@ -118,7 +118,9 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse,
-          um Raum für neue Ideen und echte Transformation zu ermöglichen.
+          um Raum für neue Ideen und echte Transformation zu ermöglichen. Mit
+          ganzheitlichen Ansätzen schaffen wir zugängliche, integrierte
+          Lösungen. 
         actions: []
         type: grid_item
     type: section_grid
