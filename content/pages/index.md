@@ -83,7 +83,7 @@ sections:
           langfristig zu stärken. Ein gemeinsames Team steht dabei jederzeit im
           Mittelpunkt.
         actions:
-          - label: lorem-ipsum
+          - label: Vision etablieren
             url: '#'
             style: link
             icon: dribbble
