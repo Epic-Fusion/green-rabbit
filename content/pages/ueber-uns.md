@@ -5,8 +5,46 @@ sections:
   - title: Wir Epic Fusion
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |
-      Warum
+    content: >+
+      ##### Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu
+      machen. Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen
+      Lösungen zu begegnen. Dabei katalysieren wir die digitale Transformation
+      mit Werten und Prinzipien, um eine nachhaltige Wirkung auf Mensch,
+      Gesellschaft und Organisationen zu schaffen.
+
+
+      #### Unsere Story
+
+
+      Über mehr als ein Jahr hinweg erleben wir eine Disruption in fast aller
+      unserer Lebensbereiche, die niemand für möglich gehalten hätte.
+      Insbesondere die digitale Arbeitswelt veränderte sich schneller als je
+      zuvor. Die Nutzung von neuartigen Cloud-Services bringt dringende Fragen
+      an Datenschutz, Sicherheit und Infrastruktur mit sich. Dabei ist der
+      Faktor des Umgangs mit den menschlichen Fähigkeiten, der Arbeitsformen und
+      Organisationskultur mindestens ebenso wichtig, um in der heutigen
+      volatilen Zeit erfolgreich bestehen zu können.
+
+
+      Epic Fusion wurde gegründet, um Organisation im Zyklus dieser neuen, sich
+      kontinuierlich verändernden Arbeitswelt zu begleiten. Wir gestalten
+      sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen
+      massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch
+      statt eine Softwarelösung im Fokus, um den kulturellen Wandel und die
+      gewünschte Mitarbeitererfahrung zu ermöglichen.
+
+
+      #### Unsere Werte und Prinzipien
+
+
+      Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
+      leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
+      Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden,
+      unsere Partner und die Gesellschaft zurückgegeben können. 
+
+
+
+
     type: section_content
 seo:
   title: ''

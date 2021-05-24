@@ -18,13 +18,13 @@ sections:
       - label: Jetzt mehr erfahren!
         url: /contact
         style: button
-  - title: Unsere Kompetenz - Modern Work Cycle
+  - title: Unsere Kompetenzen
     section_id: lorem-ipsum
-    subtitle: Womit wir arbeiten
+    subtitle: Wie wir arbeiten
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Veränderung
+      - title: Veränderung begegnen
         image_alt: lorem-ipsum
         content: >
           Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
@@ -38,7 +38,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Agilität
+      - title: Agilität ermöglichen
         image_alt: lorem-ipsum
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
@@ -52,7 +52,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Arbeitsplatz
+      - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
         content: >
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
@@ -66,7 +66,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Zusammenarbeit
+      - title: Kollektive Intelligenz
         image_alt: lorem-ipsum
         content: >
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
@@ -123,8 +123,7 @@ sections:
     type: section_grid
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    title: Aktuelles
     posts_number: 3
     col_number: three
     actions:
