@@ -18,7 +18,7 @@ sections:
       - label: Jetzt mehr erfahren!
         url: /contact
         style: button
-  - title: Unsere Kompetenzen
+  - title: Unsere Kompetenz - Modern Work Cycle
     section_id: lorem-ipsum
     subtitle: Womit wir arbeiten
     col_number: two
