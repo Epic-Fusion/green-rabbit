@@ -40,10 +40,7 @@ sections:
       Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
       leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
       Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden,
-      unsere Partner und die Gesellschaft zurückgegeben können. 
-
-
-
+      unsere Partner und die Gesellschaft erreichen können.
 
     type: section_content
 seo:
