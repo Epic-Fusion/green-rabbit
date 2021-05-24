@@ -66,7 +66,14 @@ sections:
           Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
           intelligente, phasenweise Cloud-Enablement Strategie und reduzieren
           damit Komplexität bei gleichen Ressourcen.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Agile Arbeitsformen
         image_alt: lorem-ipsum
