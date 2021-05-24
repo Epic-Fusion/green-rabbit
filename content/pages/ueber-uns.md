@@ -22,11 +22,12 @@ sections:
       zuvor. Die Nutzung von neuartigen Cloud-Services bringt dringende Fragen
       an Datenschutz, Sicherheit und Infrastruktur mit sich. Dabei ist der
       Faktor des Umgangs mit den menschlichen Fähigkeiten, der Arbeitsformen und
-      Organisationskultur mindestens ebenso wichtig!
+      Organisationskultur mindestens ebenso wichtig, um in der heutigen
+      volatilen Zeit erfolgreich bestehen zu können.
 
 
-      Epic Fusion wurde gegründet, um Organisation im Zyklus der neuen
-      Arbeitswelt zu begleiten.
+      Epic Fusion wurde gegründet, um Organisation im Zyklus dieser neuen, sich
+      kontinuierlich verändernden Arbeitswelt zu begleiten.
     type: section_content
 seo:
   title: ''
