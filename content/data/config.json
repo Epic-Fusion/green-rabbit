@@ -69,7 +69,7 @@
         "links": [
             {
                 "label": "Impressum",
-                "url": "#",
+                "url": "https://green-rabbit-ac387.netlify.app/impressum/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
