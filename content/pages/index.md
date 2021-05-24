@@ -66,7 +66,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Zusammenarbeit skalieren
+      - title: Kollektive Intelligenz
         image_alt: lorem-ipsum
         content: >
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
