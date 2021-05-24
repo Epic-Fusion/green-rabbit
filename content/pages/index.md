@@ -30,7 +30,7 @@ sections:
           Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
           einem Mindset der kontinuierlichen Veränderung.
         actions:
-          - label: Jetzt starten
+          - label: Etablieren
             url: '#'
             style: button
             icon: dribbble
