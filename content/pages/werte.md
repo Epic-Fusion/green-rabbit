@@ -1,5 +1,5 @@
 ---
-title: Unsere Werte und Prinz
+title: Unsere Werte und Prinzipien
 hide_title: true
 sections: []
 seo:
