@@ -110,8 +110,8 @@ sections:
         content: >
           Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
           Veränderung ist die Integration von Mensch, Kultur und Technologie.
-          Wir bilden und vereinen ganzheitliche Lösungen, die Mitarbeitende
-          lieben.
+          Wir bilden und vereinen sinnhafte, praktische Lösungen, die
+          Mitarbeitende lieben.
         actions: []
         type: grid_item
       - title: App- und Prozessmodernisierung
