@@ -38,7 +38,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Agilität
+      - title: Agilität ermöglichen
         image_alt: lorem-ipsum
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
