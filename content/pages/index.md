@@ -131,8 +131,8 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Epic Fusion GmbH - Mindset is everything.
+  description: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
   extra:
     - name: 'og:type'
       value: website
