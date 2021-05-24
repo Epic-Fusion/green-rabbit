@@ -99,7 +99,7 @@ sections:
           Wir bilden und vereinen sinnhafte, praktische Lösungen, die
           Mitarbeitende lieben.
         actions:
-          - label: lorem-ipsum
+          - label: Menschen verbinden
             url: '#'
             style: link
             icon: dribbble
