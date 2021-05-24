@@ -22,7 +22,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: Wie wir Sie begleiten
     col_number: two
-    is_numbered: false
+    is_numbered: true
     grid_items:
       - title: Veränderung begegnen
         image_alt: lorem-ipsum
