@@ -115,7 +115,7 @@ sections:
           ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
           integrale Lösungen.
         actions:
-          - label: lorem-ipsum
+          - label: 'Disruption '
             url: '#'
             style: link
             icon: dribbble
