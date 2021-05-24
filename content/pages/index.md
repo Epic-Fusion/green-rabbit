@@ -29,14 +29,7 @@ sections:
         content: >
           Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
           einem Mindset der kontinuierlichen Veränderung.
-        actions:
-          - label: Verändern!
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
       - title: Agilität ermöglichen
         image_alt: lorem-ipsum
