@@ -36,14 +36,7 @@ sections:
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
           der Organisation, in Projekten, mit den Menschen.
-        actions:
-          - label: Mindset!
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
       - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
