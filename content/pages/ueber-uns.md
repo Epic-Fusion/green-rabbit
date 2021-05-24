@@ -1,6 +1,6 @@
 ---
 title: Wir Epic Fusion
-hide_title: true
+hide_title: false
 sections:
   - title: Wir Epic Fusion
     section_id: lorem-ipsum
