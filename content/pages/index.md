@@ -50,14 +50,7 @@ sections:
         content: >
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
           Mitarbeitenden um. Für alle, von überall, jederzeit.
-        actions:
-          - label: Aktivieren
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
       - title: Kollektive Intelligenz
         image_alt: lorem-ipsum
