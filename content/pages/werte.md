@@ -1,6 +1,6 @@
 ---
 title: Unsere Werte und Prinzipien
-hide_title: true
+hide_title: false
 sections: []
 seo:
   title: ''
