@@ -22,7 +22,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: Womit wir arbeiten
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Veränderung
         image_alt: lorem-ipsum
