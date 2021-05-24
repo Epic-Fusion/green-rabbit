@@ -82,7 +82,14 @@ sections:
           ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
           langfristig zu stärken. Ein gemeinsames Team steht dabei jederzeit im
           Mittelpunkt.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Employee Experience
         image_alt: lorem-ipsum
