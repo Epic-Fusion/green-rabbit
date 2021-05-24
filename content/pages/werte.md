@@ -1,5 +1,5 @@
 ---
-title: Unser Angebot
+title: Unsere Werte und Prinzipien
 hide_title: false
 sections: []
 seo:

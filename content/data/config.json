@@ -31,9 +31,13 @@
                 "type": "action"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
+                "label": "Werte",
+                "url": "/werte",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Kontakt",
@@ -43,6 +47,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
             }
         ],
         "logo_img": "/images/26-04-_2021_19-04-30.png"
