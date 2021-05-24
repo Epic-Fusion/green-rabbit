@@ -132,7 +132,7 @@ sections:
         style: button
 seo:
   title: Epic Fusion GmbH - Mindset is everything.
-  description: The preview of the Exto theme
+  description: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
   extra:
     - name: 'og:type'
       value: website
