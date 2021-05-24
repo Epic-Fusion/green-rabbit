@@ -67,7 +67,7 @@ sections:
           intelligente, phasenweise Cloud-Enablement Strategie und reduzieren
           damit Komplexität bei gleichen Ressourcen.
         actions:
-          - label: lorem-ipsum
+          - label: Zyklus starten
             url: '#'
             style: link
             icon: dribbble
