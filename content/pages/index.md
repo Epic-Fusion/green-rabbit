@@ -32,7 +32,7 @@ sections:
         actions:
           - label: Jetzt starten
             url: '#'
-            style: icon
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
