@@ -42,7 +42,7 @@
             },
             {
                 "label": "Angebot",
-                "url": "#",
+                "url": "/angebot",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
