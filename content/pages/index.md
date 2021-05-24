@@ -71,7 +71,14 @@ sections:
         content: >
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
           volles Potenzial mit ihrem Team aktivieren können.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
   - title: Unser Angebot
