@@ -13,6 +13,15 @@
                 "style": "link"
             },
             {
+                "label": "Angebot",
+                "url": "/angebot",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Style Guide",
                 "url": "/style-guide/",
                 "style": "link"
@@ -35,15 +44,6 @@
                 "label": "Kontakt",
                 "url": "/kontakt",
                 "style": "button",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Angebot",
-                "url": "/angebot",
-                "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false,
