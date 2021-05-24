@@ -114,7 +114,14 @@ sections:
           um Raum für neue Ideen und echte Transformation zu ermöglichen. Mit
           ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
           integrale Lösungen.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
   - section_id: latest-posts
