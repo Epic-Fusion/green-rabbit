@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-hide_title: true
+hide_title: false
 sections:
   - title: Kontakt
     section_id: lorem-ipsum
