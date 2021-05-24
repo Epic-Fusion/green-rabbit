@@ -31,13 +31,8 @@
                 "type": "action"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Kontakt",
-                "url": "/kontakt",
+                "label": "Werte",
+                "url": "/werte",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
@@ -45,8 +40,13 @@
                 "type": "action"
             },
             {
-                "label": "Werte",
-                "url": "/werte",
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/kontakt",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
