@@ -44,7 +44,7 @@ sections:
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
           der Organisation, in Projekten, mit den Menschen.
         actions:
-          - label: lorem-ipsum
+          - label: Commit to Agility
             url: '#'
             style: link
             icon: dribbble
