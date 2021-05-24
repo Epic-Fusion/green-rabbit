@@ -58,7 +58,7 @@ sections:
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
           Mitarbeitenden um. Für alle, von überall, jederzeit.
         actions:
-          - label: lorem-ipsum
+          - label: Modernize
             url: '#'
             style: link
             icon: dribbble
