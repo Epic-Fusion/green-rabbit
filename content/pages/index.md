@@ -69,7 +69,7 @@ sections:
         actions:
           - label: Zyklus starten
             url: '#'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
