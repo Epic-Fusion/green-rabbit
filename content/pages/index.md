@@ -93,7 +93,7 @@ sections:
           Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
           Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
           intelligente, phasenweise Cloud-Enablement Strategie und reduzieren
-          damit Komplexität und Kosten.
+          damit Komplexität bei gleichen Ressourcen.
         actions: []
         type: grid_item
       - title: Agile Arbeitsformen
