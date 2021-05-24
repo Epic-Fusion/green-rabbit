@@ -43,7 +43,14 @@ sections:
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
           der Organisation, in Projekten, mit den Menschen.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
