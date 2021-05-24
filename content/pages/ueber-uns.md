@@ -2,7 +2,7 @@
 title: Wir Epic Fusion
 hide_title: false
 sections:
-  - title: Wir Epic Fusion
+  - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
