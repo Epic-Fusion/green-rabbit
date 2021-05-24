@@ -52,7 +52,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Arbeitsplatz
+      - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
         content: >
           Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
