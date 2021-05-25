@@ -80,8 +80,8 @@ sections:
         content: >
           Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
           ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
-          langfristig zu stärken. Ein gemeinsames Team steht dabei jederzeit im
-          Mittelpunkt.
+          langfristig zu stärken. Wir decken Projektmethodik nach Scrum oder
+          Kanban, wie auch selbstorganisierte Teams ab. 
         actions:
           - label: Vision etablieren
             url: '#'
