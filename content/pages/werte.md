@@ -90,7 +90,7 @@ sections:
 
       <tr>
 
-      <th>Sinn über Profit\</th>
+      <th>Purpose over Profits</th>
 
       </tr>
 
