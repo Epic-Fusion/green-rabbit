@@ -53,12 +53,20 @@ sections:
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
       ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
       langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
       selbstorganisierte Teams.
 
+
+      *   Trainings und Kickstarter Workshops zu Agilität
+
+
+      *   Starter und Begleitung mit Kanban oder Scrum
+
+
+      *   Selbstorganisierte Teams und Arbeitsformen
     type: section_content
   - title: Employee Experience & Wellbeeing
     section_id: lorem-ipsum
