@@ -71,7 +71,7 @@ sections:
       auf der Welt. Wir arbeiten täglich daran, mehr Menschen diese
       Möglichkeiten zu geben und der Gemeinschaft etwas zurückzugeben.
     type: section_content
-  - title: lorem-ipsum
+  - title: Prinzipien
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
