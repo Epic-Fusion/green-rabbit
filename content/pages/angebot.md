@@ -33,7 +33,6 @@ sections:
     type: section_content
   - title: Employee Experience
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
