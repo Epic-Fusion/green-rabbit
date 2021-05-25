@@ -82,41 +82,41 @@ sections:
       ### Test
 
 
-      \<table>
+      <table>
 
-      \<caption>Table with thead, tfoot, and tbody\</caption>
+      <caption>Table with thead, tfoot, and tbody\</caption>
 
-      \<thead>
+      <thead>
 
-      \<tr>
+      <tr>
 
-      \<th>Sinn über Profit\</th>
+      <th>Sinn über Profit\</th>
 
-      \</tr>
+      </tr>
 
-      \</thead>
+      </thead>
 
-      \<tbody>
+      <tbody>
 
-      \<tr>
+      <tr>
 
-      \<td>Wir über Ich\</td>
+      <td>Wir über Ich\</td>
 
-      \</tr>
+      </tr>
 
-      \</tbody>
+      </tbody>
 
-      \<tfoot>
+      <tfoot>
 
-      \<tr>
+      <tr>
 
-      \<td>Vertrauen über Kontrolle\</td>
+      <td>Vertrauen über Kontrolle\</td>
 
-      \</tr>
+      </tr>
 
-      \</tfoot>
+      </tfoot>
 
-      \</table>
+      </table>
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
