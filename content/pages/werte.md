@@ -74,15 +74,27 @@ sections:
   - title: Prinzipien
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
-      unserer Entscheide einfliessen.
+      unserer Entscheide einfliessen. Wir handeln nach:
 
 
+      **Purpose** over Profits
 
 
-      \[ hier die Liste ]
+      **We** over Me
 
+
+      **Trust** over Control
+
+
+      **Learn-It** over Know-It
+
+
+      **Experiment** over Certainity
+
+
+      **Transparency** over Obscurity
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
