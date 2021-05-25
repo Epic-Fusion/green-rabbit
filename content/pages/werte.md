@@ -79,7 +79,22 @@ sections:
       unserer Entscheide einfliessen. Wir handeln nach:
 
 
+      **Purpose **over Profits
 
+
+      **We **over Me
+
+
+      **Trust **over Control
+
+
+      **Learn-It** over Know-It
+
+
+      **Experiment **over Certainity
+
+
+      **Transparency **over Obscurity
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
