@@ -84,12 +84,10 @@ sections:
       *   Strategien zur Kommunikation und Insiders-Programmen
 
 
-      *   Trainings-Konzepte und Durchführung individueller
-      Ausbildungsprogrammen
+      *   Trainings-Konzepte und individuelle Ausbildungsprogramme
 
 
-      *   Portallösungen um Mitarbeitende an einem Kommunikationspunkt zu
-      verbinden
+      *   Portallösungen um über einen modernen Kommunikationspunkt zu verbinden
 
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
