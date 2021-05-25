@@ -74,9 +74,15 @@ sections:
   - title: Prinzipien
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
-      unserer Entscheide einfliessen. 
+      unserer Entscheide einfliessen.
+
+
+
+
+      \[ hier die Liste ]
+
     type: section_content
 seo:
   title: ''
