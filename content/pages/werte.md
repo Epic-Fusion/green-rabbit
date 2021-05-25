@@ -80,35 +80,6 @@ sections:
 
 
 
-<table>
-  <thead>
-    <tr>
-      <th>Purpose over Profits</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>We over Me</td>
-    </tr>
-    <tr>
-        <td>Trust over Control</td>
-    </tr>
-    <tr>
-        <td>Learn-It over Know-It</td>
-    </tr>
-    <tr>
-        <td>Experiment over Certainity</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Transparency over Obscurity</td>
-    </tr>
-  </tfoot>
-</table>
-
-
-
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
