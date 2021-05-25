@@ -76,12 +76,25 @@ sections:
     image_alt: lorem-ipsum
     content: >+
       Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
-      unserer Entscheide einfliessen.
+      unserer Entscheide einfliessen. Wir handeln nach .. 
 
 
+      ###### Sinn über Profit
 
 
-      \[ hier die Liste ]
+      ###### Wir über Ich
+
+
+      ###### Vertrauen über Kontrolle
+
+
+      ###### Lernen über Wissen
+
+
+      ###### Experiment über Gewissheit
+
+
+      ###### Transparenz über Unsichtbar
 
     type: section_content
   - title: Interessiert?
