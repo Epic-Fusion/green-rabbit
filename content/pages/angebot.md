@@ -14,17 +14,12 @@ sections:
   - title: Cloud-Smart Strategie
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
+      Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine intelligente,
+      phasenweise Cloud-Enablement Strategie und reduzieren damit Komplexität
+      bei gleichen Ressourcen.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: section_content
 seo:
   title: ''
