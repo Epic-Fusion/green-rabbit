@@ -14,12 +14,26 @@ sections:
   - title: Cloud-Smart Strategie
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-      Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine intelligente,
-      phasenweise Cloud-Enablement Strategie und reduzieren damit Komplexität
-      bei gleichen Ressourcen.
+      Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
+      intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
+      Komplexität bei gleichen Ressourcen.
 
+
+      *   Strategie und Roadmap
+
+
+      *   Modern Workplace Rollout und Operations
+
+
+      *   Cloud Security Setup und Operations
+
+
+      *   Windows 10 und Mobile Device Management
+
+
+      *   Cloud Infrastruktur Assessments
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
