@@ -71,7 +71,7 @@ sections:
 
       *   Agiles Risiko Management
     type: section_content
-  - title: Employee Experience & Wellbeeing
+  - title: Employee Experience und Trainings
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
