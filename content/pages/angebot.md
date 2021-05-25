@@ -31,7 +31,7 @@ sections:
       selbstorganisierte Teams.
 
     type: section_content
-  - title: Employee Experience
+  - title: Employee Experience & Wellbeeing
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
