@@ -74,12 +74,25 @@ sections:
   - title: Employee Experience & Wellbeeing
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben.
+      lieben. Wir unterstützen mit:
 
+
+      *   Strategien zur Kommunikation und Insiders-Programmen
+
+
+      *   Trainings-Konzepte und Durchführung individueller
+      Ausbildungsprogrammen
+
+
+      *   Portallösungen um Mitarbeitende an einem Kommunikationspunkt zu
+      verbinden
+
+
+      *   Die Grundlagen für eine lebendige Kultur schaffen
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
