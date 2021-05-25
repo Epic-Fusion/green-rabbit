@@ -7,9 +7,9 @@ sections:
     image_alt: lorem-ipsum
     content: >
       Wir fokussieren uns im Bereich technischer Lösungen auf das Angebot von
-      Microsoft 365 & Azure und sind mit unserem Knowhow als Partner
+      Microsoft 365 und Azure und sind mit unserem Knowhow als Partner
       qualifiziert. Über unser Partnerökosystem können wir das gesamte Spektrum
-      der M365 & Azure Cloud-Services auf höchstem Niveau abdecken.
+      der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: lorem-ipsum
@@ -74,12 +74,23 @@ sections:
   - title: Employee Experience & Wellbeeing
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben.
+      lieben. Wir unterstützen mit:
 
+
+      *   Strategien zur Kommunikation und Insiders-Programmen
+
+
+      *   Trainings-Konzepte und individuelle Ausbildungsprogramme
+
+
+      *   Portallösungen um über einen modernen Kommunikationspunkt zu verbinden
+
+
+      *   Die Grundlagen für eine lebendige Kultur schaffen
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
