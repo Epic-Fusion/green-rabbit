@@ -83,7 +83,6 @@ sections:
   <thead>
     <tr>
       <th>Purpose over Profits</th>
-      <th>Header content 2</th>
     </tr>
   </thead>
   <tbody>
