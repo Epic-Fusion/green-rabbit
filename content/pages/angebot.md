@@ -21,7 +21,7 @@ sections:
       bei gleichen Ressourcen.
 
     type: section_content
-  - title: lorem-ipsum
+  - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
