@@ -75,7 +75,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Agile Arbeitsformen
+      - title: Agile Arbeitsweisen
         image_alt: lorem-ipsum
         content: >
           Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
