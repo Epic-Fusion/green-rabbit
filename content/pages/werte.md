@@ -2,7 +2,7 @@
 title: Unsere Werte und Prinzipien
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: Wozu wir uns verpflichten
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
