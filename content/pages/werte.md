@@ -111,7 +111,7 @@ sections:
       </tr>
             <tr>
 
-      <td>We over Me</td>
+      <td>Learn-It over Know-It</td>
 
       </tr>
 
