@@ -2,7 +2,7 @@
 title: Unser Angebot
 hide_title: false
 sections:
-  - title: Microsoft Gold Partner
+  - title: Microsoft Partner
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
