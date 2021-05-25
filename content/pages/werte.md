@@ -90,6 +90,18 @@ sections:
       <td>We over Me</td>
       <td>Body content 2</td>
     </tr>
+    <tr>
+        <td>Trust over Control</td>
+    </tr>
+    <tr>
+        <td>Learn-It over Know-It</td>
+    </tr>
+    <tr>
+        <td>Experiment over Certainity</td>
+    </tr>
+    <tr>
+        <td>Transparency over Obscurity</td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
