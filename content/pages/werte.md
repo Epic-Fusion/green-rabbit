@@ -79,8 +79,6 @@ sections:
       unserer Entscheide einfliessen. Wir handeln nach:
 
 
-      ### Test
-
 <table>
   <thead>
     <tr>
