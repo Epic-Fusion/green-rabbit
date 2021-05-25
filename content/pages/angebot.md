@@ -11,6 +11,22 @@ sections:
       Mit unseren Partnern können wir das gesamte Spektrum der M365
       Cloud-Services auf höchstem Niveau abdecken. 
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
 seo:
   title: ''
   description: ''
