@@ -104,7 +104,7 @@ sections:
 
       </tr>
 
-            <tr>
+    <tr>
 
       <td>Trust over Control</td>
 
