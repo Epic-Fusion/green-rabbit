@@ -88,7 +88,6 @@ sections:
   <tbody>
     <tr>
       <td>We over Me</td>
-      <td>Body content 2</td>
     </tr>
     <tr>
         <td>Trust over Control</td>
