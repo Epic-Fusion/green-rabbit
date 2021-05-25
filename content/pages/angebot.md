@@ -24,17 +24,12 @@ sections:
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
+      ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
+      langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
+      selbstorganisierte Teams.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: section_content
 seo:
   title: ''
