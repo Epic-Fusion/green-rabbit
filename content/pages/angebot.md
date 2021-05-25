@@ -11,7 +11,7 @@ sections:
       Mit unseren Partnern können wir das gesamte Spektrum der M365
       Cloud-Services auf höchstem Niveau abdecken. 
     type: section_content
-  - title: lorem-ipsum
+  - title: Cloud-Smart Strategie
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
