@@ -87,7 +87,7 @@ sections:
   </thead>
   <tbody>
     <tr>
-      <td>Body content 1</td>
+      <td>We over Me</td>
       <td>Body content 2</td>
     </tr>
   </tbody>
