@@ -90,7 +90,7 @@ sections:
       Kannst Du Dich mit unseren Werten und Prinzipien besonders identifizieren?
       Melde Dich! 
     actions:
-      - label: lorem-ipsum
+      - label: Abenteuer starten
         url: '#'
         style: button
         icon: dribbble
