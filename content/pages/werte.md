@@ -110,7 +110,7 @@ sections:
 
       <tr>
 
-      <td>Vertrauen über Kontrolle\</td>
+      <td>Transparency over Obscurity</td>
 
       </tr>
 
