@@ -44,17 +44,12 @@ sections:
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse, um
+      Raum für neue Ideen und echte Transformation zu ermöglichen. Mit
+      ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und integrale
+      Lösungen.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: section_content
 seo:
   title: ''
