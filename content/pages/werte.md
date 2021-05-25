@@ -100,7 +100,7 @@ sections:
 
       <tr>
 
-      <td>Wir über Ich\</td>
+      <td>We over Me</td>
 
       </tr>
 
