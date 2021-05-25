@@ -98,13 +98,10 @@ sections:
     <tr>
         <td>Experiment over Certainity</td>
     </tr>
-    <tr>
-        <td>Transparency over Obscurity</td>
-    </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td>Footer content 1</td>
+      <td>Transparency over Obscurity</td>
     </tr>
   </tfoot>
 </table>
