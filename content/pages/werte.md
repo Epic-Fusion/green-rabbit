@@ -84,7 +84,7 @@ sections:
       \[ hier die Liste ]
 
     type: section_content
-  - title: lorem-ipsum
+  - title: Interessiert?
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
