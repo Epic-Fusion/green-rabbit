@@ -82,7 +82,7 @@ sections:
 <table>
   <thead>
     <tr>
-      <th>Header content 1</th>
+      <th>Purpose over Profits</th>
       <th>Header content 2</th>
     </tr>
   </thead>
