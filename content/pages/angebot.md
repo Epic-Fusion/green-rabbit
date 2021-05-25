@@ -66,7 +66,10 @@ sections:
       *   Starter und Begleitung mit Kanban oder Scrum
 
 
-      *   Selbstorganisierte Teams und Arbeitsformen
+      *   Transformation vom Projektleiter zum Facilitator
+
+
+      *   Agiles Risiko Management
     type: section_content
   - title: Employee Experience & Wellbeeing
     section_id: lorem-ipsum
