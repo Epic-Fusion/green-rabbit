@@ -79,22 +79,22 @@ sections:
       unserer Entscheide einfliessen. Wir handeln nach:
 
 
-      *   **Sinn **über Profit
+      *   Sinn über Profit
 
 
-      *   **Wir **über Ich
+      *   Wir über Ich
 
 
-      *   **Vertrauen **über Kontrolle
+      *   Vertrauen über Kontrolle
 
 
-      *   **Lernen **über Wissen
+      *   Lernen über Wissen
 
 
-      *   **Experiment **über Gewissheit
+      *   Experiment über Gewissheit
 
 
-      *   **Transparenz **über Verschlossenheit
+      *   Transparenz über Verschlossenheit
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
