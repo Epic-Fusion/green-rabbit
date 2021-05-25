@@ -12,7 +12,7 @@ sections:
       Gleichstellung und Diversität bilden einen festen Grundwert unserer
       Organisation. Wir bilden und fördern ein vielfältiges Team mit Menschen
       von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in all unseren
-      Interaktionen fördern wir gezielt die Integration.
+      Interaktionen fördern wir gezielt die Integration. 
 
 
       #### Gemeinschaft
@@ -34,9 +34,14 @@ sections:
       leben das Motto "Do it with passion or not at all".
 
 
-      #### Learn-it-All
+      #### Tägliches Lernen
 
 
+      Wir schaffen aktiv Raum für eine "Learn-it-All" Kultur. Wir glauben, dass
+      Talente und Fähigkeiten durch gezieltes Lernen und Ausdauer stark
+      entwickelt werden können. Wir sind uns bewusst, dass wir dazu fortlaufend
+      den Status Quo in Frage stellen, um uns kontinuierlich zu verbessern und
+      so ein langfristiges, nachhaltiges Wachstum erzielen.
 
 
       #### Evolutionärer Sinn
@@ -55,7 +60,7 @@ sections:
       Ideen, auch wenn kontrovers, neue Erkenntnisse ermöglichen. Wir leben die
       Philosophie "Strong opinions, weakly held". Wir geben uns jederzeit
       empathisches Feedback um zu lernen, zu wachsen und unseren Charakter zu
-      stärken. Wir übernehmen immer Verantwortung für unser Handeln. 
+      stärken. Wir übernehmen immer Verantwortung für unser Handeln.
 
 
       #### Dankbarkeit
