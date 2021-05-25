@@ -12,7 +12,7 @@ sections:
       Gleichstellung und Diversität bilden einen festen Grundwert unserer
       Organisation. Wir bilden und fördern ein vielfältiges Team mit Menschen
       von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in all unseren
-      Interaktionen fördern wir gezielt die Integration. 
+      Interaktionen fördern wir gezielt die Integration.
 
 
       #### Gemeinschaft
@@ -53,7 +53,7 @@ sections:
       daran zu wachsen und uns vorwärts zu bringen.
 
 
-      #### Menschenkenntnisse
+      #### Menschlichkeit
 
 
       Wir wissen, dass uns Meinungsverschiedenheiten und der Austausch von
@@ -74,10 +74,30 @@ sections:
   - title: Prinzipien
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
-      unserer Entscheide einfliessen. 
+      unserer Entscheide einfliessen.
+
+
+
+
+      \[ hier die Liste ]
+
     type: section_content
+  - title: Interessiert?
+    section_id: lorem-ipsum
+    content: >
+      Kannst Du Dich mit unseren Werten und Prinzipien besonders identifizieren?
+      Melde Dich! 
+    actions:
+      - label: Koffer packen
+        url: '#'
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_hero
 seo:
   title: ''
   description: ''
