@@ -78,6 +78,8 @@ sections:
       Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
       unserer Entscheide einfliessen. Wir handeln nach:
 
+
+
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
