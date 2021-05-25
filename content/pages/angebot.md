@@ -21,7 +21,7 @@ sections:
       Komplexität bei gleichen Ressourcen.
 
 
-      #### Microsoft 365 Infrastruktur
+      ##### Microsoft 365 Infrastruktur
 
 
       *   Strategie und Roadmap
@@ -37,6 +37,18 @@ sections:
 
 
       *   Cloud Infrastruktur Assessments
+
+
+      ##### Produktivität und Teamwork
+
+
+      *   Microsoft Teams
+
+
+      *   SharePoint, Portallösungen und Dokumente
+
+
+      *   Data, PowerBi, PowerApps
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
