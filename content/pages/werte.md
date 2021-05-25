@@ -106,7 +106,7 @@ sections:
 
             <tr>
 
-      <td>We over Me</td>
+      <td>Trust over Control</td>
 
       </tr>
 
