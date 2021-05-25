@@ -80,8 +80,8 @@ sections:
         content: >
           Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
           ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
-          langfristig zu stärken. Wir decken Projektmethodik nach Scrum oder
-          Kanban, wie auch selbstorganisierte Teams ab. 
+          langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban,
+          oder selbstorganisierte Teams.
         actions:
           - label: Vision etablieren
             url: '#'
