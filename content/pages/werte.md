@@ -74,48 +74,46 @@ sections:
   - title: Prinzipien
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
       unserer Entscheide einfliessen. Wir handeln nach:
 
 
-      *   Sinn über Profit
-
-
-      *   Wir über Ich
-
-
-      *   Vertrauen über Kontrolle
-
-
-      *   Lernen über Wissen
-
-
-      *   Experiment über Gewissheit
-
-
-      *   Transparenz über Verschlossenheit
-
-
       \<table>
-          \<caption>Table with thead, tfoot, and tbody\</caption>
-        \<thead>
-          \<tr>
-            \<th>Sinn über Profit\</th>
-          \</tr>
-        \</thead>
-        \<tbody>
-          \<tr>
-            \<td>Wir über Ich\</td>
-          \</tr>
-        \</tbody>
-        \<tfoot>
-          \<tr>
-            \<td>Vertrauen über Kontrolle\</td>
-          \</tr>
-        \</tfoot>
-      \</table>
 
+      \<caption>Table with thead, tfoot, and tbody\</caption>
+
+      \<thead>
+
+      \<tr>
+
+      \<th>Sinn über Profit\</th>
+
+      \</tr>
+
+      \</thead>
+
+      \<tbody>
+
+      \<tr>
+
+      \<td>Wir über Ich\</td>
+
+      \</tr>
+
+      \</tbody>
+
+      \<tfoot>
+
+      \<tr>
+
+      \<td>Vertrauen über Kontrolle\</td>
+
+      \</tr>
+
+      \</tfoot>
+
+      \</table>
     type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
