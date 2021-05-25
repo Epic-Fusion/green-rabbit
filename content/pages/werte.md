@@ -12,7 +12,7 @@ sections:
       Gleichstellung und Diversität bilden einen festen Grundwert unserer
       Organisation. Wir bilden und fördern ein vielfältiges Team mit Menschen
       von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in all unseren
-      Interaktionen fördern wir gezielt die Integration. 
+      Interaktionen fördern wir gezielt die Integration.
 
 
       #### Gemeinschaft
@@ -53,7 +53,7 @@ sections:
       daran zu wachsen und uns vorwärts zu bringen.
 
 
-      #### Menschenkenntnisse
+      #### Menschlichkeit
 
 
       Wir wissen, dass uns Meinungsverschiedenheiten und der Austausch von
