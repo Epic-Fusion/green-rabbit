@@ -89,7 +89,14 @@ sections:
     content: >
       Kannst Du Dich mit unseren Werten und Prinzipien besonders identifizieren?
       Melde Dich! 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 seo:
   title: ''
