@@ -31,7 +31,7 @@ sections:
       gewünschte Mitarbeitererfahrung zu ermöglichen.
 
 
-      #### Unsere Werte und Prinzipien
+      ### Unsere Werte und Prinzipien
 
 
       Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
