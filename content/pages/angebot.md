@@ -46,6 +46,8 @@ sections:
 
       *   Begleitung im Übergang zu neuartigen Betriebsmodellen
 
+      *   Technical Change Advisory
+
 
       ##### Work Journey und Teamwork
 
