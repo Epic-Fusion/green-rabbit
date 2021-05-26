@@ -21,10 +21,10 @@ layout: post
 
 Wir gestalten sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch statt eine Softwarelösung im Fokus, um den kulturellen Wandel und die gewünschte Mitarbeitererfahrung zu ermöglichen.
 
-Wir sind kein weiterer Dienstleister für technische Lösungen. 
+Wir sind kein weiterer Dienstleister für technische Lösungen.
 
-> Wir sind leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen. 
->
+> Wir sind leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
 
-Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die Gesellschaft erreichen können.
+Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die Gesellschaft erreichen können. Wir freuen uns, euch auf unserer Reise begrüssen zu dürfen. 
 
+Sanche Baskaran, Andreas Schmerek
