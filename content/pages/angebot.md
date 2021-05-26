@@ -27,13 +27,13 @@ sections:
       *   Strategie und Roadmap
 
 
-      *   Modern Workplace Rollout und Operations
+      *   Modern Workplace
 
 
-      *   Cloud Security Setup und Operations
+      *   Cloud Security
 
 
-      *   Windows 10 und Mobile Device Management
+      <!---->
 
 
       *   Cloud Infrastruktur Assessments
