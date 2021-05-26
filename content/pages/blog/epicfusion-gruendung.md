@@ -25,6 +25,6 @@ Wir sind kein weiterer Dienstleister für technische Lösungen.
 
 > Wir sind leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
 
-Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die Gesellschaft erreichen können. Wir freuen uns, euch auf unserer Reise begrüssen zu dürfen. 
+Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die Gesellschaft erreichen können. Unsere Reise startet heute und wir freuen uns auf alle Menschen, denen wir in diesem Abenteuer begegnen werden. 
 
-Sanche Baskaran, Andreas Schmerek
+Im Mai 2021, Sanche Baskaran & Andreas Schmerek
