@@ -18,10 +18,10 @@ sections:
       Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
       Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
       intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
-      Komplexität bei gleichen Ressourcen.
+      die Komplexität Ihrer Transformationsvorhaben.
 
 
-      ##### Microsoft 365 Infrastruktur
+      ##### Microsoft 365 und Azure Infrastruktur
 
 
       *   Strategie und Roadmap
@@ -42,19 +42,22 @@ sections:
       ##### Microsoft 365 Trusted Advisor
 
 
-      *   hier
+      *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
+
+      *   Begleitung im Übergang zu neuartigen Betriebsmodellen
 
 
       ##### Produktivität und Teamwork
 
 
-      *   Microsoft Teams
+      *   Kommunikation & Telefonie mit Microsoft Teams
 
 
-      *   SharePoint, Portallösungen und Dokumente
+      *   Potenzial von Kollaborationseffekten nutzen mit SharePoint
 
 
-      *   Data, PowerBi, PowerApps
+      *   Prozesse und Daten nutzen mit Power Automate, Power BI und Data
+      Insights
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
@@ -69,13 +72,13 @@ sections:
       *   Trainings und Kickstarter Workshops zu Agilität
 
 
-      *   Starter und Begleitung mit Kanban oder Scrum
+      *   Starter und Projektcoaching mit Kanban oder Scrum
 
 
       *   Transformation vom Projektleiter zum Facilitator
 
 
-      *   Agiles Risiko Management
+      *   Agiles Risiko Management etablieren
     type: section_content
   - title: Employee Experience und Trainings
     section_id: lorem-ipsum
@@ -93,7 +96,7 @@ sections:
       *   Trainings-Konzepte und individuelle Ausbildungsprogramme
 
 
-      *   Portallösungen um über einen modernen Kommunikationspunkt zu verbinden
+      *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
 
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
