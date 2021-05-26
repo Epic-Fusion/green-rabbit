@@ -24,7 +24,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Veränderung begegnen
+      - title: Veränderungen herausfordern
         image_alt: lorem-ipsum
         content: >
           Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
