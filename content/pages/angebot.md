@@ -21,7 +21,7 @@ sections:
       die Komplexität Ihrer Transformationsvorhaben.
 
 
-      ##### Microsoft 365 Infrastruktur
+      ##### Microsoft 365 und Azure Infrastruktur
 
 
       *   Strategie und Roadmap
