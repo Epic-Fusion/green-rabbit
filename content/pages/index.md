@@ -77,7 +77,7 @@ sections:
           - label: lorem-ipsum
             url: '#'
             style: icon
-            icon: dribbble
+            icon: youtube
             new_window: false
             no_follow: false
             type: action
