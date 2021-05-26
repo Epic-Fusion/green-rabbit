@@ -96,7 +96,7 @@ sections:
       *   Trainings-Konzepte und individuelle Ausbildungsprogramme
 
 
-      *   Portallösungen um über einen modernen Kommunikationspunkt zu verbinden
+      *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
 
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
