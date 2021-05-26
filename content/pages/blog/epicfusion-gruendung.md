@@ -13,7 +13,10 @@ seo:
 layout: post
 image: /images/iStock-901621108-1750px.jpg
 thumb_image: /images/iStock-901621108-850px.jpg
-excerpt: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.'
+excerpt: >-
+  Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Wir
+  katalysieren die digitale Transformation mit Werten, um eine nachhaltige
+  Wirkung zu schaffen. Lesen Sie hier, weshalb..
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
