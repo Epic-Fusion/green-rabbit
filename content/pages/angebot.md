@@ -111,6 +111,9 @@ sections:
       integrale Lösungen auf Basis von Microsoft Azure.
 
 
+      ##### Microsoft Azure, Power Plattform und Power BI
+
+
       *   Beratung für echte digitale Lösungen
 
 
