@@ -72,13 +72,13 @@ sections:
       *   Trainings und Kickstarter Workshops zu Agilität
 
 
-      *   Starter und Begleitung mit Kanban oder Scrum
+      *   Starter und Projektcoaching mit Kanban oder Scrum
 
 
       *   Transformation vom Projektleiter zum Facilitator
 
 
-      *   Agiles Risiko Management
+      *   Agiles Risiko Management etablieren
     type: section_content
   - title: Employee Experience und Trainings
     section_id: lorem-ipsum
