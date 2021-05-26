@@ -27,13 +27,13 @@ sections:
       *   Strategie und Roadmap
 
 
-      *   Modern Workplace Rollout und Operations
+      *   Modern Workplace
 
 
-      *   Cloud Security Setup und Operations
+      *   Cloud Security
 
 
-      *   Windows 10 und Mobile Device Management
+      <!---->
 
 
       *   Cloud Infrastruktur Assessments
@@ -45,6 +45,8 @@ sections:
       *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
 
       *   Begleitung im Übergang zu neuartigen Betriebsmodellen
+
+      *   Technical Change Advisory
 
 
       ##### Work Journey und Teamwork
