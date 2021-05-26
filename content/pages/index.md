@@ -91,7 +91,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Employee Experience
+      - title: Employee Experience und Training
         image_alt: lorem-ipsum
         content: >
           Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
