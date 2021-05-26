@@ -104,12 +104,32 @@ sections:
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
-      Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse, um
-      Raum für neue Ideen und echte Transformation zu ermöglichen. Mit
-      ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und integrale
-      Lösungen.
+    content: >
+      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
+      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
+      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
+      integrale Lösungen auf Basis von Microsoft Azure.
 
+
+      ##### Microsoft Azure, Power Plattform und Power BI
+
+
+      *   Beratung für echte digitale Lösungen
+
+
+      *   Prozessautomatisierung mit Microsoft Power Automate
+
+
+      *   Umsetzungen von Azure Web, Mobile und Logic Apps
+
+
+      *   Workflow Lösungen oder integrale Funktionalitäten mit Azure Functions
+
+
+      *   Business Intelligence Lösungen für Echtzeit Insights und Datenanalysen
+
+
+      *   Datenvisualisierungen mit Microsoft Power BI
     type: section_content
 seo:
   title: ''

@@ -24,14 +24,14 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Veränderung begegnen
+      - title: Veränderungen herausfordern
         image_alt: lorem-ipsum
         content: >
           Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
           einem Mindset der kontinuierlichen Veränderung.
         actions: []
         type: grid_item
-      - title: Agilität ermöglichen
+      - title: Agilität etablieren
         image_alt: lorem-ipsum
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
@@ -45,7 +45,7 @@ sections:
           Mitarbeitenden um. Für alle, von überall, jederzeit.
         actions: []
         type: grid_item
-      - title: Kollektive Intelligenz
+      - title: Kollektives Potenzial entfesseln
         image_alt: lorem-ipsum
         content: >
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
@@ -75,7 +75,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Agile Arbeitsweisen
+      - title: Agile Projekt- und Arbeitsformen
         image_alt: lorem-ipsum
         content: >
           Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
@@ -91,7 +91,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Employee Experience
+      - title: Employee Experience und Training
         image_alt: lorem-ipsum
         content: >
           Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
