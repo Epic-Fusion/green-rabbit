@@ -4,7 +4,6 @@ subtitle: Wie es dazu kam
 date: '2021-05-26'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
@@ -14,6 +13,10 @@ seo:
 layout: post
 image: /images/iStock-901621108-1750px.jpg
 thumb_image: /images/iStock-901621108-850px.jpg
+excerpt: >-
+  Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Wir
+  katalysieren die digitale Transformation mit Werten, um eine nachhaltige
+  Wirkung zu schaffen. Erfahren Sie hier, warum.
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
