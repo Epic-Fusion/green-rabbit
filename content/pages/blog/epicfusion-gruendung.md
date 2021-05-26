@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: /images/iStock-901621108-1750px.jpg
+thumb_image: /images/iStock-901621108-850px.jpg
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
