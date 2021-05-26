@@ -31,7 +31,7 @@ sections:
           einem Mindset der kontinuierlichen Veränderung.
         actions: []
         type: grid_item
-      - title: Agilität ermöglichen
+      - title: Agilität etablieren
         image_alt: lorem-ipsum
         content: >
           Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
