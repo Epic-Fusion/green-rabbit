@@ -45,7 +45,7 @@ sections:
           Mitarbeitenden um. Für alle, von überall, jederzeit.
         actions: []
         type: grid_item
-      - title: Kollektives Potenzial nutzen
+      - title: Kollektives Potenzial entfesseln
         image_alt: lorem-ipsum
         content: >
           Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
