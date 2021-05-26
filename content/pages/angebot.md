@@ -47,17 +47,13 @@ sections:
       *   Begleitung im Übergang zu neuartigen Betriebsmodellen
 
 
-      ##### Produktivität und Teamwork
+      ##### Work Journey und Teamwork
 
 
       *   Kommunikation & Telefonie mit Microsoft Teams
 
 
-      *   Potenzial von Kollaborationseffekten nutzen mit SharePoint
-
-
-      *   Prozesse und Daten nutzen mit Power Automate, Power BI und Data
-      Insights
+      *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
