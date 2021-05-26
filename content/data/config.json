@@ -56,7 +56,7 @@
             {
                 "label": "EN",
                 "url": "#",
-                "style": "icon",
+                "style": "link",
                 "icon": "linkedin",
                 "new_window": false,
                 "no_follow": false,
