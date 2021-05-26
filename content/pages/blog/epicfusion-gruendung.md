@@ -4,7 +4,6 @@ subtitle: Wie es dazu kam
 date: '2021-05-26'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
