@@ -147,7 +147,7 @@ seo:
       value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/unique-mustard.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
