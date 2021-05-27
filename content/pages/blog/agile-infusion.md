@@ -1,6 +1,6 @@
 ---
 title: Agile InFusion
-date: '2021-05-27'
+date: '2021-05-24'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
