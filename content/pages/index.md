@@ -141,23 +141,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Epic Fusion GmbH - Mindset is everything.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/unique-mustard.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Epic Fusion GmbH - Mindset is everything.
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/epic-fusion-bg-800.jpg
       relativeUrl: true
 layout: advanced
 ---
