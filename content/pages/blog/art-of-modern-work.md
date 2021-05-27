@@ -1,9 +1,12 @@
 ---
-title: Die Kunst des modernen Arbeitens
-date: '2021-05-27'
+title: Die Kunst der Modern Work
+date: '2021-06-02'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Technologie, Gesellschaft und Organisationen haben sich in den letzten Jahren
+  immer schneller verändert - und damit auch die Art, wie wir arbeiten. Wir
+  zeigen, wie darauf reagiert werden kann.
 seo:
   title: ''
   description: ''
@@ -11,6 +14,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/ArtofModernWorkIdea-850.jpg
+image: /images/ArtofModernWorkIdea-1750.jpg
 ---
 #### Warum Modern Work?
 
