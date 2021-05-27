@@ -36,14 +36,13 @@ Wir beschränken uns nicht auf Projekte. Unsere agile InFusion eignet sich auch 
 
 Je nach Ausgangslage: Gemeinsam etablieren wir die notwendigen Praktiken für die Herausforderungen der digitalen Arbeit von morgen.
 
-#### Epic Fails zelebrieren! 
+#### Epic Fails zelebrieren!
 
 Und was ist, wenn wir scheitern? Glückwunsch! Dies ist der erste Schritt zum Lernen.
 
-> Wenn Sie nur eine agile Praxis einführen, lassen Sie es Retrospektiven sein. Alles andere wird folgen.
+> Müssten wir uns auf nur eine agile Praxis reduzieren, so sollten wir Retrospektiven wählen. Alles andere folgt.
 
-Wir können nicht alles wissen. Aber wir können jeden Tag lernen. Agile Methoden können nicht besser in die Zukunft sehen als andere. Aber wir können mit dem Instrumentarium agiler Arbeitsmethoden schneller reagieren, reflektieren und lernen. Und wir haben die Prozesse, um Verbesserungen, die sich aus dem Gelernten entwickeln, sofort umzusetzen.
+Wir können nicht alles wissen. Aber wir können jeden Tag lernen. Agile Methoden können nicht besser in die Zukunft sehen als andere. Aber wir können mit den Instrumenten agiler Arbeitspraktiken schneller reagieren, reflektieren und lernen. Und wir haben die Prozesse, um Verbesserungen, die sich aus dem Gelernten entwickeln, sofort umzusetzen.
 
 Epic Fusion hat sich voll und ganz der Agilität verschrieben. Unsere eigenen Werte und Prinzipien, die wir gebildet haben, leiten sich davon ab.
 
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
