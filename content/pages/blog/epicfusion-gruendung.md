@@ -24,7 +24,7 @@ excerpt: >-
 
 > Epic Fusion wurde gegründet, um Organisation im Zyklus dieser neuen, sich kontinuierlich verändernden Arbeitswelt zu begleiten.
 
-Wir gestalten sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch statt eine Softwarelösung im Fokus, um den kulturellen Wandel und die gewünschte Mitarbeitererfahrung zu ermöglichen.
+Wir gestalten sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch vor der Softwarelösung im Fokus, um dem kulturellen Wandel mit der dazugehörigen Mitarbeitererfahrung erfolgreich zu begegnen.
 
 Wir sind kein weiterer Dienstleister für technische Lösungen.
 
