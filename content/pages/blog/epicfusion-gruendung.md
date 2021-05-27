@@ -1,5 +1,5 @@
 ---
-title: '"Eine epische Fusion geschah.."'
+title: Unser Urknall!
 subtitle: Wie es dazu kam
 date: '2021-05-26'
 thumb_image_alt: lorem-ipsum
