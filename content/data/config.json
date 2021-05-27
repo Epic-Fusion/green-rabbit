@@ -49,7 +49,7 @@
                 "type": "action"
             },
             {
-                "label": "[ English ]",
+                "label": "EN",
                 "url": "#",
                 "style": "link",
                 "icon": "linkedin",
@@ -64,13 +64,6 @@
         "content": "&copy; Epic Fusion GmbH. Alle Rechte vorbehalten.",
         "has_social": true,
         "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/company/epic-fusion",
