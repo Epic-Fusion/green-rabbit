@@ -28,7 +28,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Mit digitalen Strategien reichern wir die Organisationskultur mit
-          einem Mindset der permanenten Veränderung an.
+          einem Mindset der kontinuierlichen Veränderung an.
         actions: []
         type: grid_item
       - title: Agilität etablieren
