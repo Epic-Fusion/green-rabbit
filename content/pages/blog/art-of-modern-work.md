@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Die Kunst des modernen Arbeitens
 subtitle: lorem-ipsum
 date: '2021-05-27'
 thumb_image_alt: lorem-ipsum
