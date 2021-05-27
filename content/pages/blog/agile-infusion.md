@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/iStock-1169417154-850px.jpg
+image: /images/panoramic-ant.jpg
 ---
 #### Warum ein agiles Mindset wichtig ist
 
