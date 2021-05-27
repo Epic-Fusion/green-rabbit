@@ -1,6 +1,6 @@
 ---
 title: Die Kunst der Modern Work
-date: '2021-05-27'
+date: '2021-06-27'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
