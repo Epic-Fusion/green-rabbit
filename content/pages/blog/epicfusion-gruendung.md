@@ -1,6 +1,6 @@
 ---
-title: '"Eine epische Fusion geschah.."'
-subtitle: Wie es dazu kam
+title: Unser Urknall!
+subtitle: Und wie unsere Evolution beginnt..
 date: '2021-05-26'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
@@ -14,9 +14,9 @@ layout: post
 image: /images/iStock-901621108-1750px.jpg
 thumb_image: /images/iStock-901621108-850px.jpg
 excerpt: >-
-  Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Wir
-  katalysieren die digitale Transformation mit Werten, um eine nachhaltige
-  Wirkung zu schaffen. Erfahren Sie hier, warum.
+  Unsere Evolution beginnt! Wir sind da, um Ihre Initiativen fit für die
+  digitale Zukunft zu machen und dem Wandel der Arbeitswelt erfolgreich zu
+  begegnen. Erfahren Sie hier, warum.
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
@@ -24,7 +24,7 @@ excerpt: >-
 
 > Epic Fusion wurde gegründet, um Organisation im Zyklus dieser neuen, sich kontinuierlich verändernden Arbeitswelt zu begleiten.
 
-Wir gestalten sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch statt eine Softwarelösung im Fokus, um den kulturellen Wandel und die gewünschte Mitarbeitererfahrung zu ermöglichen.
+Wir gestalten sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch vor der Softwarelösung im Fokus, um dem kulturellen Wandel mit der dazugehörigen Mitarbeitererfahrung erfolgreich zu begegnen.
 
 Wir sind kein weiterer Dienstleister für technische Lösungen.
 
