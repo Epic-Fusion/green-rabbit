@@ -27,8 +27,8 @@ sections:
       - title: Veränderung herausfordern
         image_alt: lorem-ipsum
         content: >
-          Mit digitalen Strategien verbinden Mensch und Organisations-kultur zu
-          einem Mindset der kontinuierlichen Veränderung.
+          Mit digitalen Strategien verbinden wir Mensch und Organisationskultur
+          zu einem Mindset der kontinuierlichen Veränderung.
         actions: []
         type: grid_item
       - title: Agilität etablieren
