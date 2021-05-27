@@ -14,9 +14,9 @@ layout: post
 image: /images/iStock-901621108-1750px.jpg
 thumb_image: /images/iStock-901621108-850px.jpg
 excerpt: >-
-  Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Wir
-  katalysieren die digitale Transformation mit Werten, um eine nachhaltige
-  Wirkung zu schaffen. Erfahren Sie hier, warum.
+  Unsere Evolution beginnt! Wir sind da, um Ihre Initiativen fit für die
+  digitale Zukunft zu machen und dem Wandel der Arbeitswelt erfolgreich zu
+  begegnen. Erfahren Sie hier, warum.
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
