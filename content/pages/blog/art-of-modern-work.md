@@ -5,8 +5,8 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Technologie, Gesellschaft und Organisationen haben sich in den letzten Jahren
-  immer schneller verändert - und damit auch die Art, wie wir arbeiten. Auf
-  diese Veränderungen müssen wir zukunftssicher reagieren. Ab heute.
+  immer schneller verändert - und damit auch die Art, wie wir arbeiten. Wir
+  zeigen, wie darauf reagiert werden kann.
 seo:
   title: ''
   description: ''
