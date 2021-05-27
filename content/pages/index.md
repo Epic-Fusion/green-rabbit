@@ -155,7 +155,7 @@ seo:
     - name: 'twitter:title'
       value: Epic Fusion GmbH - Mindset is everything.
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
     - name: 'twitter:image'
       value: /_static/app-assets/images/epic-fusion-bg-800.jpg
       relativeUrl: true
