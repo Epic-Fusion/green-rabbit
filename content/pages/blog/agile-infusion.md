@@ -3,7 +3,10 @@ title: Agile InFusion
 date: '2021-05-27'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Agile Methoden sind sehr vielfältig und doch basieren sie alle auf einem
+  gemeinsamen Fundament. Mit unserer agilen InFusion bilden wir die Basis für
+  agile Arbeitsweisen in Ihrem Unternehmen.
 seo:
   title: ''
   description: ''
