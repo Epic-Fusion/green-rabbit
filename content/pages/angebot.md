@@ -14,12 +14,9 @@ sections:
 
       *   Cloud-Smart Strategie
 
-
       *   Agile Projekt- und Arbeitsformen
 
-
       *   Employee Experience und Trainings
-
 
       *   App- und Prozessmodernisierung
     type: section_content
