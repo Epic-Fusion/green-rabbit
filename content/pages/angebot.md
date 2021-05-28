@@ -62,12 +62,9 @@ sections:
 
       *   Trainings und Kickstarter Workshops zu Agilität
 
-
       *   Starter und Projektcoaching mit Kanban oder Scrum
 
-
       *   Transformation vom Projektleiter zum Facilitator
-
 
       *   Agiles Risiko Management etablieren
     type: section_content
@@ -83,12 +80,9 @@ sections:
 
       *   Strategien zur Kommunikation und Insiders-Programmen
 
-
       *   Trainings-Konzepte und individuelle Ausbildungsprogramme
 
-
       *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
-
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
     type: section_content
@@ -107,18 +101,13 @@ sections:
 
       *   Beratung für echte digitale Lösungen
 
-
       *   Prozessautomatisierung mit Microsoft Power Automate
-
 
       *   Umsetzungen von Azure Web, Mobile und Logic Apps
 
-
       *   Workflow Lösungen oder integrale Funktionalitäten mit Azure Functions
 
-
       *   Business Intelligence Lösungen für Echtzeit Insights und Datenanalysen
-
 
       *   Datenvisualisierungen mit Microsoft Power BI
     type: section_content
