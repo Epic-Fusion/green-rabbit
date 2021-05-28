@@ -26,15 +26,9 @@ sections:
 
       *   Strategie und Roadmap
 
-
       *   Modern Workplace
 
-
       *   Cloud Security
-
-
-      <!---->
-
 
       *   Cloud Infrastruktur Assessments
 
