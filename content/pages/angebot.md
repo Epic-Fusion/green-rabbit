@@ -10,9 +10,22 @@ sections:
       Microsoft 365 und Azure und sind mit unserem Knowhow als Partner
       qualifiziert. Über unser Partnerökosystem können wir das gesamte Spektrum
       der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
+
+
+      *   [Cloud-Smart
+      Strategie](https://green-rabbit-ac387.netlify.app/angebot#cloud-smart)
+
+      *   [Agile Projekt- und
+      Arbeitsformen](https://green-rabbit-ac387.netlify.app/angebot#agile)
+
+      *   [Employee Experience und
+      Trainings](https://green-rabbit-ac387.netlify.app/angebot#employee-experience)
+
+      *   [App- und
+      Prozessmodernisierung](https://green-rabbit-ac387.netlify.app/angebot#modernisierung)
     type: section_content
   - title: Cloud-Smart Strategie
-    section_id: lorem-ipsum
+    section_id: cloud-smart
     image_alt: lorem-ipsum
     content: >
       Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
@@ -49,9 +62,13 @@ sections:
       *   Kommunikation & Telefonie mit Microsoft Teams
 
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
+
+
+      [Neugierig? Jetzt kostenloses Beratungsgespräch
+      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
-    section_id: lorem-ipsum
+    section_id: agile
     image_alt: lorem-ipsum
     content: >
       Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
@@ -67,11 +84,15 @@ sections:
       *   Transformation vom Projektleiter zum Facilitator
 
       *   Agiles Risiko Management etablieren
+
+
+      [Mehr dazu erfahren? Jetzt kostenloses Beratungsgespräch
+      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: Employee Experience und Trainings
-    section_id: lorem-ipsum
+    section_id: employee-experience
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
@@ -85,9 +106,14 @@ sections:
       *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
+
+
+      [Mehr dazu lernen? Jetzt kostenloses Beratungsgespräch
+      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+
     type: section_content
   - title: App- und Prozessmodernisierung
-    section_id: lorem-ipsum
+    section_id: modernisierung
     image_alt: lorem-ipsum
     content: >
       Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
@@ -110,6 +136,10 @@ sections:
       *   Business Intelligence Lösungen für Echtzeit Insights und Datenanalysen
 
       *   Datenvisualisierungen mit Microsoft Power BI
+
+
+      [Potenzial abschätzen? Jetzt kostenloses Beratungsgespräch
+      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
 seo:
   title: ''
