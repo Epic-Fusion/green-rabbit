@@ -10,6 +10,18 @@ sections:
       Microsoft 365 und Azure und sind mit unserem Knowhow als Partner
       qualifiziert. Über unser Partnerökosystem können wir das gesamte Spektrum
       der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
+
+
+      *   Cloud-Smart Strategie
+
+
+      *   Agile Projekt- und Arbeitsformen
+
+
+      *   Employee Experience und Trainings
+
+
+      *   App- und Prozessmodernisierung
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: lorem-ipsum
