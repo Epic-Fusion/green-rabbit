@@ -31,13 +31,23 @@ sections:
       dazugehörigen Mitarbeitererfahrung erfolgreich zu begegnen.
 
 
-      ### Unsere Werte und Prinzipien
+      #### Unsere Werte und Prinzipien
 
 
       Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
       leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
       Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden,
       unsere Partner und die Gesellschaft erreichen können.
+
+
+      #### Unsere Organisation
+
+
+      Gemeinsam lassen wir Epic Fusion als agile, evolutionäre Organisation in
+      die Zukunft wachsen. Wir haben uns verteilter Autorität und kollektive
+      Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
+      wachsen. Wir engagieren uns für den Aufbau der verteilten Zukunft und
+      priorisieren Talent über Lokalität.
     type: section_content
 seo:
   title: ''
