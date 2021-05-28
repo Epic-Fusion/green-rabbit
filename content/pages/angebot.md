@@ -109,7 +109,7 @@ sections:
 
     type: section_content
   - title: App- und Prozessmodernisierung
-    section_id: lorem-ipsum
+    section_id: modernisierung
     image_alt: lorem-ipsum
     content: >
       Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
