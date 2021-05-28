@@ -43,11 +43,11 @@ sections:
       #### Unsere Organisation
 
 
-      Gemeinsam möchten wir Epic Fusion als agile, evolutionäre Organisation in
-      die Zukunft wachsen lassen. Wir haben uns verteilter Autorität und
-      kollektive Intelligenz verpflichtet, um uns jeden einzelnen Tag zu
-      entwickeln und zu wachsen. Wir engagieren uns für den Aufbau der
-      verteilten Zukunft und priorisieren Talent über Lokalität.
+      Gemeinsam lassen wir Epic Fusion als agile, evolutionäre Organisation in
+      die Zukunft wachsen. Wir haben uns verteilter Autorität und kollektive
+      Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
+      wachsen. Wir engagieren uns für den Aufbau der verteilten Zukunft und
+      priorisieren Talent über Lokalität.
 
     type: section_content
 seo:
