@@ -12,13 +12,17 @@ sections:
       der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
 
 
-      *   Cloud-Smart Strategie
+      *   [Cloud-Smart
+      Strategie](https://green-rabbit-ac387.netlify.app/angebot#cloud-smart)
 
-      *   Agile Projekt- und Arbeitsformen
+      *   [Agile Projekt- und
+      Arbeitsformen](https://green-rabbit-ac387.netlify.app/angebot#agile)
 
-      *   Employee Experience und Trainings
+      *   [Employee Experience und
+      Trainings](https://green-rabbit-ac387.netlify.app/angebot#employee-experience)
 
-      *   App- und Prozessmodernisierung
+      *   [App- und
+      Prozessmodernisierung](https://green-rabbit-ac387.netlify.app/angebot#modernisierung)
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
