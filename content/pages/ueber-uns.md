@@ -5,7 +5,7 @@ sections:
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
       Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
       begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
@@ -48,7 +48,6 @@ sections:
       Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
       wachsen. Wir engagieren uns für den Aufbau der verteilten Zukunft und
       priorisieren Talent über Lokalität.
-
     type: section_content
 seo:
   title: ''
