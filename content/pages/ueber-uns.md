@@ -5,7 +5,7 @@ sections:
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
       Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
       begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
@@ -31,13 +31,24 @@ sections:
       dazugehörigen Mitarbeitererfahrung erfolgreich zu begegnen.
 
 
-      ### Unsere Werte und Prinzipien
+      #### Unsere Werte und Prinzipien
 
 
       Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
       leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
       Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden,
       unsere Partner und die Gesellschaft erreichen können.
+
+
+      #### Unsere Organisation
+
+
+      Gemeinsam möchten wir Epic Fusion als agile, evolutionäre Organisation in
+      die Zukunft wachsen lassen. Wir haben uns verteilter Autorität und
+      kollektive Intelligenz verpflichtet, um uns jeden einzelnen Tag zu
+      entwickeln und zu wachsen. Wir engagieren uns für den Aufbau der
+      verteilten Zukunft und priorisieren Talent über Lokalität.
+
     type: section_content
 seo:
   title: ''
