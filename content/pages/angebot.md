@@ -21,7 +21,7 @@ sections:
       *   App- und Prozessmodernisierung
     type: section_content
   - title: Cloud-Smart Strategie
-    section_id: lorem-ipsum
+    section_id: cloud-smart
     image_alt: lorem-ipsum
     content: >
       Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
