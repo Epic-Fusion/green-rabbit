@@ -48,7 +48,6 @@ sections:
 
       *   Kommunikation & Telefonie mit Microsoft Teams
 
-
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
