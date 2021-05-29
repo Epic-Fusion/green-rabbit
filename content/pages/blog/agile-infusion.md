@@ -49,3 +49,4 @@ Wir können nicht alles wissen. Aber wir können jeden Tag lernen. Agile Methode
 
 Epic Fusion hat sich voll und ganz der Agilität verschrieben. Unsere eigenen Werte und Prinzipien, die wir gebildet haben, leiten sich davon ab.
 
+![](/\_static/app-assets/images/Andreas%203.png)

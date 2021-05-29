@@ -33,3 +33,5 @@ Wir sind kein weiterer Dienstleister für technische Lösungen.
 Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die Gesellschaft erreichen können. Unsere Reise startet heute und wir freuen uns auf alle Menschen, denen wir in diesem Abenteuer begegnen werden.
 
 Im Mai 2021, Sanche Baskaran & Andreas Schmerek, Co-Gründer Epic Fusion
+
+![](/\_static/app-assets/images/Sanche3.png)![](/\_static/app-assets/images/Andreas%203.png)
