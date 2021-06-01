@@ -147,7 +147,7 @@ seo:
       value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/unique-mustard.jpg
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -157,7 +157,7 @@ seo:
     - name: 'twitter:description'
       value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
     - name: 'twitter:image'
-      value: /_static/app-assets/images/epic-fusion-bg-800.jpg
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       relativeUrl: true
 layout: advanced
 ---

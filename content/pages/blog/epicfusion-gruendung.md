@@ -34,4 +34,5 @@ Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden, unsere 
 
 Im Mai 2021, Sanche Baskaran & Andreas Schmerek, Co-Gründer Epic Fusion
 
-![](/\_static/app-assets/images/Sanche3.png)![](/\_static/app-assets/images/Andreas%203.png)
+![](/\_static/app-assets/images/Blog-Sanche-min.png)![](/\_static/app-assets/images/Blog-Andreas-min.png)
+
