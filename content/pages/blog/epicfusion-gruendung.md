@@ -11,8 +11,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-image: /images/iStock-901621108-1750px.jpg
-thumb_image: /images/iStock-901621108-850px.jpg
+image: /images/iStock-901621108-1750px-min.jpg
+thumb_image: /images/iStock-901621108-850px-min.jpg
 excerpt: >-
   Unsere Evolution beginnt! Wir sind da, um Ihre Initiativen fit für die
   digitale Zukunft zu machen und dem Wandel der Arbeitswelt erfolgreich zu
