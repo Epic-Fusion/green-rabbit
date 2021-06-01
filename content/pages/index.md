@@ -157,7 +157,7 @@ seo:
     - name: 'twitter:description'
       value: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
     - name: 'twitter:image'
-      value: /_static/app-assets/images/epic-fusion-bg-800.jpg
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       relativeUrl: true
 layout: advanced
 ---
