@@ -14,7 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: /images/ArtofModernWorkIdea-850.jpg
+thumb_image: /images/ArtofModernWorkIdea-850-min.jpg
 image: /images/ArtofModernWorkIdea-1750.jpg
 ---
 #### Warum Modern Work?
