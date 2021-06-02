@@ -13,16 +13,16 @@ sections:
 
 
       *   [Cloud-Smart
-      Strategie](https://green-rabbit-ac387.netlify.app/angebot#cloud-smart)
+      Strategie](https://www.epicfusion.com/angebot#cloud-smart)
 
       *   [Agile Projekt- und
-      Arbeitsformen](https://green-rabbit-ac387.netlify.app/angebot#agile)
+      Arbeitsformen](https://www.epicfusion.com/angebot#agile)
 
       *   [Employee Experience und
-      Trainings](https://green-rabbit-ac387.netlify.app/angebot#employee-experience)
+      Trainings](https://www.epicfusion.com/angebot#employee-experience)
 
       *   [App- und
-      Prozessmodernisierung](https://green-rabbit-ac387.netlify.app/angebot#modernisierung)
+      Prozessmodernisierung](https://www.epicfusion.com/angebot#modernisierung)
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
