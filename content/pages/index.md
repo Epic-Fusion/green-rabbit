@@ -16,7 +16,7 @@ sections:
       Organisationen zu schaffen.
     actions:
       - label: Jetzt mehr erfahren!
-        url: /contact
+        url: /angebot
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
