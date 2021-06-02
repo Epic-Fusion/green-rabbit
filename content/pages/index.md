@@ -100,7 +100,7 @@ sections:
           Mitarbeitende lieben.
         actions:
           - label: Menschen verbinden
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
