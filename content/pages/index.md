@@ -68,7 +68,7 @@ sections:
           damit Komplexität bei gleichen Ressourcen.
         actions:
           - label: Zyklus starten
-            url: 'https:'
+            url: 'https://'
             style: button
             icon: dribbble
             new_window: false
