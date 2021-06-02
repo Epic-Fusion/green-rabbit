@@ -131,7 +131,7 @@ sections:
     col_number: three
     actions:
       - label: Mehr Beiträge
-        url: blog
+        url: /blog
         style: button
 seo:
   title: Epic Fusion GmbH - Mindset is everything.
