@@ -116,7 +116,7 @@ sections:
           integrale Lösungen.
         actions:
           - label: Disruption initieren
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
