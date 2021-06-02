@@ -84,7 +84,7 @@ sections:
           oder selbstorganisierte Teams.
         actions:
           - label: Vision etablieren
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
