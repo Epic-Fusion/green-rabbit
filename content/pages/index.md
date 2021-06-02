@@ -16,7 +16,7 @@ sections:
       Organisationen zu schaffen.
     actions:
       - label: Jetzt mehr erfahren!
-        url: /contact
+        url: /angebot
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
@@ -68,7 +68,7 @@ sections:
           damit Komplexität bei gleichen Ressourcen.
         actions:
           - label: Zyklus starten
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
@@ -84,7 +84,7 @@ sections:
           oder selbstorganisierte Teams.
         actions:
           - label: Vision etablieren
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
@@ -100,7 +100,7 @@ sections:
           Mitarbeitende lieben.
         actions:
           - label: Menschen verbinden
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
@@ -116,7 +116,7 @@ sections:
           integrale Lösungen.
         actions:
           - label: Disruption initieren
-            url: '#'
+            url: /angebot
             style: button
             icon: dribbble
             new_window: false
@@ -131,7 +131,7 @@ sections:
     col_number: three
     actions:
       - label: Mehr Beiträge
-        url: blog
+        url: /blog
         style: button
 seo:
   title: Epic Fusion GmbH - Mindset is everything.
