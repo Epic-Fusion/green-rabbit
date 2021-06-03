@@ -148,7 +148,11 @@ seo:
     Arbeitsformen, Employee Experience und Trainings, App- und
     Prozessmodernierung.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
