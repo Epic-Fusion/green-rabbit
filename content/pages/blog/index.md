@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       relativeUrl: true
 layout: blog
 ---
