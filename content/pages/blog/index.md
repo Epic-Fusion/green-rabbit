@@ -14,7 +14,7 @@ seo:
       value: Blog - Epic Fusion
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'News, Tipps und Highlights aus dem Alltag von Epic Fusion'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
