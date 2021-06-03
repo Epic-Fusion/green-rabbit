@@ -4,7 +4,7 @@ subtitle: 'News, Tipps und Highlights'
 hide_title: false
 col_number: three
 seo:
-  title: Blog
+  title: Blog - Epic Fusion
   description: This is the blog page
   extra:
     - name: 'og:type'
