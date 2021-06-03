@@ -112,7 +112,9 @@ sections:
     type: section_hero
 seo:
   title: Werte und Prinzipien - Epic Fusion
-  description: ''
+  description: >-
+    Wozu wir uns verpflichten: Gleichstellung, Gemeinschaft, Leidenschaft,
+    Tägliches Lernen, Evolutionärer Sinn, Menschlichkeit und Dankbarkeit.
   robots: []
   extra: []
   type: stackbit_page_meta
