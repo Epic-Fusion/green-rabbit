@@ -111,7 +111,7 @@ sections:
         type: action
     type: section_hero
 seo:
-  title: ''
+  title: Werte und Prinzipien - Epic Fusion
   description: ''
   robots: []
   extra: []
