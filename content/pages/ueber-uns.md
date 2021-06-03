@@ -50,7 +50,7 @@ sections:
       priorisieren Talent über Lokalität.
     type: section_content
 seo:
-  title: ''
+  title: Über uns - Epic Fusion
   description: ''
   robots: []
   extra: []
