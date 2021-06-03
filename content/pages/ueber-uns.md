@@ -51,7 +51,7 @@ sections:
     type: section_content
 seo:
   title: Über uns - Epic Fusion
-  description: ''
+  description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
   robots: []
   extra: []
   type: stackbit_page_meta
