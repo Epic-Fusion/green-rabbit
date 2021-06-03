@@ -136,7 +136,7 @@ sections:
       Muri, der 01.05.2021
     type: section_content
 seo:
-  title: ''
+  title: Impressum - Epic Fusion GmbH
   description: ''
   robots: []
   extra: []
