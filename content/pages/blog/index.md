@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Blog - Epic Fusion
-  description: This is the blog page
+  description: 'News, Tipps und Highlights aus dem Alltag von Epic Fusion'
   extra:
     - name: 'og:type'
       value: website
