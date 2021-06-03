@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog - Epic Fusion
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'News, Tipps und Highlights aus dem Alltag von Epic Fusion'
     - name: 'twitter:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       relativeUrl: true
