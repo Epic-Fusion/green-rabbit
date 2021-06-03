@@ -142,10 +142,17 @@ sections:
       vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
 seo:
-  title: ''
-  description: ''
+  title: Angebot - Epic Fusion
+  description: >-
+    Cloud-Smart Strategie, Microsoft 365 Infrastruktur, Agile Projekt- und
+    Arbeitsformen, Employee Experience und Trainings, App- und
+    Prozessmodernierung.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---

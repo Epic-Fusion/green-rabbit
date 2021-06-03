@@ -19,8 +19,8 @@ sections:
         type: action
     type: section_hero
 seo:
-  title: ''
-  description: ''
+  title: Kontakt - Epic Fusion
+  description: Wir freuen uns auf Sie!
   robots: []
   extra: []
   type: stackbit_page_meta

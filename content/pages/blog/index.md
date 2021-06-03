@@ -4,30 +4,30 @@ subtitle: 'News, Tipps und Highlights'
 hide_title: false
 col_number: three
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Blog - Epic Fusion
+  description: 'News, Tipps und Highlights aus dem Alltag von Epic Fusion'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog - Epic Fusion
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'News, Tipps und Highlights aus dem Alltag von Epic Fusion'
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog - Epic Fusion
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'News, Tipps und Highlights aus dem Alltag von Epic Fusion'
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       relativeUrl: true
 layout: blog
 ---

@@ -134,7 +134,7 @@ sections:
         url: /blog
         style: button
 seo:
-  title: Epic Fusion GmbH - Mindset is everything.
+  title: Epic Fusion - Mindset is everything.
   description: Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
   extra:
     - name: 'og:type'

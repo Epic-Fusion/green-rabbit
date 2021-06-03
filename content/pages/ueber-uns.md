@@ -50,10 +50,14 @@ sections:
       priorisieren Talent über Lokalität.
     type: section_content
 seo:
-  title: ''
-  description: ''
+  title: Über uns - Epic Fusion
+  description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---

@@ -136,8 +136,10 @@ sections:
       Muri, der 01.05.2021
     type: section_content
 seo:
-  title: ''
-  description: ''
+  title: Impressum - Epic Fusion GmbH
+  description: >-
+    Epic Fusion GmbH, Kranichweg 2, 3074 Muri b. Bern. Handelsregister UID
+    CHE-246.411.751
   robots: []
   extra: []
   type: stackbit_page_meta
