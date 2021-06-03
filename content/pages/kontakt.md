@@ -19,7 +19,7 @@ sections:
         type: action
     type: section_hero
 seo:
-  title: ''
+  title: Kontakt - Epic Fusion
   description: ''
   robots: []
   extra: []
