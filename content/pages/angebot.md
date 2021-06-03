@@ -142,7 +142,7 @@ sections:
       vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
 seo:
-  title: ''
+  title: Angebot - Epic Fusion
   description: ''
   robots: []
   extra: []
