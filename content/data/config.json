@@ -83,15 +83,6 @@
                 "type": "action"
             },
             {
-                "label": "Kontakt",
-                "url": "/kontakt",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Impressum",
                 "url": "/impressum",
                 "style": "link",
