@@ -7,7 +7,7 @@ sections:
       #### Adresse
 
 
-      Epic Fusion GmbH, Kranichweg 2, 3074 Muri b. Bern
+      Epic Fusion GmbH, Kranichweg 2, CH - 3074 Muri b. Bern
 
 
       #### Wie können wir Ihnen weiterhelfen?
