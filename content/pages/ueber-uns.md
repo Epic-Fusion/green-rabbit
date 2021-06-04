@@ -53,7 +53,7 @@ sections:
     actions:
       - label: Kontakt
         url: /kontakt
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
