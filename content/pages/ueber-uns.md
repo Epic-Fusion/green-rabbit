@@ -52,7 +52,7 @@ sections:
   - section_id: lorem-ipsum
     actions:
       - label: Kontakt
-        url: '#'
+        url: /kontakt
         style: link
         icon: dribbble
         new_window: false
