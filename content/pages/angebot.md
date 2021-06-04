@@ -86,8 +86,8 @@ sections:
       *   Agiles Risiko Management etablieren
 
 
-      [Agile Arbeitsformen auch bei **Ihnen** ausprobieren? Wir zeigen Ihnen die
-      Möglichkeiten auf](https://www.epicfusion.com/angebot#beratungsanfrage)
+      [Agile Arbeitsformen auch bei **Ihnen**
+      ausprobieren?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Employee Experience und Trainings
     section_id: employee-experience
