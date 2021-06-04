@@ -137,8 +137,8 @@ sections:
       *   Datenvisualisierungen mit Microsoft Power BI
 
 
-      [Potenzial abschätzen? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      [Möchten Sie das Potenzial von Ihrem Use Case
+      abschätzen?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
