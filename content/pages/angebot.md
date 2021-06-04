@@ -147,7 +147,7 @@ sections:
       Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
       unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
       besprechen. Nutzen Sie dazu nachfolgendes Formular.
-    form_id: Beratungsgespr
+    form_id: Angebotsgespr
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
