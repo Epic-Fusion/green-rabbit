@@ -167,12 +167,12 @@ sections:
         name: Thema
         label: Thema
         options:
+          - Smalltalk über die digitale Zukunft
           - Cloud-Strategie
           - Microsoft 365 und Azure
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
           - App- und Prozessmodernisierung
-          - Smalltalk über die digitale Zukunft
         is_required: false
         type: form_field
       - input_type: textarea
