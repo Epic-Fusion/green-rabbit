@@ -175,6 +175,13 @@ sections:
           - .. Smalltalk über die digitale Zukunft
         is_required: false
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: lorem-ipsum
     type: section_form
 seo:
