@@ -49,6 +49,16 @@ sections:
       wachsen. Wir engagieren uns für den Aufbau der verteilten Zukunft und
       priorisieren Talent über Lokalität.
     type: section_content
+  - section_id: lorem-ipsum
+    actions:
+      - label: Kontakt
+        url: /kontakt
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_hero
 seo:
   title: Über uns - Epic Fusion
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
