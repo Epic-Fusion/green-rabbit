@@ -2,7 +2,7 @@
 title: Kontakt
 hide_title: false
 sections:
-  - section_id: K
+  - section_id: Kontaktformular
     content: >+
       #### Wir helfen gerne weiter!
 
