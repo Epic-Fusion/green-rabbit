@@ -47,4 +47,3 @@ In der Annahme, dass sich Organisationen für ein permanentes VUCA-Umfeld aufste
 
 Die Kunst des modernen Arbeitens ist, wenn alle Elemente ideal zusammenspielen. Engagierte Mitarbeiter, die sich ohne Limit einbringen können, sind der beste Booster, um eine gesunde Organisationskultur stetig wachsen zu lassen. Das ist die Magie!
 
-![](/\_static/app-assets/images/Blog-Sanche-min.png)
