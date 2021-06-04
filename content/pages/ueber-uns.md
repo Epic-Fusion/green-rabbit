@@ -49,8 +49,7 @@ sections:
       wachsen. Wir engagieren uns für den Aufbau der verteilten Zukunft und
       priorisieren Talent über Lokalität.
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
