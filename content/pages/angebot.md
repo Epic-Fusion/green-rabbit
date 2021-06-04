@@ -64,8 +64,8 @@ sections:
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
 
-      [Neugierig? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      [Neugierig wie **Ihre** Strategie aussehen könnte? Lassen Sie uns darüber
+      sprechen!](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
@@ -141,6 +141,54 @@ sections:
       [Potenzial abschätzen? Jetzt kostenloses Beratungsgespräch
       vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
+  - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
+    section_id: beratungsanfrage
+    content: >
+      Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
+      unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
+      besprechen.
+    form_id: Besprechungsanfrage
+    form_action: Anfrage absenden
+    form_fields:
+      - input_type: text
+        name: Name
+        label: Name
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: email
+        name: E-Mail
+        label: E-Mail
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: tel
+        name: Tel / Mobile
+        label: Tel / Mobile
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: select
+        name: Thema
+        label: Thema
+        options:
+          - Smalltalk über die digitale Zukunft
+          - Cloud-Strategie
+          - Microsoft 365 und Azure
+          - Agile Projekt- und Arbeitsformen
+          - Employee Experience und Trainings
+          - App- und Prozessmodernisierung
+        is_required: false
+        type: form_field
+      - input_type: textarea
+        name: Nachricht
+        label: Nachricht
+        default_value: 'Hinweise, Fragen, Ergänzungen ?'
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: Anfrage absenden
+    type: section_form
 seo:
   title: Angebot - Epic Fusion
   description: >-
