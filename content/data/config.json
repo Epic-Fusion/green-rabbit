@@ -83,8 +83,8 @@
                 "type": "action"
             },
             {
-                "label": "Impressum",
-                "url": "/impressum",
+                "label": "hello@epicfusion.com",
+                "url": "mailto:hello@epicfusion.com",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
@@ -92,8 +92,8 @@
                 "type": "action"
             },
             {
-                "label": "hello@epicfusion.com",
-                "url": "mailto:hello@epicfusion.com",
+                "label": "Impressum",
+                "url": "/impressum",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
