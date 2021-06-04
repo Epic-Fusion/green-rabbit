@@ -27,8 +27,8 @@ sections:
       - title: Veränderung herausfordern
         image_alt: lorem-ipsum
         content: >
-          Mit digitalen Strategien reichern wir die Organisationskultur mit
-          einem Mindset der kontinuierlichen Veränderung an.
+          Mit digitalen Strategien Ihre Organisationskultur mit einem Mindset
+          der kontinuierlichen Veränderung anreichern.
         actions: []
         type: grid_item
       - title: Agilität etablieren
