@@ -109,7 +109,7 @@ sections:
 
 
       [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
-      werden?](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      werden?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
