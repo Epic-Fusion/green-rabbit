@@ -34,8 +34,8 @@ sections:
       - title: Agilität etablieren
         image_alt: lorem-ipsum
         content: >
-          Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
-          der Organisation, in Projekten, mit den Menschen.
+          Proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in der
+          Organisation leben, in Projekten, mit den Menschen.
         actions: []
         type: grid_item
       - title: Arbeitsplatz modernisieren
