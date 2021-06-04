@@ -86,8 +86,8 @@ sections:
       *   Agiles Risiko Management etablieren
 
 
-      [Mehr dazu erfahren? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      [Agile Arbeitsformen auch bei **Ihnen** ausprobieren? Wir zeigen Ihnen die
+      Möglichkeiten auf](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Employee Experience und Trainings
     section_id: employee-experience
