@@ -50,7 +50,7 @@ sections:
       - input_type: textarea
         name: Nachricht
         label: Nachricht
-        default_value: 'Ihre Nachricht .. '
+        default_value: Wie können wir Ihnen weiterhelfen?
         options: []
         is_required: false
         type: form_field
