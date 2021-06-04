@@ -19,7 +19,6 @@ sections:
         type: action
     type: section_hero
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >+
       #### Wir helfen gerne weiter!
 
