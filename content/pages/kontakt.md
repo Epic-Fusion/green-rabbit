@@ -3,13 +3,18 @@ title: Kontakt
 hide_title: false
 sections:
   - section_id: Kontaktformular
-    content: >+
-      #### Wir helfen gerne weiter!
+    content: >
+      #### Unsere Koordinaten
+
+
+      Epic Fusion GmbH, Kranichweg 2, 3074 Muri b. Bern
+
+
+      #### Wie können wir weiterhelfen?
 
 
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
       eine E-Mail an hello@epicfusion.com.
-
     form_id: contact
     form_action: send
     form_fields:
