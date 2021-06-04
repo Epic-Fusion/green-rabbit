@@ -50,7 +50,7 @@ sections:
       - input_type: textarea
         name: Nachricht
         label: Nachricht
-        default_value: lorem-ipsum
+        default_value: 'Ihre Nachricht .. '
         options: []
         is_required: false
         type: form_field
