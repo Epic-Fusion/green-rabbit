@@ -84,7 +84,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "#",
+                "url": "mailto:hello@epicfusion.com",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
