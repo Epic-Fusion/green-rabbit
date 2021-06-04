@@ -171,6 +171,7 @@ sections:
           - Microsoft 365 und Azure
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
