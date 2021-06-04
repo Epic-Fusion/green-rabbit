@@ -108,9 +108,8 @@ sections:
       *   Die Grundlagen für eine lebendige Kultur schaffen
 
 
-      [Möchten Sie erfahren, wie Benutzererfahrung und Training bei **Ihnen
-      **etabliert werden
-      kann?](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
+      werden?](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
