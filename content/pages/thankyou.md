@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     content: >
       Wir haben Ihre Nachricht erhalten und werden uns in Kürze mit Ihnen in
-      Verbindung setzen. 
+      Verbindung setzen.
     actions: []
     type: section_hero
 seo:
