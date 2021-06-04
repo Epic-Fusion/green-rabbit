@@ -42,7 +42,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Senden
     type: section_form
 seo:
   title: Kontakt - Epic Fusion
