@@ -146,7 +146,7 @@ sections:
     content: >
       Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
       unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
-      besprechen. Nutzen Sie dazu nachfolgendes Formular.
+      besprechen.
     form_id: Besprechungsanfrage
     form_action: Anfrage absenden
     form_fields:
