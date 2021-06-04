@@ -166,7 +166,6 @@ sections:
       - input_type: select
         name: Thema
         label: Thema
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
