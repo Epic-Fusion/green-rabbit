@@ -172,7 +172,7 @@ sections:
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
           - App- und Prozessmodernisierung
-          - Smalltalk über die digitale Zukunft
+          - .. Smalltalk über die digitale Zukunft
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
