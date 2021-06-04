@@ -7,7 +7,7 @@ sections:
       Wir haben Ihre Nachricht erhalten und werden uns in Kürze mit Ihnen in
       Verbindung setzen.
     actions:
-      - label: Startseite
+      - label: zur Startseite
         url: /
         style: button
         icon: dribbble
