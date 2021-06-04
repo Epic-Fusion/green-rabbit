@@ -78,11 +78,12 @@ sections:
         type: grid_item
       - title: Agile Projekt- und Arbeitsformen
         image_alt: lorem-ipsum
-        content: >
-          Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
-          ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
-          langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban,
+        content: >+
+          Agile Arbeitsformen bedeuten einen Lernprozess. Wir schaffen die
+          Voraussetzungen, um agile Praktiken schrittweise gezielt zu etablieren
+          und langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban,
           oder selbstorganisierte Teams.
+
         actions:
           - label: Vision etablieren
             url: /angebot
