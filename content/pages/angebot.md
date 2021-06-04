@@ -172,7 +172,7 @@ sections:
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
           - App- und Prozessmodernisierung
-          - lorem-ipsum
+          - 'Smalltalk über die '
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
