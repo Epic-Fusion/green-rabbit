@@ -2,7 +2,7 @@
 title: Kontakt
 hide_title: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: K
     content: >+
       #### Wir helfen gerne weiter!
 
