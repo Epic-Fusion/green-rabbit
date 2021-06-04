@@ -184,7 +184,7 @@ sections:
       - input_type: tel
         name: Tel / Mobile
         label: Tel
-        default_value: lorem-ipsum
+        default_value: Optional
         options: []
         is_required: false
         type: form_field
