@@ -37,7 +37,6 @@ sections:
         label: >-
           Ich stimme zu, dass dieses Formular meine eingegebenen Informationen
           zur Kontaktaufnahme speichert.
-        default_value: lorem-ipsum
         options: []
         is_required: true
         type: form_field
