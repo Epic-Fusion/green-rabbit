@@ -169,6 +169,7 @@ sections:
         options:
           - Cloud-Strategie
           - Microsoft 365 und Azure
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
