@@ -109,11 +109,18 @@ sections:
         type: grid_item
       - title: App- und Prozessmodernisierung
         image_alt: lorem-ipsum
-        content: >
+        content: >+
           Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse,
           um Raum für neue Ideen und echte Transformation zu ermöglichen. Mit
           ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
           integrale Lösungen.
+
+
+          Um Raum für neue Ideen und echte Transformation zu ermöglichen,
+          begleiten wir bei der Auflösung veralteter Applikationen und Prozesse.
+          Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
+          integrale Lösungen.
+
         actions:
           - label: Disruption initieren
             url: /angebot
