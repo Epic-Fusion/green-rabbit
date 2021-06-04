@@ -3,21 +3,45 @@ title: Kontakt
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    content: >
+    content: >+
       #### Wir helfen gerne weiter!
 
 
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
       eine E-Mail an hello@epicfusion.com.
-    actions:
-      - label: Kontaktformular
-        url: 'https://form.asana.com?k=AdlAWEDpqiAikr-o_rKkxA&d=1200129872637977'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_hero
+
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields:
+      - input_type: text
+        name: Name
+        label: Name
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: email
+        name: E-Mail
+        label: E-Mail
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: textarea
+        name: Nachricht
+        label: Nachricht
+        default_value: Wie können wir Ihnen weiterhelfen?
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: checkbox
+        name: Datenschutz-Check
+        label: >-
+          Ich stimme zu, dass dieses Formular meine eingegebenen Informationen
+          zur Kontaktaufnahme speichert.
+        options: []
+        is_required: true
+        type: form_field
+    submit_label: Senden
+    type: section_form
 seo:
   title: Kontakt - Epic Fusion
   description: Wir freuen uns auf Sie!
