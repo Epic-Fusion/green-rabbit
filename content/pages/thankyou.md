@@ -3,17 +3,9 @@ title: Vielen Dank
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Wir haben Ihre Nachricht erhalten und werden uns in Kürze mit Ihnen in
+      Verbindung setzen. 
     actions: []
     type: section_hero
 seo:
