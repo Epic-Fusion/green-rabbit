@@ -164,7 +164,7 @@ sections:
         type: form_field
       - input_type: tel
         name: Tel / Mobile
-        label: Tel
+        label: Tel / Mobile
         options: []
         is_required: false
         type: form_field
