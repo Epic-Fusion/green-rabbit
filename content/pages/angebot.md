@@ -143,17 +143,10 @@ sections:
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
+      unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
+      besprechen. Nutzen Sie dazu nachfolgendes Formular.
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
