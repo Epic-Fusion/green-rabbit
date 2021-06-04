@@ -167,7 +167,7 @@ sections:
         name: Thema
         label: Thema
         options:
-          - lorem-ipsum
+          - Cloud-Strategie
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
