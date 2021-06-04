@@ -142,7 +142,7 @@ sections:
       vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: Mehr erfahren? Jetzt kostenloses Gespräch vereinbaren
-    section_id: beratung
+    section_id: beratungsanfrage
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
