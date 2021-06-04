@@ -39,7 +39,7 @@ sections:
           zur Kontaktaufnahme speichert.
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Senden
     type: section_form
