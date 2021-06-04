@@ -170,7 +170,7 @@ sections:
           - Cloud-Strategie
           - Microsoft 365 und Azure
           - Agile Projekt- und Arbeitsformen
-          - lorem-ipsum
+          - Employee Experience und Trainings
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
