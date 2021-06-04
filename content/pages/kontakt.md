@@ -38,8 +38,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        options:
-          - lorem-ipsum
+        options: []
         is_required: true
         type: form_field
     submit_label: Senden
