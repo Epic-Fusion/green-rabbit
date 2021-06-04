@@ -93,7 +93,7 @@
             },
             {
                 "label": "+41 31 511 60 00",
-                "url": "#",
+                "url": "tel:+41315116000",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
