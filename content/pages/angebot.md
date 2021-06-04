@@ -92,7 +92,7 @@ sections:
   - title: Employee Experience und Trainings
     section_id: employee-experience
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
@@ -108,9 +108,9 @@ sections:
       *   Die Grundlagen für eine lebendige Kultur schaffen
 
 
-      [Mehr dazu lernen? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-
+      [Möchten Sie erfahren, wie Benutzererfahrung und Training bei **Ihnen
+      **etabliert werden
+      kann?](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
