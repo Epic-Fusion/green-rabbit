@@ -10,11 +10,14 @@ sections:
       Epic Fusion GmbH, Kranichweg 2, CH-3074 Muri b. Bern
 
 
+      Tel. +41 31 511 60 00 | E-Mail hello@epicfusion.com
+
+
       #### Wie können wir Ihnen weiterhelfen?
 
 
-      Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
-      eine E-Mail an hello@epicfusion.com.
+      Rufen Sie uns an - schreiben Sie uns - oder senden Sie uns eine
+      Chat-Nachricht im Messenger - wir sind für Sie da!
     form_id: contact
     form_action: send
     form_fields:
