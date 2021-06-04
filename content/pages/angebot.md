@@ -168,7 +168,7 @@ sections:
         label: Thema
         options:
           - Cloud-Strategie
-          - lorem-ipsum
+          - Microsoft 365 und Azure
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
