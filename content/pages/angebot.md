@@ -143,7 +143,6 @@ sections:
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
