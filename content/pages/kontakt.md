@@ -11,7 +11,7 @@ sections:
       eine E-Mail an hello@epicfusion.com.
 
     form_id: contact
-    form_action: lorem-ipsum
+    form_action: send
     form_fields:
       - input_type: text
         name: Name
