@@ -54,7 +54,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
