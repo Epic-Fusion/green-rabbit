@@ -11,7 +11,6 @@ sections:
 
       Epic Fusion GmbH
 
-
       Kranichweg 2, CH - 3074 Muri b. Bern, Switzerland
 
 
