@@ -172,6 +172,7 @@ sections:
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
           - App- und Prozessmodernisierung
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
