@@ -148,7 +148,7 @@ sections:
       unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
       besprechen. Nutzen Sie dazu nachfolgendes Formular.
     form_id: Besprechungsanfrage
-    form_action: lorem-ipsum
+    form_action: Anfrage absenden
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
