@@ -19,7 +19,7 @@ sections:
       Rufen Sie uns an, schreiben Sie uns, oder chatten Sie mit uns im Messenger
       - wir sind für Sie da!
     form_id: contact
-    form_action: send
+    form_action: /thankyou
     form_fields:
       - input_type: text
         name: Name
