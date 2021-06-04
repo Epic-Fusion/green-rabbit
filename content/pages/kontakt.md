@@ -10,7 +10,7 @@ sections:
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
       eine E-Mail an hello@epicfusion.com.
 
-    form_id: lorem-ipsum
+    form_id: contact
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
