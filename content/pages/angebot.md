@@ -162,6 +162,12 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: tel
+        name: Tel / Mobile
+        label: Tel
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: Thema
         label: Thema
@@ -178,12 +184,6 @@ sections:
         name: Nachricht
         label: Nachricht
         default_value: Möchten Sie uns noch etwas mitteilen?
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: tel
-        name: Tel / Mobile
-        label: Tel
         options: []
         is_required: false
         type: form_field
