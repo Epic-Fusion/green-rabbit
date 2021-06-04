@@ -84,7 +84,7 @@
             },
             {
                 "label": "Kontakt",
-                "url": "/",
+                "url": "/kontakt",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
