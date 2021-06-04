@@ -160,7 +160,6 @@ sections:
       - input_type: email
         name: E-Mail
         label: E-Mail
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
