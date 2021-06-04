@@ -6,7 +6,14 @@ sections:
     content: >
       Wir haben Ihre Nachricht erhalten und werden uns in Kürze mit Ihnen in
       Verbindung setzen.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 seo:
   title: ''
