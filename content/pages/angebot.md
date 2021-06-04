@@ -178,7 +178,7 @@ sections:
       - input_type: textarea
         name: Nachricht
         label: Nachricht
-        default_value: lorem-ipsum
+        default_value: Möchten Sie uns noch etwas mitteilen?
         options: []
         is_required: false
         type: form_field
