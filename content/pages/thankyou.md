@@ -8,7 +8,7 @@ sections:
       Verbindung setzen.
     actions:
       - label: zurück zur Startseite
-        url: '#'
+        url: /
         style: link
         icon: dribbble
         new_window: false
