@@ -182,7 +182,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: tel
-        name: Tel / Mobile / Teams
+        name: Tel / Mobile
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
