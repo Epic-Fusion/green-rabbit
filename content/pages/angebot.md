@@ -148,7 +148,7 @@ sections:
       unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
       besprechen.
     form_id: Besprechungsanfrage
-    form_action: Anfrage absenden
+    form_action: /kontakt
     form_fields:
       - input_type: text
         name: Name
