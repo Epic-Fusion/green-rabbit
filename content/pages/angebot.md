@@ -64,8 +64,8 @@ sections:
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
 
-      [Neugierig wie **Ihre** Strategie aussehen könnte? Lassen Sie uns darüber
-      sprechen!](https://www.epicfusion.com/angebot#beratungsanfrage)
+      [Neugierig wie **Ihre** Strategie aussehen
+      könnte?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
@@ -86,13 +86,13 @@ sections:
       *   Agiles Risiko Management etablieren
 
 
-      [Mehr dazu erfahren? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      [Agile Arbeitsformen auch bei **Ihnen**
+      ausprobieren?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Employee Experience und Trainings
     section_id: employee-experience
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
@@ -108,9 +108,8 @@ sections:
       *   Die Grundlagen für eine lebendige Kultur schaffen
 
 
-      [Mehr dazu lernen? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
-
+      [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
+      werden?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
@@ -138,8 +137,8 @@ sections:
       *   Datenvisualisierungen mit Microsoft Power BI
 
 
-      [Potenzial abschätzen? Jetzt kostenloses Beratungsgespräch
-      vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
+      [Möchten Sie das Potenzial von Ihrem Use Case
+      abschätzen?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage

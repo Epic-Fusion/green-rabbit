@@ -40,14 +40,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: checkbox
-        name: Datenschutz-Check
-        label: >-
-          Ich stimme zu, dass dieses Formular meine eingegebenen Informationen
-          zur Kontaktaufnahme speichert.
-        options: []
-        is_required: true
-        type: form_field
     submit_label: Senden
     type: section_form
 seo:
