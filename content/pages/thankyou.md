@@ -1,5 +1,5 @@
 ---
-title: Vielen Dank
+title: Vielen Dank!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
