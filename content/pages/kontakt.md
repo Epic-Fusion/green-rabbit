@@ -18,8 +18,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >+
       #### Wir helfen gerne weiter!
