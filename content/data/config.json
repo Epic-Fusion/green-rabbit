@@ -74,6 +74,15 @@
         ],
         "links": [
             {
+                "label": "+41 31 511 60 00",
+                "url": "tel:+41315116000",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Impressum",
                 "url": "/impressum",
                 "style": "link",
@@ -85,15 +94,6 @@
             {
                 "label": "hello@epicfusion.com",
                 "url": "mailto:hello@epicfusion.com",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "+41 31 511 60 00",
-                "url": "tel:+41315116000",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
