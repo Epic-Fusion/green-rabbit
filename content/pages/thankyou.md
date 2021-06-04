@@ -7,7 +7,7 @@ sections:
       Wir haben Ihre Nachricht erhalten und werden uns in Kürze mit Ihnen in
       Verbindung setzen.
     actions:
-      - label: lorem-ipsum
+      - label: zurück zur Startseite
         url: '#'
         style: link
         icon: dribbble
