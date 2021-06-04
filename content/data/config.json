@@ -83,7 +83,7 @@
                 "type": "action"
             },
             {
-                "label": "hello@epicfusion.com",
+                "label": Kontakt",
                 "url": "mailto:hello@epicfusion.com",
                 "style": "link",
                 "icon": "dribbble",
