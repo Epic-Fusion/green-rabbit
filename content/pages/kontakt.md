@@ -55,7 +55,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: checkbox
-        name: lorem-ipsum
+        name: Datenschutz-Check
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
