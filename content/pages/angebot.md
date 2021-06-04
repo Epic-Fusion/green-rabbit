@@ -64,8 +64,8 @@ sections:
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
 
-      [Neugierig wie **Ihre** Strategie aussehen könnte? Lassen Sie uns darüber
-      sprechen!](https://www.epicfusion.com/angebot#beratungsanfrage)
+      [Neugierig wie **Ihre** Strategie aussehen
+      könnte?](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
