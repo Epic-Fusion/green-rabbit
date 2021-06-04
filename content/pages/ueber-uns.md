@@ -51,7 +51,7 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Kontakt
         url: '#'
         style: link
         icon: dribbble
