@@ -15,7 +15,7 @@ sections:
         no_follow: false
         type: action
       - label: zum Blog
-        url: '#'
+        url: /blog
         style: link
         icon: dribbble
         new_window: false
