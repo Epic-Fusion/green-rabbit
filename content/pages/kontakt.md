@@ -56,7 +56,9 @@ sections:
         type: form_field
       - input_type: checkbox
         name: Datenschutz-Check
-        label: lorem-ipsum
+        label: >-
+          Ich stimme zu, dass dieses Formular meine eingegebenen Informationen
+          zur Kontaktaufnahme speichert.
         default_value: lorem-ipsum
         options: []
         is_required: false
