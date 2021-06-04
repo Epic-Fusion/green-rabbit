@@ -50,7 +50,14 @@ sections:
       priorisieren Talent über Lokalität.
     type: section_content
   - section_id: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 seo:
   title: Über uns - Epic Fusion
