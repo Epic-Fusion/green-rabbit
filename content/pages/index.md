@@ -41,8 +41,8 @@ sections:
       - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
         content: >
-          Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
-          Mitarbeitenden um. Für alle, von überall, jederzeit.
+          Einen digitalen Arbeitsplatz für Ihre Mitarbeiter:innen gestalten,
+          planen und umsetzen. Für alle, von überall, und jederzeit.
         actions: []
         type: grid_item
       - title: Kollektives Potenzial entfesseln
