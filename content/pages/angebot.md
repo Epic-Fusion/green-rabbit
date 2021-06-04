@@ -161,6 +161,13 @@ sections:
         name: E-Mail
         label: E-Mail
         options: []
+        is_required: true
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
