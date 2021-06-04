@@ -49,7 +49,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Nachricht
-        label: lorem-ipsum
+        label: Nachricht
         default_value: lorem-ipsum
         options: []
         is_required: false
