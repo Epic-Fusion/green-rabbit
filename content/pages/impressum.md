@@ -15,7 +15,7 @@ sections:
       Kranichweg 2, CH - 3074 Muri b. Bern, Switzerland
 
 
-      hello@epicfusion.com
+      Tel. +41 31 511 60 00 |  E-Mail: hello@epicfusion.com
 
 
       #### Vertretungsberechtigte Personen
