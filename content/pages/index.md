@@ -10,10 +10,10 @@ sections:
 
 
       Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
-      Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
-      begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
-      und Prinzipien, um eine nachhaltige Wirkung auf Mensch, Gesellschaft und
-      Organisationen zu schaffen.
+      Damit Sie mit Ihrer Organisation bereit sind, der heutigen Veränderung mit
+      modernen Lösungen zu begegnen. Dabei katalysieren wir die digitale
+      Transformation mit Werten und Prinzipien, um eine nachhaltige Wirkung auf
+      Mensch, Gesellschaft und Organisationen zu schaffen.
     actions:
       - label: Jetzt mehr erfahren!
         url: /angebot
@@ -27,29 +27,29 @@ sections:
       - title: Veränderung herausfordern
         image_alt: lorem-ipsum
         content: >
-          Mit digitalen Strategien reichern wir die Organisationskultur mit
-          einem Mindset der kontinuierlichen Veränderung an.
+          Mit digitalen Strategien Ihre Organisationskultur mit einem Mindset
+          der kontinuierlichen Veränderung anreichern.
         actions: []
         type: grid_item
       - title: Agilität etablieren
         image_alt: lorem-ipsum
         content: >
-          Wir leben proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in
-          der Organisation, in Projekten, mit den Menschen.
+          Proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in der
+          Organisation leben, in Projekten, mit den Menschen.
         actions: []
         type: grid_item
       - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
         content: >
-          Wir gestalten, planen und setzen den digitalen Arbeitsplatz für Ihre
-          Mitarbeitenden um. Für alle, von überall, jederzeit.
+          Einen digitalen Arbeitsplatz für Ihre Mitarbeiter:innen gestalten,
+          planen und umsetzen. Für alle, von überall, und jederzeit.
         actions: []
         type: grid_item
       - title: Kollektives Potenzial entfesseln
         image_alt: lorem-ipsum
         content: >
-          Wir bringen Menschen zusammen, die mit Freude interagieren und ihr
-          volles Potenzial mit ihrem Team aktivieren können.
+          Menschen zusammenbringen, die mit Freude interagieren und ihr volles
+          Potenzial mit ihrem Team aktivieren können - jeden Tag.
         actions: []
         type: grid_item
     type: section_grid
@@ -61,11 +61,12 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategie
         image_alt: lorem-ipsum
-        content: >
-          Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-          Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
-          intelligente, phasenweise Cloud-Enablement Strategie und reduzieren
-          damit Komplexität bei gleichen Ressourcen.
+        content: >+
+          Gemeinsam erarbeiten wir eine intelligente, phasenweise
+          Cloud-Enablement Strategie und reduzieren damit Komplexität bei
+          gleichen Ressourcen. Damit verbinden wir Ihre Anforderungen und
+          Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft. 
+
         actions:
           - label: Zyklus starten
             url: /angebot
@@ -77,11 +78,12 @@ sections:
         type: grid_item
       - title: Agile Projekt- und Arbeitsformen
         image_alt: lorem-ipsum
-        content: >
-          Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
-          ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
-          langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban,
+        content: >+
+          Agile Arbeitsformen bedeuten einen Lernprozess. Wir schaffen die
+          Voraussetzungen, um agile Praktiken schrittweise gezielt zu etablieren
+          und langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban,
           oder selbstorganisierte Teams.
+
         actions:
           - label: Vision etablieren
             url: /angebot
@@ -110,9 +112,9 @@ sections:
       - title: App- und Prozessmodernisierung
         image_alt: lorem-ipsum
         content: >
-          Wir begleiten bei der Auflösung veralteter Applikationen und Prozesse,
-          um Raum für neue Ideen und echte Transformation zu ermöglichen. Mit
-          ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
+          Um Raum für neue Ideen und echte Transformation zu ermöglichen,
+          begleiten wir bei der Auflösung veralteter Applikationen und Prozesse.
+          Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
           integrale Lösungen.
         actions:
           - label: Disruption initieren
