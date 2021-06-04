@@ -141,7 +141,7 @@ sections:
       [Potenzial abschätzen? Jetzt kostenloses Beratungsgespräch
       vereinbaren!](https://form.asana.com/?k=AdlAWEDpqiAikr-o_rKkxA\&d=1200129872637977)
     type: section_content
-  - title: lorem-ipsum
+  - title: 'Mehr '
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
