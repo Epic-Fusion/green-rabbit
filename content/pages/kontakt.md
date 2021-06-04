@@ -21,20 +21,13 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >
-      ##
-
-
+    content: >+
       #### Wir helfen gerne weiter!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
+      eine E-Mail an hello@epicfusion.com.
 
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
