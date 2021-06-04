@@ -2,16 +2,21 @@
 title: Kontakt
 hide_title: false
 sections:
-  - section_id: lorem-ipsum
-    content: >+
-      #### Wir helfen gerne weiter!
+  - section_id: Kontaktformular
+    content: >
+      #### Adresse
+
+
+      Epic Fusion GmbH, Kranichweg 2, CH-3074 Muri b. Bern
+
+
+      #### Wie können wir Ihnen weiterhelfen?
 
 
       Verwenden Sie nachfolgendes Kontaktformular oder senden Sie uns direkt
       eine E-Mail an hello@epicfusion.com.
-
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_id: contact
+    form_action: send
     form_fields:
       - input_type: text
         name: Name
