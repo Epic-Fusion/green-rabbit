@@ -61,11 +61,12 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategie
         image_alt: lorem-ipsum
-        content: >
-          Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-          Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
-          intelligente, phasenweise Cloud-Enablement Strategie und reduzieren
-          damit Komplexität bei gleichen Ressourcen.
+        content: >+
+          Gemeinsam erarbeiten wir eine intelligente, phasenweise
+          Cloud-Enablement Strategie und reduzieren damit Komplexität bei
+          gleichen Ressourcen. Damit verbinden wir Ihre Anforderungen und
+          Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft. 
+
         actions:
           - label: Zyklus starten
             url: /angebot
