@@ -65,7 +65,7 @@ sections:
 
 
       [Neugierig wie **Ihre** Strategie aussehen
-      könnte?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      könnte?](#beratungsanfrage)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
