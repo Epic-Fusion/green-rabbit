@@ -16,7 +16,7 @@ sections:
       Strategie](https://www.epicfusion.com/angebot#cloud-smart)
 
       *   [Agile Projekt- und
-      Arbeitsformen](https://www.epicfusion.com/angebot#agile)
+      Arbeitsformen](#agile)
 
       *   [Employee Experience und
       Trainings](https://www.epicfusion.com/angebot#employee-experience)
