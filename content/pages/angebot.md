@@ -138,7 +138,7 @@ sections:
 
 
       [Möchten Sie das Potenzial von Ihrem Use Case
-      abschätzen?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      abschätzen?](#beratungsanfrage)
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
