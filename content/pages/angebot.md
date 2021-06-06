@@ -87,7 +87,7 @@ sections:
 
 
       [Agile Arbeitsformen auch bei **Ihnen**
-      ausprobieren?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      ausprobieren?](#beratungsanfrage)
     type: section_content
   - title: Employee Experience und Trainings
     section_id: employee-experience
