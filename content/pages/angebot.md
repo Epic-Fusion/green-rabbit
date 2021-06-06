@@ -13,7 +13,7 @@ sections:
 
 
       *   [Cloud-Smart
-      Strategie](https://www.epicfusion.com/angebot#cloud-smart)
+      Strategie](#cloud-smart)
 
       *   [Agile Projekt- und
       Arbeitsformen](#agile)
