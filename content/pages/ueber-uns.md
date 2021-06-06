@@ -23,8 +23,8 @@ sections:
       volatilen Zeit erfolgreich bestehen zu können.
 
 
-      Epic Fusion wurde gegründet, um Organisation im Zyklus dieser neuen, sich
-      kontinuierlich verändernden Arbeitswelt zu begleiten. Wir gestalten
+      Epic Fusion wurde gegründet, um Organisationen im Zyklus dieser neuen,
+      sich kontinuierlich verändernden Arbeitswelt zu begleiten. Wir gestalten
       sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen
       massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch vor
       der Softwarelösung im Fokus, um dem kulturellen Wandel mit der
