@@ -13,16 +13,16 @@ sections:
 
 
       *   [Cloud-Smart
-      Strategie](https://www.epicfusion.com/angebot#cloud-smart)
+      Strategie](#cloud-smart)
 
       *   [Agile Projekt- und
       Arbeitsformen](#agile)
 
       *   [Employee Experience und
-      Trainings](https://www.epicfusion.com/angebot#employee-experience)
+      Trainings](#employee-experience)
 
       *   [App- und
-      Prozessmodernisierung](https://www.epicfusion.com/angebot#modernisierung)
+      Prozessmodernisierung](#modernisierung)
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
@@ -65,7 +65,7 @@ sections:
 
 
       [Neugierig wie **Ihre** Strategie aussehen
-      könnte?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      könnte?](#beratungsanfrage)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
@@ -87,7 +87,7 @@ sections:
 
 
       [Agile Arbeitsformen auch bei **Ihnen**
-      ausprobieren?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      ausprobieren?](#beratungsanfrage)
     type: section_content
   - title: Employee Experience und Trainings
     section_id: employee-experience
@@ -109,7 +109,7 @@ sections:
 
 
       [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
-      werden?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      werden?](#beratungsanfrage)
     type: section_content
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
@@ -138,7 +138,7 @@ sections:
 
 
       [Möchten Sie das Potenzial von Ihrem Use Case
-      abschätzen?](https://www.epicfusion.com/angebot#beratungsanfrage)
+      abschätzen?](#beratungsanfrage)
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
