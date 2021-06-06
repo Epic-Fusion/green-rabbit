@@ -19,7 +19,7 @@ sections:
       Arbeitsformen](#agile)
 
       *   [Employee Experience und
-      Trainings](https://www.epicfusion.com/angebot#employee-experience)
+      Trainings](#employee-experience)
 
       *   [App- und
       Prozessmodernisierung](https://www.epicfusion.com/angebot#modernisierung)
