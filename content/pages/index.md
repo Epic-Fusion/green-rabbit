@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Mindset is everything.
     content: >
-      ## Warum Epic Fusion?
+      #### Warum Epic Fusion?
 
 
       Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
