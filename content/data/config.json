@@ -58,7 +58,8 @@
                 "type": "action"
             }
         ],
-        "logo_img": "/images/Epic Fusion Logo PNG Minimiert.png"
+        "logo_img": "/images/Epic Fusion Logo PNG Minimiert.png",
+        "logo_img_alt": "Epic Fusion"
     },
     "footer": {
         "content": "&copy; Epic Fusion GmbH. Alle Rechte vorbehalten.",
