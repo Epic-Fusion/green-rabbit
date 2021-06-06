@@ -22,7 +22,7 @@ sections:
       Trainings](#employee-experience)
 
       *   [App- und
-      Prozessmodernisierung](https://www.epicfusion.com/angebot#modernisierung)
+      Prozessmodernisierung](#modernisierung)
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
