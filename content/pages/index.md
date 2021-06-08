@@ -152,7 +152,7 @@ seo:
       value: >-
         Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
         Digital Workplace Microsoft 365, Agile Coaching, Cloud Strategie,
-        Teamwork und Collaboration.
+        Teamwork und Collaboration
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
