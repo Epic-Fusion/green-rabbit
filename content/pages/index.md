@@ -140,7 +140,7 @@ seo:
   description: >-
     Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft. Digital
     Workplace Microsoft 365, Agile Coaching, Cloud Strategie, Teamwork und
-    Collaboration.
+    Collaboration
   extra:
     - name: 'og:type'
       value: website
