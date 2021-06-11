@@ -38,7 +38,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: text
+      - input_type: textarea
         name: Erfahrung
         label: Was bringst du in einem Koffer mit?
         default_value: >-
