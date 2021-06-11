@@ -32,7 +32,7 @@ sections:
         name: Tel.
         label: Tel.
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     type: section_form
     submit_label: Check-In
