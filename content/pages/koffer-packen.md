@@ -21,7 +21,7 @@ sections:
         label: Name
         default_value: 'Vorname, Nachname'
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     type: section_form
     submit_label: Check-In
