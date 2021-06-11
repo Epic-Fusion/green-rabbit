@@ -15,7 +15,14 @@ sections:
       Wir zeigen Dir auf, wo Deine Reise bei uns beginnen könnte.
     form_id: Bewerbung
     form_action: lorem-ipsum
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     type: section_form
     submit_label: Check-In
 seo:
