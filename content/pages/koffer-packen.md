@@ -52,7 +52,7 @@ sections:
         label: LinkedIn Profil oder CV
         default_value: >-
           Link zu deinem LinkedIn Profil oder anderweitig zur Verfügung
-          gestellter CV als Online-PDF
+          gestellter Online-CV
         options: []
         is_required: true
         type: form_field
