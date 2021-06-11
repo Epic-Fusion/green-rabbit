@@ -49,7 +49,7 @@ sections:
         type: form_field
       - input_type: text
         name: LinkedInProfil
-        label: lorem-ipsum
+        label: LinkedIn Profil
         default_value: lorem-ipsum
         options: []
         is_required: false
