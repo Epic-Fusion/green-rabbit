@@ -36,7 +36,7 @@ sections:
         label: Warum Epic Fusion?
         default_value: 'Was inspiriert Dich, ein Teil von Epic Fusion zu werden?'
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: text
         name: Erfahrung
