@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Koffer packen! '
 hide_title: true
 sections: []
 seo:
