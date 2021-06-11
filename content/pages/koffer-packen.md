@@ -2,7 +2,7 @@
 title: Koffer packen!
 hide_title: false
 sections:
-  - title: Bist Du bereit für eine neue Challenge?
+  - title: Bist Du bereit für eine neues Abenteuer?
     section_id: lorem-ipsum
     content: >+
       Wenn Du Dich mit unseren [Werten](https://www.epicfusion.com/werte)
