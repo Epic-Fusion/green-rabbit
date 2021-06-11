@@ -40,7 +40,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Was bringst du in einem Koffer mit?
         default_value: lorem-ipsum
         options: []
         is_required: false
