@@ -103,7 +103,7 @@ sections:
       Melde Dich! 
     actions:
       - label: Koffer packen
-        url: 'https://form.asana.com?k=QvVtjGLK96qm-fgpWjkz7w&d=1200129872637977'
+        url: /koffer-packen
         style: button
         icon: dribbble
         new_window: false
