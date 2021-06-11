@@ -11,7 +11,7 @@ sections:
       365 oder Azure Infrastruktur mitbringst, würden wir Dich gerne
       kennenlernen!
     form_id: Bewerbung
-    form_action: lorem-ipsum
+    form_action: thankyou
     form_fields:
       - input_type: text
         name: Name
