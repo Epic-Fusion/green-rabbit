@@ -41,7 +41,9 @@ sections:
       - input_type: text
         name: Erfahrung
         label: Was bringst du in einem Koffer mit?
-        default_value: 'Welche Fähigkeiten und Erfahrungen zeichnen Dich aus? Welche '
+        default_value: >-
+          Welche Fähigkeiten und Erfahrungen zeichnen Dich aus? Welche
+          Ausbildungen hast du absolviert?
         options: []
         is_required: false
         type: form_field
