@@ -54,7 +54,7 @@ sections:
           Link zu deinem LinkedIn Profil oder zur Verfügung gestellter CV als
           Online-PDF
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     type: section_form
     submit_label: Check-In
