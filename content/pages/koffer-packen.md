@@ -27,7 +27,7 @@ sections:
         label: E-Mail
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     type: section_form
     submit_label: Check-In
