@@ -49,7 +49,7 @@ sections:
         type: form_field
       - input_type: text
         name: LinkedInProfil
-        label: LinkedIn Profil
+        label: LinkedIn Profil oder CV
         default_value: Link zu deinem LinkedIn Profil oder CV
         options: []
         is_required: false
