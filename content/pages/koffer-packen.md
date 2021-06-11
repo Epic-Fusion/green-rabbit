@@ -50,7 +50,7 @@ sections:
       - input_type: text
         name: LinkedInProfil
         label: LinkedIn Profil
-        default_value: Link zu deinem LinkedIn Profil
+        default_value: Link zu deinem LinkedIn Profil oder CV
         options: []
         is_required: false
         type: form_field
