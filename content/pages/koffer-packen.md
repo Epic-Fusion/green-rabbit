@@ -16,7 +16,6 @@ sections:
     form_id: Bewerbung
     form_action: lorem-ipsum
     form_fields: []
-    submit_label: 'Auf die '
     type: section_form
 seo:
   title: ''
