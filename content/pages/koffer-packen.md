@@ -1,5 +1,5 @@
 ---
-title: 'Koffer packen! '
+title: Koffer packen!
 hide_title: true
 sections: []
 seo:
