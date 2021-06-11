@@ -13,7 +13,7 @@ sections:
 
 
       Wir zeigen Dir auf, wo Deine Reise bei uns beginnen könnte.
-    form_id: lorem-ipsum
+    form_id: Bewerbung
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
