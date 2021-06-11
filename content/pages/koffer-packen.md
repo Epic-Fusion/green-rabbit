@@ -33,7 +33,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Warum Epic Fusion?
-        label: lorem-ipsum
+        label: Warum Epic Fusion?
         default_value: lorem-ipsum
         options: []
         is_required: false
