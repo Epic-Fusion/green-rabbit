@@ -2,7 +2,7 @@
 title: Koffer packen!
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: Bist Du bereit für eine neue Challenge?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
