@@ -12,7 +12,7 @@ sections:
       kennenlernen!
 
 
-      Gerne zeigen wir Dir auf, wie Deine Reise bei uns aussehen könnte.
+      Wir zeigen Dir auf, wo Deine Reise bei uns beginnen könnte.
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
