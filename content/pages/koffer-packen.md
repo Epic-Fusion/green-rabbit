@@ -17,6 +17,7 @@ sections:
     form_action: lorem-ipsum
     form_fields: []
     type: section_form
+    submit_label: Check-In
 seo:
   title: ''
   description: ''
