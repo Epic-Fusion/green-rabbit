@@ -41,7 +41,7 @@ sections:
       - input_type: text
         name: Erfahrung
         label: Was bringst du in einem Koffer mit?
-        default_value: 'Welche besondere '
+        default_value: 'Welche Fähigkeiten, '
         options: []
         is_required: false
         type: form_field
