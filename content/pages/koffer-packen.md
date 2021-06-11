@@ -4,17 +4,13 @@ hide_title: false
 sections:
   - title: Bist Du bereit für eine neue Challenge?
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Wenn Du Dich mit unseren [Werten](https://www.epicfusion.com/werte)
+      identifizieren kannst und aussergewöhnliche Fähigkeiten im Bereich der
+      digitalen Transformation, Digital Workplace, Change Management, Microsoft
+      365 oder Azure Infrastruktur mitbringst, würden wir Dich gerne
+      kennenlernen! 
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
