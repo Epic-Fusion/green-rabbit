@@ -22,6 +22,13 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     type: section_form
     submit_label: Check-In
 seo:
