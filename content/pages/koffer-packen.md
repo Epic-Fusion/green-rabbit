@@ -31,6 +31,15 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: text
+        name: LinkedInProfil
+        label: LinkedIn Profil oder CV
+        default_value: >-
+          Link zu deinem LinkedIn Profil oder anderweitig zur Verfügung
+          gestellter Online-CV
+        options: []
+        is_required: true
+        type: form_field
       - input_type: textarea
         name: Warum Epic Fusion?
         label: Warum Epic Fusion?
@@ -44,15 +53,6 @@ sections:
         default_value: >-
           Welche Fähigkeiten und Erfahrungen zeichnen Dich aus? Welche
           Ausbildungen hast du absolviert?
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: LinkedInProfil
-        label: LinkedIn Profil oder CV
-        default_value: >-
-          Link zu deinem LinkedIn Profil oder anderweitig zur Verfügung
-          gestellter Online-CV
         options: []
         is_required: true
         type: form_field
