@@ -19,7 +19,6 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: 'Vorname, Nachname'
         options: []
         is_required: true
         type: form_field
