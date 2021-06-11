@@ -34,7 +34,7 @@ sections:
       - input_type: textarea
         name: Warum Epic Fusion?
         label: Warum Epic Fusion?
-        default_value: 'Was inspiriert Dich '
+        default_value: 'Was inspiriert Dich, ein Teil von Epic Fusion zu werden?'
         options: []
         is_required: false
         type: form_field
