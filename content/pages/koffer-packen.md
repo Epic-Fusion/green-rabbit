@@ -10,9 +10,6 @@ sections:
       digitalen Transformation, Digital Workplace, Change Management, Microsoft
       365 oder Azure Infrastruktur mitbringst, würden wir Dich gerne
       kennenlernen!
-
-
-      Wir zeigen Dir auf, wo Deine Reise bei uns beginnen könnte.
     form_id: Bewerbung
     form_action: lorem-ipsum
     form_fields:
