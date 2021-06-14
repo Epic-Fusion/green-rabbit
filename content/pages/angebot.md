@@ -12,17 +12,13 @@ sections:
       der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
 
 
-      *   [Cloud-Smart
-      Strategie](#cloud-smart)
+      *   [Cloud-Smart Strategie](#cloud-smart)
 
-      *   [Agile Projekt- und
-      Arbeitsformen](#agile)
+      *   [Agile Projekt- und Arbeitsformen](#agile)
 
-      *   [Employee Experience und
-      Trainings](#employee-experience)
+      *   [Employee Experience und Trainings](#employee-experience)
 
-      *   [App- und
-      Prozessmodernisierung](#modernisierung)
+      *   [App- und Prozessmodernisierung](#modernisierung)
     type: section_content
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
@@ -64,8 +60,7 @@ sections:
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
 
-      [Neugierig wie **Ihre** Strategie aussehen
-      könnte?](#beratungsanfrage)
+      [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
@@ -86,8 +81,7 @@ sections:
       *   Agiles Risiko Management etablieren
 
 
-      [Agile Arbeitsformen auch bei **Ihnen**
-      ausprobieren?](#beratungsanfrage)
+      [Agile Arbeitsformen auch bei **Ihnen** ausprobieren?](#beratungsanfrage)
     type: section_content
   - title: Employee Experience und Trainings
     section_id: employee-experience
@@ -137,7 +131,7 @@ sections:
       *   Datenvisualisierungen mit Microsoft Power BI
 
 
-      [Möchten Sie das Potenzial von Ihrem Use Case
+      [Möchten Sie das Potenzial von **Ihrem** Use Case
       abschätzen?](#beratungsanfrage)
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
