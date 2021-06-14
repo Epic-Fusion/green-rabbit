@@ -20,7 +20,7 @@ sections:
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
-    subtitle: Epic Fusion begleitet Sie bei der digitalen Transformation
+    subtitle: Epic Fusion führt Sie durch die digitale Transformation
     col_number: two
     is_numbered: true
     grid_items:
