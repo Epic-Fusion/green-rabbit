@@ -135,7 +135,9 @@ sections:
       - label: Mehr Beiträge
         url: /blog
         style: button
-    subtitle: teasfk
+    subtitle: >-
+      Mit dem Epic Fusion-Blog bleiben Sie über aktuelle Trends & Tools bestens
+      informiert
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
