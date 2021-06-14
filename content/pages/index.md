@@ -135,6 +135,7 @@ sections:
       - label: Mehr Beiträge
         url: /blog
         style: button
+    subtitle: teasfk
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
