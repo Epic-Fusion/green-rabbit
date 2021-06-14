@@ -20,7 +20,7 @@ sections:
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
-    subtitle: Wie wir Sie begleiten
+    subtitle: Wie wir Sie bei der digitalen Transformation begleiten
     col_number: two
     is_numbered: true
     grid_items:
