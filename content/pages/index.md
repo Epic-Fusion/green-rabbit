@@ -136,7 +136,7 @@ sections:
         url: /blog
         style: button
     subtitle: >-
-      Mit dem Epic Fusion-Blog bleiben Sie über aktuelle Trends & Tools bestens
+      Mit dem Epic Fusion-Blog sind Sie über aktuelle Trends & Tools bestens
       informiert
 seo:
   title: Epic Fusion - Mindset is everything.
