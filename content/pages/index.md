@@ -9,18 +9,20 @@ sections:
       #### Warum Epic Fusion?
 
 
-      Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
-      Damit Sie mit Ihrer Organisation bereit sind, der heutigen Veränderung mit
-      modernen Lösungen zu begegnen. Dabei katalysieren wir die digitale
-      Transformation mit Werten und Prinzipien, um eine nachhaltige Wirkung auf
-      Mensch, Gesellschaft und Organisationen zu schaffen.
+      Machen wir Ihre Initiativen fit für die digitale Zukunft: Gemeinsam mit
+      Epic Fusion begegnen Sie mit Ihrer Organisation den heutigen Veränderung
+      mit modernen Lösungen. Dabei katalysieren wir die digitale Transformation
+      mit zielgerichteten Werten und Prinzipien. So erreichen wir eine
+      nachhaltige Wirkung auf Menschen, die Gesellschaft und Ihre Organisation.
     actions:
       - label: Jetzt mehr erfahren!
         url: /angebot
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
-    subtitle: Wie wir Sie begleiten
+    subtitle: >-
+      Epic Fusion führt Sie sicher und zielgerichtet durch die digitale
+      Transformation
     col_number: two
     is_numbered: true
     grid_items:
@@ -55,7 +57,7 @@ sections:
     type: section_grid
   - title: Unser Angebot
     section_id: lorem-ipsum
-    subtitle: Was wir Ihnen anbieten
+    subtitle: Dank den Epic Fusion-Leistungen sind Sie fit für die digitale Zukunft
     col_number: two
     is_numbered: false
     grid_items:
@@ -128,13 +130,16 @@ sections:
     type: section_grid
   - section_id: latest-posts
     type: section_posts
-    title: Aktuelles
+    title: Aktuelles aus der Digitalwelt
     posts_number: 3
     col_number: three
     actions:
       - label: Mehr Beiträge
         url: /blog
         style: button
+    subtitle: >-
+      Mit dem Epic Fusion-Blog sind Sie über aktuelle Digital-Trends & Tools
+      bestens informiert
 seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
