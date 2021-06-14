@@ -9,11 +9,13 @@ sections:
       #### Warum Epic Fusion?
 
 
-      Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
-      Damit Sie mit Ihrer Organisation bereit sind, der heutigen Veränderung mit
-      modernen Lösungen zu begegnen. Dabei katalysieren wir die digitale
-      Transformation mit Werten und Prinzipien, um eine nachhaltige Wirkung auf
-      Mensch, Gesellschaft und Organisationen zu schaffen.
+      Machen wir Ihre Initiativen fit für die digitale Zukunft. 
+
+
+      Gemeinsam mit Epic Fusion begegnen Sie mit Ihrer Organisation den heutigen
+      Veränderung mit modernen Lösungen. Dabei katalysieren wir die digitale
+      Transformation mit zielgerichteten Werten und Prinzipien. So schaffen wir
+      eine nachhaltige Wirkung auf Mensch, Gesellschaft und Ihre Organisation.
     actions:
       - label: Jetzt mehr erfahren!
         url: /angebot
