@@ -128,7 +128,7 @@ sections:
     type: section_grid
   - section_id: latest-posts
     type: section_posts
-    title: Aktuelles
+    title: Aktuelles aus der Digitalwelt
     posts_number: 3
     col_number: three
     actions:
