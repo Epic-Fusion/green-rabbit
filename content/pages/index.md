@@ -13,7 +13,7 @@ sections:
       Epic Fusion begegnen Sie mit Ihrer Organisation den heutigen Veränderung
       mit modernen Lösungen. Dabei katalysieren wir die digitale Transformation
       mit zielgerichteten Werten und Prinzipien. So erreichen wir eine
-      nachhaltige Wirkung auf Mensch, Gesellschaft und Ihre Organisation.
+      nachhaltige Wirkung auf Menschen, die Gesellschaft und Ihre Organisation.
     actions:
       - label: Jetzt mehr erfahren!
         url: /angebot
