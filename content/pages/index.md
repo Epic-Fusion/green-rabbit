@@ -128,10 +128,10 @@ sections:
       - title: App- und Prozessmodernisierung
         image_alt: lorem-ipsum
         content: >
-          Um Raum für neue Ideen und echte Transformation zu ermöglichen,
-          begleiten wir bei der Auflösung veralteter Applikationen und Prozesse.
-          Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
-          integrale Lösungen.
+          Neue Ideen und wirkungsvolle Veränderungen brauchen Raum. Epic Fusion
+          begleitet Sie bei der Auflösung veralteter Applikationen und Prozesse.
+          Mit ganzheitlichen Ansätzen schaffen wir für Ihr Unternehmen eine
+          moderne, zugängliche und integrale Lösung.
         actions:
           - label: Disruption initieren
             url: /angebot
