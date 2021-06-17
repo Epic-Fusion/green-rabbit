@@ -13,7 +13,7 @@ seo:
 layout: post
 image: /images/iStock-901621108-1750px-min.jpg
 thumb_image: /images/iStock-901621108-850px-min.jpg
-excerpt: "Unsere Evolution beginnt! Machen wir Ihre Initiativen fit für die digitale Zukunft. Wie gelingt es Organisationen,\_ dem Wandel in der Arbeitswelt erfolgreich zu begegnen?"
+excerpt: "Unsere Evolution beginnt! Machen wir Ihre Initiativen fit für die digitale Zukunft. Wie gelingt es Unternehmen,\_ dem Wandel in der Arbeitswelt erfolgreich zu begegnen?"
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
