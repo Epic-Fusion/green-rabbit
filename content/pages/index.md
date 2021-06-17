@@ -101,7 +101,7 @@ sections:
           selbstorganisierte Teams – Epic Fusion steht Ihren Mitarbeitenden
           kompetent zur Seite.
         actions:
-          - label: Vision etablieren
+          - label: Vorgehen etablieren
             url: /angebot
             style: button
             icon: dribbble
