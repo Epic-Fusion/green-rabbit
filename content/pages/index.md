@@ -115,7 +115,7 @@ sections:
           Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist
           die Einbindung von Mensch, Kultur und Technologie essentiell. Epic
           Fusion setzt auf praktische Lösungen, welche den Arbeitsalltag Ihrer
-          Mitarbeitenden verbessern und Arbeiten vereinfachen
+          Mitarbeitenden verbessert und das Arbeiten vereinfacht.
         actions:
           - label: Menschen verbinden
             url: /angebot
