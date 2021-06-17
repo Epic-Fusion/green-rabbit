@@ -67,7 +67,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Gemeinsam erreichen Sie mehr: Bringen Sie Menschen zusammen, die mit
-          Freude interagieren. Aktivieren Sie ihr individuelles Potenzial und
+          Freude interagieren. Aktivieren Sie individuelle Talente und
           verbessern Sie somit die Leistung ganzer Teams.
         actions: []
         type: grid_item
