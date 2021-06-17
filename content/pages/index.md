@@ -31,13 +31,6 @@ sections:
       - label: Jetzt mehr erfahren
         url: /angebot
         style: button
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
     subtitle: >-
