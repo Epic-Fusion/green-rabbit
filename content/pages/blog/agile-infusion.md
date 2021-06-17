@@ -4,8 +4,9 @@ date: '2021-05-24'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Agile Methoden sind vielfältig. Gemeinsam etablieren wir die notwendigen
-  Praktiken für die Herausforderungen der digitalen Arbeit von morgen.
+  Agile Methoden sind vielfältig. Je nach Ausgangslage etablieren wir mit Agile
+  InFusion die notwendigen Praktiken für die Herausforderungen der digitalen
+  Arbeitswelt. Doch – wie zahlt sich ein agiles Mindset aus?
 seo:
   title: ''
   description: ''
