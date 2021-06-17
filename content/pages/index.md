@@ -14,9 +14,9 @@ sections:
       modernen Lösungen. Vom Schaffen einer digitalen Arbeitsumgebung bis hin zu
       verständlichem Agile Coaching und einer cleveren Cloud-Strategie –
       gemeinsam machen wir die digitalen Technologien und Techniken zu Ihrem
-      Wettbewerbsvorteil. Erzielen wir mit der digitalen Transformation eine
-      nachhaltige Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
-      Unternehmenserfolg.
+      Wettbewerbsvorteil. Erzielen Sie mit Epic Fusion und der digitalen
+      Transformation eine nachhaltige Wirkung auf Ihre Mitarbeitenden, das
+      Betriebsklima und Ihren Unternehmenserfolg.
 
 
       ### Vertrauen Sie auf Epic Fusion
