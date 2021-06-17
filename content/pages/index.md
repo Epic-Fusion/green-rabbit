@@ -144,7 +144,7 @@ seo:
   title: Epic Fusion - Mindset is everything.
   description: >-
     Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
-    Coaching • Cloud Strategie ✓ Epic Fusion begleitet Sie bei der digitalen
+    Coaching • Cloud Strategie ✓ Epic Fusion führt Sie durch die digitale
     Transformation.
   extra:
     - name: 'og:type'
