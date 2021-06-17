@@ -97,7 +97,7 @@ sections:
         content: >
           Agile Arbeitsformen bedeuten einen Lernprozess. Wir etablieren die
           agilen Praktiken schrittweise. Das Ziel: Ihre Arbeitskultur und
-          Projektmethodik langfristig zu stärken. Ob Scrum, Kanban oder
+          Projektmethodik langfristig stärken. Ob Scrum, Kanban oder
           selbstorganisierte Teams – Epic Fusion steht Ihren Mitarbeitenden
           kompetent zur Seite.
         actions:
