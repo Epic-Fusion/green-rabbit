@@ -95,10 +95,11 @@ sections:
       - title: Agile Projekt- und Arbeitsformen
         image_alt: lorem-ipsum
         content: >
-          Agile Arbeitsformen bedeuten einen Lernprozess. Wir etablieren  agile
-          Praktiken schrittweise. Das Ziel:  und langfristig zu stärken. Ob
-          Projektmethodik nach Scrum, Kanban oder selbstorganisierte Teams –
-          Epic Fusion steht Ihrem Unternehmen kompetent zur Seite.
+          Agile Arbeitsformen bedeuten einen Lernprozess. Wir etablieren die
+          agile Praktiken schrittweise. Das Ziel: Ihre Arbeitskultur und
+          Projektmethodik langfristig zu stärken. Ob Scrum, Kanban oder
+          selbstorganisierte Teams – Epic Fusion steht Ihren Mitarbeitenden
+          kompetent zur Seite.
         actions:
           - label: Vision etablieren
             url: /angebot
