@@ -85,7 +85,7 @@ sections:
           Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft.
         actions:
           - label: Potenzial nutzen
-            url: /angebot
+            url: '/angebot#cloud-smart'
             style: button
             icon: dribbble
             new_window: false
@@ -102,7 +102,7 @@ sections:
           kompetent zur Seite.
         actions:
           - label: Flexibilität etablieren
-            url: /angebot
+            url: '/angebot#agile'
             style: button
             icon: dribbble
             new_window: false
@@ -118,7 +118,7 @@ sections:
           Mitarbeitenden verbessert und das Arbeiten vereinfacht.
         actions:
           - label: Menschen verbinden
-            url: /angebot
+            url: '/angebot#employee-experience'
             style: button
             icon: dribbble
             new_window: false
@@ -134,7 +134,7 @@ sections:
           moderne, zugängliche und ganzheitliche Lösung.
         actions:
           - label: Prozesse vereinfachen
-            url: /angebot
+            url: '/angebot#modernisierung'
             style: button
             icon: dribbble
             new_window: false
