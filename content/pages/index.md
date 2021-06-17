@@ -43,8 +43,8 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Reichern Sie Ihre Organisationskultur und digitalen Strategien mit
-          einem Mindset der kontinuierlichen Veränderung an. Wir denken für Sie
-          in Lösungen.
+          einem Mindset der kontinuierlichen Veränderung an. Mit Epic Fusion
+          denken Sie in Lösungen.
         actions: []
         type: grid_item
       - title: Agilität etablieren
