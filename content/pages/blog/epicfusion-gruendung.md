@@ -16,7 +16,7 @@ thumb_image: /images/iStock-901621108-850px-min.jpg
 excerpt: >-
   Die technische Evolution beginnt! Machen wir Ihr Unternehmen fit für die
   digitale Zukunft. Wie setzen Sie den technischen Wandel in der Arbeitswelt für
-  Ihre Projekte erfolgreich ein?
+  Ihre Projekte erfolgreich ein? Weiterlesen..
 ---
 **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen. Das ist unsere Geschichte.**
 
