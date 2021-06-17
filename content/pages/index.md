@@ -39,7 +39,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Veränderung herausfordern
+      - title: Veränderung nutzen
         image_alt: lorem-ipsum
         content: >
           Mit digitalen Strategien Ihre Organisationskultur mit einem Mindset
