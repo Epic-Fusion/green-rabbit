@@ -66,8 +66,9 @@ sections:
       - title: Kollektives Potenzial entfesseln
         image_alt: lorem-ipsum
         content: >
-          Menschen zusammenbringen, die mit Freude interagieren und ihr volles
-          Potenzial mit ihrem Team aktivieren können - jeden Tag.
+          Gemeinsam erreichen Sie mehr: Bringen Sie Menschen zusammen, die mit
+          Freude interagieren. Aktivieren Sie ihr individuelles Potenzial und
+          verbessern Sie somit die Leistung ganzer Teams.
         actions: []
         type: grid_item
     type: section_grid
