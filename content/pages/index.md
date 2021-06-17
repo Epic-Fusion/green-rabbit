@@ -12,25 +12,21 @@ sections:
       Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet und sicher durch
       die digitale Transformation. So begegnen Sie den heutigen Veränderungen
       mit modernen Lösungen. Vom Schaffen einer digitalen Arbeitsumgebung bis
-      hin zu Agile Coaching  und einer cleveren Cloud-Strategie – gemeinsam
-      machen wir die digitalen Technologien und Techniken zu Ihrem
-      Wettbewerbsvorteil.
+      hin zu verständlichem Agile Coaching und einer cleveren Cloud-Strategie –
+      gemeinsam machen wir die digitalen Technologien und Techniken zu Ihrem
+      Wettbewerbsvorteil. Erzielen wir mit der digitalen Transformation eine
+      nachhaltige Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
+      Unternehmenserfolg.
 
 
-      #### Warum mit Epic Fusion?
+      #### Vertrauen Sie auf Epic Fusion
 
 
       Wir sind überzeugt: «Mindset is everything». Die Zusammenarbeit mit
       unseren Kunden basiert auf festen Prinzipien wie «Purpose over Profits»,
-      «We over Me» und «Learnt-It over Know-It». So erzielen wir mit der
-      digitalen Transformation von Unternehmen eine nachhaltige Wirkung auf
-      Menschen, die Gesellschaft und Umwelt.
-
-
-      Jetzt sind Sie gefragt: Ist Ihr Unternehmen bereit für die digitale
-      Zukunft? Erzielen wir mit der digitalen Transformation eine nachhaltige
-      Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
-      Unternehmenserfolg.
+      «We over Me» und «Learnt-It over Know-It». So schaffen wir mit unserer
+      Arbeit, der digitalen Transformation von Unternehmen, einen nachhaltigen
+      Mehrwert für Menschen, die Gesellschaft und Umwelt.
     actions:
       - label: Jetzt mehr erfahren
         url: /angebot
