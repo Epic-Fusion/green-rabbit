@@ -9,14 +9,17 @@ sections:
       #### Sind Sie fit für die digitale Zukunft?
 
 
-      Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet durch die digitale
-      Transformation. So begegnen Sie den heutigen Veränderungen mit modernen
-      Lösungen. Vom Schaffen einer digitalen Arbeitsumgebung bis hin zu Agile
-      Coaching  und einer sicheren Cloud-Strategie – gemeinsam machen wir die
-      digitalen Technologien und Techniken zu Ihrem Wettbewerbsvorteil. Wir sind
-      überzeugt: Mindset is everything. Mit dem Fokussieren auf Ihre Werte und
-      Prinzipien erreichen wir mit der digitalen Transformation eine nachhaltige
-      Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
+      Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet und sicher durch
+      die digitale Transformation. So begegnen Sie den heutigen Veränderungen
+      mit modernen Lösungen. Vom Schaffen einer digitalen Arbeitsumgebung bis
+      hin zu Agile Coaching  und einer cleveren Cloud-Strategie – gemeinsam
+      machen wir die digitalen Technologien und Techniken zu Ihrem
+      Wettbewerbsvorteil. 
+
+
+      Wir sind überzeugt: Mindset is everything. Mit dem Fokussieren auf Ihre
+      Werte und Prinzipien erreichen wir mit der digitalen Transformation eine
+      nachhaltige Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
       Unternehmenserfolg.
     actions:
       - label: Jetzt mehr erfahren
