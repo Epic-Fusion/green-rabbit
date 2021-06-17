@@ -78,12 +78,11 @@ sections:
     grid_items:
       - title: Cloud-Smart Strategie
         image_alt: lorem-ipsum
-        content: >+
+        content: >
           Gemeinsam erarbeiten wir eine intelligente, phasenweise
-          Cloud-Enablement Strategie und reduzieren damit Komplexität bei
-          gleichen Ressourcen. Damit verbinden wir Ihre Anforderungen und
-          Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft. 
-
+          Cloud-Enablement Strategie. Damit reduzieren wir die Komplexität bei
+          gleichen Ressourcen. Epic Fusion verbindet Ihre Anforderungen und
+          Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft.
         actions:
           - label: Zyklus starten
             url: /angebot
