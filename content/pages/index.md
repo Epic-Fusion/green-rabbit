@@ -25,7 +25,7 @@ sections:
       Wir sind überzeugt: «Mindset is everything». Die Zusammenarbeit mit
       unseren Kunden basiert auf festen Prinzipien wie «Purpose over Profits»,
       «We over Me» und «Learnt-It over Know-It». So schaffen wir mit unserer
-      Arbeit, der digitalen Transformation von Unternehmen, einen relevanten
+      Arbeit – der digitalen Transformation von Unternehmen – einen relevanten
       Mehrwert für Menschen, die Gesellschaft und Umwelt.
     actions:
       - label: Digitale Transformation starten
@@ -40,9 +40,9 @@ sections:
       - title: Veränderungen nutzen
         image_alt: lorem-ipsum
         content: >
-          Denken Sie in Lösungen: Reichern Sie Ihre Organisationskultur und
+          In Lösungen denken: Reichern Sie Ihre Organisationskultur und
           digitalen Strategien mit einer positiven Einstellung zu
-          kontinuierlichen Veränderung und Verbesserungen an.
+          kontinuierlicher Veränderung und Verbesserung an.
         actions: []
         type: grid_item
       - title: Agilität etablieren
@@ -96,8 +96,8 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Agile Arbeitsformen bedeuten einen Lernprozess. Wir etablieren die
-          agile Praktiken schrittweise. Das Ziel: Ihre Arbeitskultur und
-          Projektmethodik langfristig zu stärken. Ob Scrum, Kanban oder
+          agilen Praktiken schrittweise. Das Ziel: Ihre Arbeitskultur und
+          Projektmethodik langfristig stärken. Ob Scrum, Kanban oder
           selbstorganisierte Teams – Epic Fusion steht Ihren Mitarbeitenden
           kompetent zur Seite.
         actions:
@@ -113,9 +113,9 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist
-          die Integration von Mensch, Kultur und Technologie essentiell. Epic
+          die Einbindung von Mensch, Kultur und Technologie essentiell. Epic
           Fusion setzt auf praktische Lösungen, welche den Arbeitsalltag Ihrer
-          Mitarbeitenden verbessern und Arbeiten vereinfachen
+          Mitarbeitenden verbessert und das Arbeiten vereinfacht.
         actions:
           - label: Menschen verbinden
             url: /angebot
@@ -131,7 +131,7 @@ sections:
           Neue Ideen und wirkungsvolle Veränderungen brauchen Raum. Epic Fusion
           begleitet Sie bei der Auflösung veralteter Applikationen und Prozesse.
           Mit ganzheitlichen Ansätzen schaffen wir für Ihr Unternehmen eine
-          moderne, zugängliche und integrale Lösung.
+          moderne, zugängliche und ganzheitliche Lösung.
         actions:
           - label: Prozesse vereinfachen
             url: /angebot
@@ -151,7 +151,9 @@ sections:
       - label: Mehr Blog-Beiträge
         url: /blog
         style: button
-    subtitle: 'Epic Fusion Blog: Bestens über aktuelle Digital-Trends & Tools informiert'
+    subtitle: >-
+      Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
+      informiert
 seo:
   title: Mindset is everything | Epic Fusion
   description: >-
