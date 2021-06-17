@@ -58,8 +58,9 @@ sections:
       - title: Arbeitsplatz modernisieren
         image_alt: lorem-ipsum
         content: >
-          Einen digitalen Arbeitsplatz für Ihre Mitarbeiter:innen gestalten,
-          planen und umsetzen. Für alle, von überall, und jederzeit.
+          Für alle von überall und jederzeit: Schaffen Sie einen digitalen
+          Arbeitsplatz für Ihre Mitarbeitenden – Epic Fusion begleitet Sie von
+          der Planung bis zur Umsetzung.
         actions: []
         type: grid_item
       - title: Kollektives Potenzial entfesseln
