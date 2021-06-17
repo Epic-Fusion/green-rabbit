@@ -39,7 +39,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Nutzen Sie Veränderungen
+      - title: Veränderungen nutzen
         image_alt: lorem-ipsum
         content: >
           Denken Sie in Lösungen: Reichern Sie Ihre Organisationskultur und
