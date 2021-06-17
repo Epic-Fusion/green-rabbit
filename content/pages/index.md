@@ -113,7 +113,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist
-          die Integration von Mensch, Kultur und Technologie essentiell. Epic
+          die Einbindung von Mensch, Kultur und Technologie essentiell. Epic
           Fusion setzt auf praktische Lösungen, welche den Arbeitsalltag Ihrer
           Mitarbeitenden verbessern und Arbeiten vereinfachen
         actions:
