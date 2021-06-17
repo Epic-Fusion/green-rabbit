@@ -166,7 +166,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Epic Fusion GmbH - Mindset is everything.
+      value: Mindset is everything | Epic Fusion
     - name: 'twitter:description'
       value: >-
         Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
