@@ -102,7 +102,7 @@ sections:
           kompetent zur Seite.
         actions:
           - label: Flexibilität etablieren
-            url: /angebot
+            url: '/angebot#agile'
             style: button
             icon: dribbble
             new_window: false
