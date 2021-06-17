@@ -14,12 +14,22 @@ sections:
       mit modernen Lösungen. Vom Schaffen einer digitalen Arbeitsumgebung bis
       hin zu Agile Coaching  und einer cleveren Cloud-Strategie – gemeinsam
       machen wir die digitalen Technologien und Techniken zu Ihrem
-      Wettbewerbsvorteil. 
+      Wettbewerbsvorteil.
 
 
-      Wir sind überzeugt: Mindset is everything. Mit dem Fokussieren auf Ihre
-      Werte und Prinzipien erreichen wir mit der digitalen Transformation eine
-      nachhaltige Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
+      #### Warum mit Epic Fusion?
+
+
+      Wir sind überzeugt: «Mindset is everything». Die Zusammenarbeit mit
+      unseren Kunden basiert auf festen Prinzipien wie «Purpose over Profits»,
+      «We over Me» und «Learnt-It over Know-It». So erzielen wir mit der
+      digitalen Transformation von Unternehmen eine nachhaltige Wirkung auf
+      Menschen, die Gesellschaft und Umwelt.
+
+
+      Jetzt sind Sie gefragt: Ist Ihr Unternehmen bereit für die digitale
+      Zukunft? Erzielen wir mit der digitalen Transformation eine nachhaltige
+      Wirkung auf Ihre Mitarbeitenden, das Betriebsklima und Ihren
       Unternehmenserfolg.
     actions:
       - label: Jetzt mehr erfahren
