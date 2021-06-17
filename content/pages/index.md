@@ -72,7 +72,7 @@ sections:
     type: section_grid
   - title: Unser Angebot
     section_id: lorem-ipsum
-    subtitle: Dank den Epic Fusion Leistungen sind Sie fit für die digitale Zukunft
+    subtitle: Mit Epic Fusion sind Sie fit für die digitale Zukunft
     col_number: two
     is_numbered: false
     grid_items:
