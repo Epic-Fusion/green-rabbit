@@ -155,9 +155,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Wir machen Ihre digitalen Initiativen fit für die digitale Zukunft.
-        Digital Workplace Microsoft 365, Agile Coaching, Cloud Strategie,
-        Teamwork und Collaboration
+        Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
+        Coaching • Cloud Strategie ✓ Epic Fusion führt Sie durch die digitale
+        Transformation.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
