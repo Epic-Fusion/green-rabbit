@@ -42,7 +42,7 @@ sections:
         content: >
           In Lösungen denken: Reichern Sie Ihre Organisationskultur und
           digitalen Strategien mit einer positiven Einstellung zu
-          kontinuierlichen Veränderung und Verbesserungen an.
+          kontinuierlicher Veränderung und Verbesserung an.
         actions: []
         type: grid_item
       - title: Agilität etablieren
