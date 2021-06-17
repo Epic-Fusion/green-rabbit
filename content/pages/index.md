@@ -131,7 +131,7 @@ sections:
           Neue Ideen und wirkungsvolle Veränderungen brauchen Raum. Epic Fusion
           begleitet Sie bei der Auflösung veralteter Applikationen und Prozesse.
           Mit ganzheitlichen Ansätzen schaffen wir für Ihr Unternehmen eine
-          moderne, zugängliche und integrale Lösung.
+          moderne, zugängliche und ganzheitliche Lösung.
         actions:
           - label: Prozesse vereinfachen
             url: /angebot
