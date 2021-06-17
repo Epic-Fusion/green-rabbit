@@ -152,7 +152,7 @@ sections:
         url: /blog
         style: button
     subtitle: >-
-      Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends & Tools
+      Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
       informiert
 seo:
   title: Mindset is everything | Epic Fusion
