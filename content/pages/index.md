@@ -50,8 +50,9 @@ sections:
       - title: Agilität etablieren
         image_alt: lorem-ipsum
         content: >
-          Proaktiv den Paradigmenwechsel zu agilen Arbeitsformen in der
-          Organisation leben, in Projekten, mit den Menschen.
+          Fokussieren Sie auf Flexibilität : Nutzen Sie proaktiv agile
+          Arbeitsformen innerhalb Ihrer  Organisation, in Projekten und in der
+          Zusammenarbeit im Team.
         actions: []
         type: grid_item
       - title: Arbeitsplatz modernisieren
