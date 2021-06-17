@@ -151,7 +151,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Epic Fusion GmbH - Mindset is everything.
+      value: Mindset is everything | Epic Fusion
       keyName: property
     - name: 'og:description'
       value: >-
