@@ -15,7 +15,7 @@ sections:
       mit zielgerichteten Werten und Prinzipien. So erreichen wir eine
       nachhaltige Wirkung auf Menschen, die Gesellschaft und Ihre Organisation.
     actions:
-      - label: Jetzt mehr erfahren!
+      - label: Jetzt mehr erfahren
         url: /angebot
         style: button
   - title: Unsere Kompetenzen
