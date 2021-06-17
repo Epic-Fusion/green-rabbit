@@ -134,7 +134,7 @@ sections:
           moderne, zugängliche und ganzheitliche Lösung.
         actions:
           - label: Prozesse vereinfachen
-            url: /angebot
+            url: '/angebot#modernisierung'
             style: button
             icon: dribbble
             new_window: false
