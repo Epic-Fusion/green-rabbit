@@ -50,9 +50,9 @@ sections:
       - title: Agilität etablieren
         image_alt: lorem-ipsum
         content: >
-          Fokussieren Sie auf Flexibilität : Nutzen Sie proaktiv agile
-          Arbeitsformen innerhalb Ihrer  Organisation, in Projekten und in der
-          Zusammenarbeit im Team.
+          Fokussieren Sie auf Flexibilität : Setzen Sie agile Arbeitsformen
+          innerhalb Ihrer Organisation, in Projekten und in der Zusammenarbeit
+          im Team proaktiv ein – zugunsten von mehr Flexibilität und Effizienz.
         actions: []
         type: grid_item
       - title: Arbeitsplatz modernisieren
