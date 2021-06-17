@@ -25,7 +25,7 @@ sections:
       Wir sind überzeugt: «Mindset is everything». Die Zusammenarbeit mit
       unseren Kunden basiert auf festen Prinzipien wie «Purpose over Profits»,
       «We over Me» und «Learnt-It over Know-It». So schaffen wir mit unserer
-      Arbeit, der digitalen Transformation von Unternehmen, einen relevanten
+      Arbeit – der digitalen Transformation von Unternehmen – einen relevanten
       Mehrwert für Menschen, die Gesellschaft und Umwelt.
     actions:
       - label: Digitale Transformation starten
