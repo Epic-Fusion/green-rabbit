@@ -26,7 +26,7 @@ export default class SectionPosts extends React.Component {
                             <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                         </div>
                     </header>
-                    {excerpt && <p className="post-content">{excerpt} <Link href={postUrl}>Weiterlesen..</Link></p>}
+                    {excerpt && <p className="post-content">{excerpt} <Link href={postUrl}>Weiterlesen.</Link></p>}
                 </div>
             </article>
         );
