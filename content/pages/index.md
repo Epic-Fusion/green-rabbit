@@ -43,8 +43,8 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Denken Sie in Lösungen: Reichern Sie Ihre Organisationskultur und
-          digitalen Strategien mit einem Mindset der kontinuierlichen
-          Veränderung und Verbesserung an.
+          digitalen Strategien mit einer positiven Einstellung zu
+          kontinuierlichen Veränderung und Verbesserungen an.
         actions: []
         type: grid_item
       - title: Agilität etablieren
