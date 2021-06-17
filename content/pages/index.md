@@ -28,7 +28,7 @@ sections:
       Arbeit, der digitalen Transformation von Unternehmen, einen relevanten
       Mehrwert für Menschen, die Gesellschaft und Umwelt.
     actions:
-      - label: Jetzt mehr erfahren
+      - label: Wofür Epic Fusion steht
         url: /angebot
         style: button
   - title: Unsere Kompetenzen
