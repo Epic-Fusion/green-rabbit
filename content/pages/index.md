@@ -118,7 +118,7 @@ sections:
           Mitarbeitenden verbessert und das Arbeiten vereinfacht.
         actions:
           - label: Menschen verbinden
-            url: /angebot
+            url: '/angebot#employee-experience'
             style: button
             icon: dribbble
             new_window: false
