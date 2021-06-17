@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Epic Fusion: Mindset is everything'
     content: >
-      #### Sind Sie fit für die digitale Zukunft?
+      ## Sind Sie fit für die digitale Zukunft?
 
 
       Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet und sicher durch
@@ -19,7 +19,7 @@ sections:
       Unternehmenserfolg.
 
 
-      #### Vertrauen Sie auf Epic Fusion
+      ## Vertrauen Sie auf Epic Fusion
 
 
       Wir sind überzeugt: «Mindset is everything». Die Zusammenarbeit mit
