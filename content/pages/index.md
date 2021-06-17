@@ -44,7 +44,7 @@ sections:
         content: >
           Denken Sie in Lösungen: Reichern Sie Ihre Organisationskultur und
           digitalen Strategien mit einem Mindset der kontinuierlichen
-          Veränderung an.
+          Veränderung und Verbesserung an.
         actions: []
         type: grid_item
       - title: Agilität etablieren
