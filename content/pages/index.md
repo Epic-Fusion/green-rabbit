@@ -112,10 +112,10 @@ sections:
       - title: Employee Experience und Training
         image_alt: lorem-ipsum
         content: >
-          Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
-          Veränderung ist die Integration von Mensch, Kultur und Technologie.
-          Wir bilden und vereinen sinnhafte, praktische Lösungen, die
-          Mitarbeitende lieben.
+          Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist
+          die Integration von Mensch, Kultur und Technologie essentiell. Wir
+          bilden und vereinen praktische Lösungen, welche die Arbeit Ihrer
+          Mitarbeitende vereinfacht.
         actions:
           - label: Menschen verbinden
             url: /angebot
