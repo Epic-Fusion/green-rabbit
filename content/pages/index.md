@@ -184,7 +184,7 @@ seo:
     - name: 'twitter:description'
       value: >-
         Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
-        Coaching • Cloud Strategie ✓ Epic Fusion führt Sie durch die digitale
+        Coaching • Cloud-Strategie ✓ Epic Fusion führt Sie durch die digitale
         Transformation.
     - name: 'twitter:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
