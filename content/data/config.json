@@ -8,11 +8,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Start",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "Angebot",
                 "url": "/angebot",
                 "style": "link",
