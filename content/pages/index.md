@@ -148,7 +148,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: Mehr Beiträge
+      - label: Mehr Blog-Beiträge
         url: /blog
         style: button
     subtitle: Bestens über aktuelle Digital-Trends & Tools informiert
