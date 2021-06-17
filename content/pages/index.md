@@ -40,7 +40,7 @@ sections:
       - title: Veränderungen nutzen
         image_alt: lorem-ipsum
         content: >
-          Denken Sie in Lösungen: Reichern Sie Ihre Organisationskultur und
+          In Lösungen denken: Reichern Sie Ihre Organisationskultur und
           digitalen Strategien mit einer positiven Einstellung zu
           kontinuierlichen Veränderung und Verbesserungen an.
         actions: []
