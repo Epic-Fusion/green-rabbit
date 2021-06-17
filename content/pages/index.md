@@ -142,7 +142,9 @@ sections:
       bestens informiert
 seo:
   title: Epic Fusion - Mindset is everything.
-  description: 'Machen wir Ihre Initiativen fit für die digitale Zukunft ✓ '
+  description: >-
+    Machen wir Ihre Initiativen fit für die digitale Zukunft ✓ Digital Workplace
+    Microsoft 365, Agile Coaching, Cloud Strategie, Teamwork und Collaboration
   extra:
     - name: 'og:type'
       value: website
