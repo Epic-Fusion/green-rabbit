@@ -84,7 +84,7 @@ sections:
           gleichen Ressourcen. Epic Fusion verbindet Ihre Anforderungen und
           Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft.
         actions:
-          - label: Zyklus starten
+          - label: Strategie starten
             url: /angebot
             style: button
             icon: dribbble
