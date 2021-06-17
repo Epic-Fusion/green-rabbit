@@ -142,7 +142,7 @@ sections:
       bestens informiert
 seo:
   title: Epic Fusion - Mindset is everything.
-  description: 'Machen wir Ihre Initiativen fit für die digitale Zukunft: '
+  description: 'Machen wir Ihre Initiativen fit für die digitale Zukunft ✓ '
   extra:
     - name: 'og:type'
       value: website
