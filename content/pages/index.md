@@ -10,7 +10,7 @@ sections:
 
 
       Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet durch die digitale
-      Transformation. Begegnen Sie den heutigen Veränderungen mit modernen
+      Transformation. So begegnen Sie den heutigen Veränderungen mit modernen
       Lösungen. Vom Schaffen einer digitalen Arbeitsumgebung bis hin zu Agile
       Coaching  und einer sicheren Cloud-Strategie – gemeinsam machen wir die
       digitalen Technologien und Techniken zu Ihrem Wettbewerbsvorteil. Wir sind
