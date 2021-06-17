@@ -85,7 +85,7 @@ sections:
           Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft.
         actions:
           - label: Potenzial nutzen
-            url: /angebot
+            url: '/angebot#cloud-smart'
             style: button
             icon: dribbble
             new_window: false
