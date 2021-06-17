@@ -29,7 +29,7 @@ sections:
       Mehrwert für Menschen, die Gesellschaft und Umwelt.
     actions:
       - label: Digitale Transformation starten
-        url: /angebot
+        url: '/angebot#beratungsanfrage'
         style: button
   - title: Unsere Kompetenzen
     section_id: lorem-ipsum
