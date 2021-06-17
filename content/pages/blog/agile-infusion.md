@@ -4,9 +4,9 @@ date: '2021-05-24'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Agile Methoden sind sehr vielfältig und doch basieren sie alle auf einem
-  gemeinsamen Fundament. Mit unserer agilen InFusion bilden wir die Basis für
-  agile Arbeitsweisen in Ihrem Unternehmen.
+  Agile Methoden sind vielfältig. Je nach Ausgangslage etablieren wir mit Agile
+  InFusion die notwendigen Praktiken für die Herausforderungen der digitalen
+  Arbeitswelt. Doch – wie zahlt sich ein agiles Mindset aus?
 seo:
   title: ''
   description: ''
