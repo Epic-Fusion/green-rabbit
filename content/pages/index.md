@@ -133,7 +133,7 @@ sections:
           Mit ganzheitlichen Ansätzen schaffen wir für Ihr Unternehmen eine
           moderne, zugängliche und integrale Lösung.
         actions:
-          - label: Disruption initieren
+          - label: Prozesse vereinfachen
             url: /angebot
             style: button
             icon: dribbble
