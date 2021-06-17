@@ -27,7 +27,7 @@ export default class SectionPosts extends React.Component {
                         </div>
                     </header>
                     {excerpt && <p className="post-content">{excerpt}</p>}
-                    
+                    <p className="post-content">
                 </div>
             </article>
         );
