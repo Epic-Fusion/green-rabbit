@@ -49,4 +49,3 @@ Die Kunst des modernen Arbeitens ist, wenn alle Elemente ideal zusammenspielen. 
 
 ![](/images/Blog-Sanche-min.png)
 
-Test
