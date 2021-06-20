@@ -57,6 +57,8 @@ sections:
 
       *   Kommunikation & Telefonie mit Microsoft Teams
 
+      *   Intranet-Lösungen mit Microsoft Viva Connections
+
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
 
