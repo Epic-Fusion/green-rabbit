@@ -61,6 +61,8 @@ sections:
 
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
+      *   Effizientes Sitzungsmanagement
+
 
       [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
     type: section_content
@@ -102,6 +104,8 @@ sections:
       *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
+
+      *   Meeting-Kultur verbessern, Hybrid-Meeting Strategien erarbeiten
 
 
       [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
