@@ -61,6 +61,8 @@ sections:
 
       *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
 
+      *   Effizientes Sitzungsmanagement
+
 
       [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
     type: section_content
