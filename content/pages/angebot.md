@@ -105,6 +105,8 @@ sections:
 
       *   Die Grundlagen für eine lebendige Kultur schaffen
 
+      *   Meeting-Kultur verbessern, Hybrid-Meeting Strategien erarbeiten
+
 
       [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
       werden?](#beratungsanfrage)
