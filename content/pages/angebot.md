@@ -256,7 +256,7 @@ sections:
           *   Workflowintegration Azure Functions und Logic Apps
           *   Line of Business Applikationen verbinden
         actions:
-          - label: lorem-ipsum
+          - label: 'Azure '
             url: '#'
             style: link
             icon: dribbble
