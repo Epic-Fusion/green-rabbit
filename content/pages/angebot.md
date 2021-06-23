@@ -212,7 +212,7 @@ sections:
           *   Beratung zu interaktiven Self-Service Lernportalen
           *   Integrierende Lösungen in bestehende Kommunikation
         actions:
-          - label: 'Ich möchte '
+          - label: Möchten Sie Ihre Mitarbeitenden befähigen?
             url: '#'
             style: link
             icon: dribbble
