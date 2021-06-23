@@ -32,7 +32,7 @@ sections:
 
       [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
     type: section_content
-  - section_id: lorem-ipsum
+  - section_id: cloud-smart
     col_number: three
     is_numbered: false
     grid_items:
