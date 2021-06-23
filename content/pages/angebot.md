@@ -212,7 +212,7 @@ sections:
           *   Beratung zu interaktiven Self-Service Lernportalen
           *   Integrierende Lösungen in bestehende Kommunikation
         actions:
-          - label: lorem-ipsum
+          - label: 'Ich möchte '
             url: '#'
             style: link
             icon: dribbble
