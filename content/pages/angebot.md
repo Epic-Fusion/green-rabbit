@@ -240,7 +240,14 @@ sections:
           *   Beratung und Begleitung für echte digitale Lösungen
           *   Konzeptions- und Design Thinking Workshops
           *   Potenzial-Analyse und Assessments
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Microsoft Azure
         image_alt: lorem-ipsum
