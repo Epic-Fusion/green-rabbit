@@ -81,7 +81,14 @@ sections:
           *   Effektivere Meetings etablieren mit Agenda App
           *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
     title: Clevere Cloud Strategien
