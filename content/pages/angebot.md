@@ -39,7 +39,7 @@ sections:
       - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Wie sieht Ihre Ausgangslage dazu aus?
             url: '#'
             style: link
             icon: dribbble
