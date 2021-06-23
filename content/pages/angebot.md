@@ -82,7 +82,7 @@ sections:
           *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
         actions:
-          - label: lorem-ipsum
+          - label: Zusammenarbeit bei Ihnen verbessern?
             url: '#'
             style: link
             icon: dribbble
