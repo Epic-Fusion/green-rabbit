@@ -188,16 +188,15 @@ sections:
       - title: Employee Experience
         image_alt: lorem-ipsum
         content: >
-          *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung und
-          Stärkung der Kultur
+          *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung
 
           *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial in
-          der Organisation entfesseln 
+          der Organisation entfesseln
 
           *   Begleitung zur Etablierung unterstützender Portallösungen wie
           Intranets
 
-          *   Integrierende Ansätze zu Hybrid-Work Herausforderungen
+          *   Lösungen für Hybrid-Work Herausforderungen
         actions: []
         type: grid_item
       - title: User Adoption
