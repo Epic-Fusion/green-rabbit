@@ -118,6 +118,7 @@ sections:
         content: |
           *   Projektleitung, Projekt Management Unterstützung
           *   Vertretung von Scrum- oder Kanban Rollen
+          *   Transformation von klassischen Projekten in die Agilität
         actions: []
         type: grid_item
       - title: Coaching
