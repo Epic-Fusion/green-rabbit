@@ -193,8 +193,8 @@ sections:
           *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial in
           der Organisation entfesseln
 
-          *   Begleitung zur Etablierung unterstützender Portallösungen wie
-          Intranets
+          *   Begleitung zur Etablierung unterstützender Kommunikation und
+          Portallösungen
         actions: []
         type: grid_item
       - title: User Adoption
