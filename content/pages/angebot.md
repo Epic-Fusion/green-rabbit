@@ -228,7 +228,7 @@ sections:
           *   Interaktive Ansätze mit grösstmöglicher Mitarbeiterbeteiligung
           *   Individuell und Herstellerunabhängig
         actions:
-          - label: lorem-ipsum
+          - label: Wann steht bei Ihnen das nächste IT-Training an?
             url: '#'
             style: link
             icon: dribbble
