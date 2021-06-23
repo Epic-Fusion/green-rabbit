@@ -175,6 +175,13 @@ sections:
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
       lieben. Wir unterstützen mit:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
     image_alt: lorem-ipsum
