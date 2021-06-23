@@ -28,7 +28,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Intranet Portal 2.0
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
