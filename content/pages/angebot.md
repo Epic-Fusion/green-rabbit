@@ -2,24 +2,6 @@
 title: Unser Angebot
 hide_title: false
 sections:
-  - title: Microsoft Partner
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >
-      Wir fokussieren uns im Bereich technischer Lösungen auf das Angebot von
-      Microsoft 365 und Azure und sind mit unserem Knowhow als Partner
-      qualifiziert. Über unser Partnerökosystem können wir das gesamte Spektrum
-      der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
-
-
-      *   [Cloud-Smart Strategie](#cloud-smart)
-
-      *   [Agile Projekt- und Arbeitsformen](#agile)
-
-      *   [Employee Experience und Trainings](#employee-experience)
-
-      *   [App- und Prozessmodernisierung](#modernisierung)
-    type: section_content
   - section_id: cloud-smart
     col_number: three
     is_numbered: false
@@ -242,6 +224,16 @@ sections:
       Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
       Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
       integrale Lösungen auf Basis von Microsoft Azure.
+  - title: Microsoft Partner
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >
+      Als qualifizierter Microsoft-Partner fokussieren wir uns in unseren
+      gemeinsamen Projekten auf die Microsoft 365 und Azure Services. Epic
+      Fusion unterhält gleichzeitig ein umfangreiches Partnernetzwerk um Sie
+      auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich zu
+      unterstützen.
+    type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
     content: >
