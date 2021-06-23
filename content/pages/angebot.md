@@ -46,7 +46,7 @@ sections:
           *   Unterstützung zur Nutzen des Service-Potenzials
           *   Infrastruktur-Readiness Analyse
           *   Rollout und Trainings für alle Mitarbeitende
-      - title: M365 Trusted Advisor
+      - title: Strategie und Beratung
         image_alt: lorem-ipsum
         content: |
           *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
