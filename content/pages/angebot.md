@@ -196,7 +196,7 @@ sections:
           *   Begleitung zur Etablierung unterstützender Kommunikation und
           Portallösungen
         actions:
-          - label: Gespräch zu Employee Experience gewünscht?
+          - label: Möchten Sie konkrete Vorschläge?
             url: '#'
             style: link
             icon: dribbble
