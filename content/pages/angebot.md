@@ -197,7 +197,7 @@ sections:
           Portallösungen
         actions:
           - label: Dürfen wir Ihnen Ideen präsentieren?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
