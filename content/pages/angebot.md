@@ -41,7 +41,7 @@ sections:
         actions: []
         type: grid_item
         content: |
-          *   Erarbeiten von Cloud-Strategie und Roadmap
+          *   Evaluation und Planung der Cloud-Identity
           *   Design und Implementierung Modern Workplace
           *   Unterstützung zur Nutzen des Service-Potenzials
           *   Infrastruktur-Readiness Analyse
