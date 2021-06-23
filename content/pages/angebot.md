@@ -270,7 +270,14 @@ sections:
           *   Prozessautomatisierung mit Microsoft Power Automate
           *   Skalierbare Mini-Apps für Ihre Mitarbeitenden
           *   Echtzeit Datenvisualisierung mit Microsoft Power BI
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
   - title: Microsoft Partner
