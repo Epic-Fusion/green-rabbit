@@ -116,9 +116,10 @@ sections:
       - title: Agile Projekte
         image_alt: lorem-ipsum
         content: |
-          *   Projektleitung, Projekt Management Unterstützung
-          *   Vertretung von Scrum- oder Kanban Rollen
+          *   Projektleitung und Projekt Management Unterstützung
+          *   Vertretung von Scrum- oder Kanban Rollen im Projekt
           *   Transformation von klassischen Projekten in die Agilität
+          *   Etablieren von hybriden Projektmodellen in der Organisation
         actions: []
         type: grid_item
       - title: Coaching
