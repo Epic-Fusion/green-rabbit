@@ -26,7 +26,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: Digitial Workplace
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
