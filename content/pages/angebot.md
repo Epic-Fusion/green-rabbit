@@ -86,24 +86,6 @@ sections:
       intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
       die Komplexität Ihrer Transformationsvorhaben.
   - title: Agile Projekt- und Arbeitsformen
-    section_id: agile
-    image_alt: lorem-ipsum
-    content: |
-
-
-      *   Trainings und Kickstarter Workshops zu Agilität
-      *   Starter und Projektcoaching mit Kanban oder Scrum
-      *   Transformation vom Projektleiter zum Facilitator
-      *   Agiles Risiko Management etablieren
-
-      [Agile Arbeitsformen auch bei **Ihnen** ausprobieren?](#beratungsanfrage)
-    type: section_content
-    subtitle: >-
-      Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
-      ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
-      langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
-      selbstorganisierte Teams.
-  - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: >-
       Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
