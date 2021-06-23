@@ -78,7 +78,7 @@ sections:
         content: |
           *   Teamwork, Kommunikation und Telefonie mit Microsoft Teams
           *   Moderne integrierte Intranet Hub-Lösungen
-          *   Effektivere Meetings etablieren mit Agenda Apps
+          *   Effektivere Meetings etablieren in M365
           *   Mit professionellen Trainings Mitarbeiter-Potenzial fördern
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
         actions: []
