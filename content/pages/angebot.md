@@ -141,6 +141,9 @@ sections:
           etablieren
 
           *   Beratung um Meetings effektiv und sinnvoll durchführen
+
+          *   Workshops zur Reflexion bestehender Arbeitsmodellen mit New Work
+          Ansätzen
         actions: []
         type: grid_item
     type: section_grid
