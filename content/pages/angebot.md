@@ -181,7 +181,7 @@ sections:
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben.
+      lieben. Damit gelingt Ihnen das Fundament für eine lebendige Lernkultur.
     col_number: three
     is_numbered: false
     grid_items:
