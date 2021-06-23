@@ -272,7 +272,7 @@ sections:
           - App- und Prozessmodernisierung
         is_required: false
         type: form_field
-        label: 'Welches Thema '
+        label: Mit welchem Thema starten wir?
       - input_type: textarea
         name: Nachricht
         label: Nachricht
