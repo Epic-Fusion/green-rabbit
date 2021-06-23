@@ -40,10 +40,6 @@ sections:
           ##
         actions: []
         type: grid_item
-      - title: Cloud-Strategie
-        image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
     type: section_grid
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
