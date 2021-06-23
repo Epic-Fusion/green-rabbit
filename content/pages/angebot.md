@@ -31,6 +31,7 @@ sections:
         content: >
           *   *   Modern Workplace*   Cloud Security*   Cloud Infrastruktur
           Assessments
+          
       - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
