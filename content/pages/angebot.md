@@ -241,7 +241,7 @@ sections:
           *   Konzeptions- und Design Thinking Workshops
           *   Potenzial-Analyse und Assessments
         actions:
-          - label: 'Workshop '
+          - label: Wann möchten Sie einen Workshop planen?
             url: '#'
             style: link
             icon: dribbble
