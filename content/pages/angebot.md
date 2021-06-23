@@ -20,7 +20,7 @@ sections:
 
       *   [App- und Prozessmodernisierung](#modernisierung)
     type: section_content
-  - title: lorem-ipsum
+  - title: Kommunikation
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
