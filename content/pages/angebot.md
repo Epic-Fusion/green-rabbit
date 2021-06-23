@@ -272,7 +272,7 @@ sections:
           - App- und Prozessmodernisierung
         is_required: false
         type: form_field
-        label: Mit welchem Thema starten wir?
+        label: Was liegt Ihnen am Herzen?
       - input_type: textarea
         name: Nachricht
         label: Nachricht
