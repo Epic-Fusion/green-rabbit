@@ -137,7 +137,14 @@ sections:
           *   Review von Methodik und Anwendung
           *   Troubleshooting von agilen Praktiken
           *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Hybride Arbeitsformen
         image_alt: lorem-ipsum
