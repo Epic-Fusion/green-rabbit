@@ -266,7 +266,7 @@ sections:
         label: Thema
         options:
           - Smalltalk über die digitale Zukunft
-          - Cloud-Strategie
+          - Clevere Cloud Strategien
           - Microsoft 365 und Azure
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
