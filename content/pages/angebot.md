@@ -150,31 +150,6 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: Employee Experience und Trainings
-    section_id: employee-experience
-    image_alt: lorem-ipsum
-    content: >
-
-
-      *   Strategien zur Kommunikation und Insiders-Programmen
-
-      *   Trainings-Konzepte und individuelle Ausbildungsprogramme
-
-      *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
-
-      *   Die Grundlagen für eine lebendige Kultur schaffen
-
-      *   Meeting-Kultur verbessern, Hybrid-Meeting Strategien erarbeiten
-
-
-      [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
-      werden?](#beratungsanfrage)
-    type: section_content
-    subtitle: >-
-      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
-      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
-      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben. Wir unterstützen mit:
   - title: Employee Experience und Training
     section_id: lorem-ipsum
     subtitle: >-
