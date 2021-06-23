@@ -266,7 +266,7 @@ sections:
         label: Thema
         options:
           - Smalltalk über die digitale Zukunft
-          - Clevere Cloud Strategien
+          - Microsoft Modern Workplace
           - Microsoft Modern Workplace
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
