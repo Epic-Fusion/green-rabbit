@@ -271,7 +271,7 @@ sections:
           *   Skalierbare Mini-Apps für Ihre Mitarbeitenden
           *   Echtzeit Datenvisualisierung mit Microsoft Power BI
         actions:
-          - label: lorem-ipsum
+          - label: Möchten Sie das Potenzial von Daten sehen?
             url: '#'
             style: link
             icon: dribbble
