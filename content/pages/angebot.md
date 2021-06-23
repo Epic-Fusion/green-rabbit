@@ -129,6 +129,7 @@ sections:
           *   Coaching vom Projektleiter zum Facilitator
           *   Review von Methodik und Anwendung
           *   Troubleshooting von agilen Praktiken
+          *   Trainings zu Scrum oder Kanban
         actions: []
         type: grid_item
       - title: Hybride Arbeitsformen
