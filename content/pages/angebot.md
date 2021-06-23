@@ -224,6 +224,13 @@ sections:
       Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
       Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
       integrale Lösungen auf Basis von Microsoft Azure.
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - title: Microsoft Partner
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
