@@ -49,6 +49,8 @@ sections:
       - title: Strategie und Beratung
         image_alt: lorem-ipsum
         content: >
+          *   Erarbeiten von Cloud-Strategie und Roadmap
+
           *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
           durch die digitale Transformation
 
