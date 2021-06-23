@@ -138,7 +138,7 @@ sections:
           *   Troubleshooting von agilen Praktiken
           *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
         actions:
-          - label: lorem-ipsum
+          - label: 'Schrittweise '
             url: '#'
             style: link
             icon: dribbble
