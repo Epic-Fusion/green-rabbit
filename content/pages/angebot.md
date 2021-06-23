@@ -255,7 +255,14 @@ sections:
           *   Vollwertig integrierte Lösungen mit Azure Web
           *   Workflowintegration Azure Functions und Logic Apps
           *   Line of Business Applikationen verbinden
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Power Plattform und Power BI
         image_alt: lorem-ipsum
