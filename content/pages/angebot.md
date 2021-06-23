@@ -121,7 +121,7 @@ sections:
           *   Transformation von klassischen Projekten in die Agilität
           *   Etablieren von hybriden Projektmodellen in der Organisation
         actions:
-          - label: lorem-ipsum
+          - label: Prjoekt
             url: '#'
             style: link
             icon: dribbble
