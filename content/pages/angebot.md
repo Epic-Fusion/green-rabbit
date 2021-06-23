@@ -48,9 +48,12 @@ sections:
           *   Rollout und Trainings für alle Mitarbeitende
       - title: Strategie und Beratung
         image_alt: lorem-ipsum
-        content: |
+        content: >
           *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
-          *   Begleitung im Übergang zu DevOps Betriebsmodellen
+          durch die digitale Transformation
+
+          *   Change Prozess Begleitung
+
           *   Technical Change Advisory
         actions: []
         type: grid_item
