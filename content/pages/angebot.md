@@ -34,7 +34,7 @@ sections:
           ##
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Agiles Projektmanagement
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
