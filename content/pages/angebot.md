@@ -79,7 +79,7 @@ sections:
           *   Teamwork, Kommunikation und Telefonie mit Microsoft Teams
           *   Moderne integrierte Intranet Hub-Lösungen
           *   Effektivere Meetings etablieren mit Agenda App
-          *   Mit professionellen Trainings Mitarbeiter fördern
+          *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
         actions: []
         type: grid_item
