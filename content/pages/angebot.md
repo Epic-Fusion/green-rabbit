@@ -28,7 +28,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
-      - title: Intranet Portal 2.0
+      - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
           ##
