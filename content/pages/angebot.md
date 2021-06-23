@@ -117,6 +117,7 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Projektleitung, Projekt Management Unterstützung
+          *   Vertretung von Scrum- oder Kanban Rollen
         actions: []
         type: grid_item
       - title: Coaching
