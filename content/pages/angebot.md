@@ -263,16 +263,16 @@ sections:
         type: form_field
       - input_type: select
         name: Thema
-        label: Thema
         options:
           - Smalltalk über die digitale Zukunft
-          - Cloud-Strategie
-          - Microsoft 365 und Azure
+          - Microsoft Modern Workplace
+          - 'Teamwork, Intranet und Meetings'
           - Agile Projekt- und Arbeitsformen
-          - Employee Experience und Trainings
+          - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
         is_required: false
         type: form_field
+        label: Womit können wir Sie unterstützen?
       - input_type: textarea
         name: Nachricht
         label: Nachricht
