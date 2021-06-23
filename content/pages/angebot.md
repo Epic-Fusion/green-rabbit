@@ -213,7 +213,7 @@ sections:
           *   Integrierende Lösungen in bestehende Kommunikation
         actions:
           - label: Möchten Sie Ihre Mitarbeitenden befähigen?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
