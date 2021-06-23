@@ -237,7 +237,7 @@ sections:
       - title: Design Thinking
         image_alt: lorem-ipsum
         content: |
-          *   Beratung für echte digitale Lösungen
+          *   Beratung und Begleitung für echte digitale Lösungen
 
           *   Konzeptions- und Design Thinking Workshops
 
