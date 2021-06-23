@@ -76,7 +76,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Cloud-Smart Strategie
+      - title: Clevere Cloud Strategien
         image_alt: lorem-ipsum
         content: >
           Gemeinsam erarbeiten wir eine intelligente, phasenweise

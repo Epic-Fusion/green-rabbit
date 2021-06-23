@@ -86,34 +86,74 @@ sections:
       intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
       die Komplexität Ihrer Transformationsvorhaben.
   - title: Agile Projekt- und Arbeitsformen
-    section_id: agile
-    image_alt: lorem-ipsum
-    content: >
+    section_id: lorem-ipsum
+    subtitle: >-
       Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
       ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
       langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
       selbstorganisierte Teams.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Agile Projekte
+        image_alt: lorem-ipsum
+        content: |
+          *   Projektleitung und Projekt Management Unterstützung
+          *   Vertretung von Scrum- oder Kanban Rollen im Projekt
+          *   Transformation von klassischen Projekten in die Agilität
+          *   Etablieren von hybriden Projektmodellen in der Organisation
+        actions:
+          - label: Jetzt Ihre Projektunterstützung buchen.
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Coaching
+        image_alt: lorem-ipsum
+        content: |
+          *   Kickstarter Workshops zu Agilität
+          *   Coaching vom Projektleiter zum Facilitator
+          *   Review von Methodik und Anwendung
+          *   Troubleshooting von agilen Praktiken
+          *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
+        actions:
+          - label: Wie sieht Ihr Coaching Bedarf aus?
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Hybride Arbeitsformen
+        image_alt: lorem-ipsum
+        content: >
+          *   Echte Konzepte und Begleitung für Remote- und Hybrid-Work
 
+          *   Bedürfnisse von Teams und Menschen in der virtuellen Welt
+          etablieren
 
-      *   Trainings und Kickstarter Workshops zu Agilität
+          *   Beratung um Meetings effektiv und sinnvoll durchführen
 
-      *   Starter und Projektcoaching mit Kanban oder Scrum
-
-      *   Transformation vom Projektleiter zum Facilitator
-
-      *   Agiles Risiko Management etablieren
-
-
-      [Agile Arbeitsformen auch bei **Ihnen** ausprobieren?](#beratungsanfrage)
-    type: section_content
+          *   Workshops zur Reflexion bestehender Arbeitsmodellen mit New Work
+          Ansätzen
+        actions:
+          - label: Hybride Arbeitswelt entdecken.
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+    type: section_grid
   - title: Employee Experience und Trainings
     section_id: employee-experience
     image_alt: lorem-ipsum
     content: >
-      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
-      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
-      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben. Wir unterstützen mit:
 
 
       *   Strategien zur Kommunikation und Insiders-Programmen
@@ -130,14 +170,15 @@ sections:
       [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
       werden?](#beratungsanfrage)
     type: section_content
+    subtitle: >-
+      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
+      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
+      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
+      lieben. Wir unterstützen mit:
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
     image_alt: lorem-ipsum
     content: >
-      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
-      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
-      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
-      integrale Lösungen auf Basis von Microsoft Azure.
 
 
       ##### Microsoft Azure, Power Plattform und Power BI
@@ -159,6 +200,11 @@ sections:
       [Möchten Sie das Potenzial von **Ihrem** Use Case
       abschätzen?](#beratungsanfrage)
     type: section_content
+    subtitle: >-
+      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
+      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
+      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
+      integrale Lösungen auf Basis von Microsoft Azure.
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
     content: >
