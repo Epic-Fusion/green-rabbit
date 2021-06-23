@@ -49,7 +49,13 @@ sections:
       - title: Work Journey und Teamwork
         image_alt: lorem-ipsum
         content: |
-          ##
+          *   Kommunikations-Hub & Telefonie mit Microsoft Teams
+
+          *   Intranet-Lösungen mit Microsoft Viva
+
+          *   Kollaborationseffekte nutzen mit Microsoft 365
+
+          *   Effektivere Meetings in der Organisation etablieren
         actions: []
         type: grid_item
     type: section_grid
