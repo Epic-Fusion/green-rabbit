@@ -122,7 +122,7 @@ sections:
           *   Etablieren von hybriden Projektmodellen in der Organisation
         actions:
           - label: Jetzt Ihre Projektunterstützung buchen.
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
