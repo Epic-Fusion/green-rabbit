@@ -193,17 +193,12 @@ sections:
         type: grid_item
       - title: User Adoption
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Konzeption und Begleitung von Rollout-Phasen
 
+          *   Unterstützung verschiedener User Adoption Methoden
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *
         actions: []
         type: grid_item
       - title: Ausbildung und Training
