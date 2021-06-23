@@ -42,8 +42,8 @@ sections:
         type: grid_item
         content: |
           *   Erarbeiten von Cloud-Strategie und Roadmap
-          *   Design und Implementierung Modern Workplace W10
-          *   Cloud-Security Beratung
+          *   Design und Implementierung Modern Workplace
+          *   Unterstützung zur Nutzen des Service-Potenzials
           *   Infrastruktur-Readiness Analyse
           *   Rollout und Trainings für alle Mitarbeitende
       - title: M365 Trusted Advisor
