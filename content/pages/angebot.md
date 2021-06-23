@@ -227,7 +227,14 @@ sections:
           *   Trainings unter Leitung von erfahrenen, zertifizierten Ausbildern
           *   Interaktive Ansätze mit grösstmöglicher Mitarbeiterbeteiligung
           *   Individuell und Herstellerunabhängig
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
   - title: App- und Prozessmodernisierung
