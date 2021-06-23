@@ -159,7 +159,7 @@ sections:
           *   Workshops zur Reflexion bestehender Arbeitsmodellen mit New Work
           Ansätzen
         actions:
-          - label: lorem-ipsum
+          - label: Hybride Arbeitswelt entdecken.
             url: '#'
             style: link
             icon: dribbble
