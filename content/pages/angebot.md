@@ -105,7 +105,11 @@ sections:
       selbstorganisierte Teams.
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
+      ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
+      langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
+      selbstorganisierte Teams.
     col_number: three
     is_numbered: false
     grid_items: []
