@@ -77,9 +77,9 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Kommunikations-Hub & Telefonie mit Microsoft Teams
-          *   Intranet-Lösungen mit Microsoft Viva
-          *   Kollaborationseffekte nutzen mit Microsoft 365
-          *   Effektivere Meetings in der Organisation etablieren
+          *   Moderne integrierte Intranet-Lösungen
+          *   Effektivere Meetings etablieren mit Agenda Apps
+          *   Mit professionellen Trainings Mitarbeiter-Potenzial fördern
         actions: []
         type: grid_item
     type: section_grid
