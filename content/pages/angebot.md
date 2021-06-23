@@ -120,7 +120,14 @@ sections:
           *   Vertretung von Scrum- oder Kanban Rollen im Projekt
           *   Transformation von klassischen Projekten in die Agilität
           *   Etablieren von hybriden Projektmodellen in der Organisation
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Coaching
         image_alt: lorem-ipsum
