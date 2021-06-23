@@ -39,7 +39,11 @@ sections:
       - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
-          ##
+          *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
+
+          *   Begleitung im Übergang zu DevOps Betriebsmodellen
+
+          *   Technical Change Advisory
         actions: []
         type: grid_item
       - title: Work Journey und Teamwork
