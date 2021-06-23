@@ -134,8 +134,13 @@ sections:
         type: grid_item
       - title: Hybride Arbeitsformen
         image_alt: lorem-ipsum
-        content: |
-          *   a
+        content: >
+          *   Echte Konzepte und Begleitung für Remote- und Hybrid-Work
+
+          *   Bedürfnisse von Teams und Menschen in der virtuellen Welt
+          etablieren
+
+          *   Beratung um Meetings effektiv und sinnvoll durchführen
         actions: []
         type: grid_item
     type: section_grid
