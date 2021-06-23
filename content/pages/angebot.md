@@ -203,7 +203,7 @@ sections:
           *   Interaktive Ansätze mit grösstmöglicher Mitarbeiterbeteiligung
           *   Individuell und Herstellerunabhängig
         actions:
-          - label: Möchten Sie das nächste IT-Training planen?
+          - label: 'Bereit, das nächste IT-Training zu planen?'
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
