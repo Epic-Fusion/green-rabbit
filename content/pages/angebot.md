@@ -107,10 +107,6 @@ sections:
     section_id: employee-experience
     image_alt: lorem-ipsum
     content: >
-      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
-      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
-      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben. Wir unterstützen mit:
 
 
       *   Strategien zur Kommunikation und Insiders-Programmen
