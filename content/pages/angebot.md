@@ -116,7 +116,7 @@ sections:
       - title: Agile Projekte
         image_alt: lorem-ipsum
         content: |
-          *   a
+          *   Projektleitung, Projekt Management Unterstützung
         actions: []
         type: grid_item
       - title: Coaching
