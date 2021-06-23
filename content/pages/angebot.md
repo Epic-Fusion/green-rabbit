@@ -59,7 +59,7 @@ sections:
           *   Technical Change Advisory durch die M365-Plattform
         actions: []
         type: grid_item
-      - title: Work Journey und Teamwork
+      - title: Teamwork und Kommunikation
         image_alt: lorem-ipsum
         content: |
           *   Kommunikations-Hub & Telefonie mit Microsoft Teams
