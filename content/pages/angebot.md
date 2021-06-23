@@ -63,7 +63,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-    title: 'Clevere '
+    title: Clevere Cloud Strategien
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
     image_alt: lorem-ipsum
