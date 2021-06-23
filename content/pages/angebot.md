@@ -195,7 +195,14 @@ sections:
 
           *   Begleitung zur Etablierung unterstützender Kommunikation und
           Portallösungen
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: User Adoption
         image_alt: lorem-ipsum
