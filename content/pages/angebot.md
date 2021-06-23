@@ -49,7 +49,7 @@ sections:
       - title: Strategie und Beratung
         image_alt: lorem-ipsum
         content: >
-          *   Erarbeiten von Cloud-Strategie und Roadmap
+          *   Erarbeiten von Cloud-Strategie und Service-Roadmap
 
           *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
           durch die digitale Transformation
