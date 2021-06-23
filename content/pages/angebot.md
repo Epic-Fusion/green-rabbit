@@ -264,7 +264,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Power Plattform und PowerBI
+      - title: Power Plattform und Power BI
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
