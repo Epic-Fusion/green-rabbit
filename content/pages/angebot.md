@@ -195,8 +195,6 @@ sections:
 
           *   Begleitung zur Etablierung unterstützender Portallösungen wie
           Intranets
-
-          *   Lösungen für Hybrid-Work Herausforderungen
         actions: []
         type: grid_item
       - title: User Adoption
