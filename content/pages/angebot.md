@@ -211,7 +211,14 @@ sections:
           *   Erfrischende User Adoption Methoden mit viel Abwechselung
           *   Beratung zu interaktiven Self-Service Lernportalen
           *   Integrierende Lösungen in bestehende Kommunikation
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Ausbildung und Training
         image_alt: lorem-ipsum
