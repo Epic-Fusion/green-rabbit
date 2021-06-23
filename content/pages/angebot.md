@@ -226,7 +226,11 @@ sections:
       integrale Lösungen auf Basis von Microsoft Azure.
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
+      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
+      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
+      integrale Lösungen auf Basis von Microsoft Azure.
     col_number: three
     is_numbered: false
     grid_items: []
