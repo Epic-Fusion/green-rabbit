@@ -153,6 +153,11 @@ sections:
       [Möchten Sie das Potenzial von **Ihrem** Use Case
       abschätzen?](#beratungsanfrage)
     type: section_content
+    subtitle: >-
+      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
+      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
+      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
+      integrale Lösungen auf Basis von Microsoft Azure.
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
     content: >
