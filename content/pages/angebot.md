@@ -210,7 +210,7 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Didaktisch konzipierte und individuelle IT-Ausbildungsprogramme
-          *   Trainings unter Leitung von erfahrenen Ausbildern
+          *   Trainings unter Leitung von erfahrenen, zertifizierten Ausbildern
           *   Interaktive Ansätze mit grösstmöglicher Mitarbeiterbeteiligung
           *   Individuell und Herstellerunabhängig
         actions: []
