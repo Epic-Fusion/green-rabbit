@@ -138,7 +138,7 @@ sections:
           *   Troubleshooting von agilen Praktiken
           *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
         actions:
-          - label: So sieht ihr Coaching-Plan aus.
+          - label: Wie sieht Ihr Coaching Bedarf aus?
             url: '#'
             style: link
             icon: dribbble
