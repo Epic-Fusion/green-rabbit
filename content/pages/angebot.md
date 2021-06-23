@@ -241,7 +241,7 @@ sections:
           *   Konzeptions- und Design Thinking Workshops
           *   Potenzial-Analyse und Assessments
         actions:
-          - label: lorem-ipsum
+          - label: 'Planen Sie '
             url: '#'
             style: link
             icon: dribbble
