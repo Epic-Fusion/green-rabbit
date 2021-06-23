@@ -40,7 +40,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Wie sieht Ihre Ausgangslage dazu aus?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
