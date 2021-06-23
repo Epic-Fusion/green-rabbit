@@ -52,9 +52,9 @@ sections:
           *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
           durch die digitale Transformation
 
-          *   Change Prozess Begleitung
+          *   Veränderungsmanagement, Change Prozess Begleitung
 
-          *   Technical Change Advisory
+          *   Technical Change Advisory durch die M365-Plattform
         actions: []
         type: grid_item
       - title: Work Journey und Teamwork
