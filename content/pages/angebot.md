@@ -263,7 +263,6 @@ sections:
         type: form_field
       - input_type: select
         name: Thema
-        label: Thema
         options:
           - Smalltalk über die digitale Zukunft
           - Microsoft Modern Workplace
