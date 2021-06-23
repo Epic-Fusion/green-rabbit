@@ -29,7 +29,7 @@ sections:
         actions: []
         type: grid_item
         content: >
-          *   * 
+
       * Strategie und Roadmap
 
       *   Modern Workplace
