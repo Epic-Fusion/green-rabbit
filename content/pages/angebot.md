@@ -34,7 +34,7 @@ sections:
           ##
         actions: []
         type: grid_item
-      - title: Agiles Projektmanagement
+      - title: Work Journey und Teamwork
         image_alt: lorem-ipsum
         content: |
           ##
