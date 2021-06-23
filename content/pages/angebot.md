@@ -238,9 +238,7 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Beratung und Begleitung für echte digitale Lösungen
-
           *   Konzeptions- und Design Thinking Workshops
-
           *   Potenzial-Analyse und Assessments
         actions: []
         type: grid_item
