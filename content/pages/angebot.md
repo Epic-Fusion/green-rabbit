@@ -194,11 +194,13 @@ sections:
       - title: User Adoption
         image_alt: lorem-ipsum
         content: |
-          *   Konzeption und Begleitung von Rollout-Phasen
+          *   Beratung zu neuartigen User Adoption Ansätzen
 
-          *   Unterstützung verschiedener User Adoption Methoden
+          *   Erfrischende User Adoption Methoden mit viel Abwechselung
 
-          *
+          *   Beratung zu interaktiven Self-Service Lernportalen
+
+          *   Integrierende Lösungen in bestehende Kommunikation
         actions: []
         type: grid_item
       - title: Ausbildung und Training
