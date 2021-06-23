@@ -175,7 +175,7 @@ sections:
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
       lieben. Wir unterstützen mit:
-  - title: 'Employee Experience, Adoption und Training'
+  - title: Employee Experience und Training
     section_id: lorem-ipsum
     subtitle: >-
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
