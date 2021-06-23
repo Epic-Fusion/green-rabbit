@@ -76,10 +76,11 @@ sections:
       - title: Teamwork und Kommunikation
         image_alt: lorem-ipsum
         content: |
-          *   Kommunikations-Hub & Telefonie mit Microsoft Teams
-          *   Moderne integrierte Intranet-Lösungen
+          *   Teamwork, Kommunikation und Telefonie mit Microsoft Teams
+          *   Moderne integrierte Intranet Hub-Lösungen
           *   Effektivere Meetings etablieren mit Agenda Apps
           *   Mit professionellen Trainings Mitarbeiter-Potenzial fördern
+          *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
         actions: []
         type: grid_item
     type: section_grid
