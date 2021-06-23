@@ -267,7 +267,7 @@ sections:
         options:
           - Smalltalk über die digitale Zukunft
           - Clevere Cloud Strategien
-          - Microsoft 365 und Azure
+          - Microsoft Modern Workplace
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
           - App- und Prozessmodernisierung
