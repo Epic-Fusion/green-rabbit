@@ -127,6 +127,11 @@ sections:
       [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
       werden?](#beratungsanfrage)
     type: section_content
+    subtitle: >-
+      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
+      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
+      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
+      lieben. Wir unterstützen mit:
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
     image_alt: lorem-ipsum
