@@ -83,7 +83,7 @@ sections:
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
         actions:
           - label: Wie könnte Teamwork bei Ihnen aussehen?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
