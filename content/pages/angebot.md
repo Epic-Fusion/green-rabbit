@@ -64,6 +64,11 @@ sections:
         type: grid_item
     type: section_grid
     title: Clevere Cloud Strategien
+    subtitle: >-
+      Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
+      Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
+      intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
+      die Komplexität Ihrer Transformationsvorhaben.
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
     image_alt: lorem-ipsum
