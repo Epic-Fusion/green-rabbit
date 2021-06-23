@@ -139,7 +139,7 @@ sections:
           *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
         actions:
           - label: Wie sieht Ihr Coaching Bedarf aus?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
