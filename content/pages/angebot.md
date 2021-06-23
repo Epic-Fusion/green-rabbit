@@ -41,10 +41,11 @@ sections:
         actions: []
         type: grid_item
         content: |
-          *   Strategie und Roadmap
-          *   Modern Workplace Windows 10
-          *   Cloud Security
-          *   Cloud Infrastruktur Assessments
+          *   Erarbeiten von Cloud-Strategie und Roadmap
+          *   Design und Implementierung Modern Workplace W10
+          *   Cloud-Security Beratung
+          *   Infrastruktur-Readiness Analyse
+          *   Rollout und Trainings für alle Mitarbeitende
       - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
