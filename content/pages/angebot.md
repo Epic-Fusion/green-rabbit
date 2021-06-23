@@ -82,7 +82,7 @@ sections:
           *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
         actions:
-          - label: Zusammenarbeit bei Ihnen verbessern?
+          - label: Wie könnte Teamwork bei Ihnen aussehen?
             url: '#'
             style: link
             icon: dribbble
