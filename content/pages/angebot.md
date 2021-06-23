@@ -103,7 +103,7 @@ sections:
       ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
       langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
       selbstorganisierte Teams.
-  - title: lorem-ipsum
+  - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
