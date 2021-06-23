@@ -150,31 +150,68 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: Employee Experience und Trainings
-    section_id: employee-experience
-    image_alt: lorem-ipsum
-    content: >
-
-
-      *   Strategien zur Kommunikation und Insiders-Programmen
-
-      *   Trainings-Konzepte und individuelle Ausbildungsprogramme
-
-      *   Portallösungen zur Unterstützung moderner Kommunikationspunkte
-
-      *   Die Grundlagen für eine lebendige Kultur schaffen
-
-      *   Meeting-Kultur verbessern, Hybrid-Meeting Strategien erarbeiten
-
-
-      [Wie kann Benutzererfahrung und Training bei **Ihnen** etabliert
-      werden?](#beratungsanfrage)
-    type: section_content
+  - title: Employee Experience und Training
+    section_id: lorem-ipsum
     subtitle: >-
       Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
       Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
       bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben. Wir unterstützen mit:
+      lieben. Damit gelingt Ihnen das Fundament für eine lebendige Lernkultur.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Employee Experience
+        image_alt: lorem-ipsum
+        content: >
+          *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung
+
+          *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial in
+          der Organisation entfesseln
+
+          *   Begleitung zur Etablierung unterstützender Kommunikation und
+          Portallösungen
+        actions:
+          - label: Dürfen wir Ihnen Ideen präsentieren?
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: User Adoption
+        image_alt: lorem-ipsum
+        content: |
+          *   Beratung zu neuartigen User Adoption Ansätzen
+          *   Erfrischende User Adoption Methoden mit viel Abwechselung
+          *   Beratung zu interaktiven Self-Service Lernportalen
+          *   Integrierende Lösungen in bestehende Kommunikation
+        actions:
+          - label: Möchten Sie Ihre Mitarbeitenden befähigen?
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Ausbildung und Training
+        image_alt: lorem-ipsum
+        content: |
+          *   Didaktisch konzipierte und individuelle IT-Ausbildungsprogramme
+          *   Trainings unter Leitung von erfahrenen, zertifizierten Ausbildern
+          *   Interaktive Ansätze mit grösstmöglicher Mitarbeiterbeteiligung
+          *   Individuell und Herstellerunabhängig
+        actions:
+          - label: 'Bereit, das nächste IT-Training zu planen?'
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+    type: section_grid
   - title: App- und Prozessmodernisierung
     section_id: modernisierung
     image_alt: lorem-ipsum
