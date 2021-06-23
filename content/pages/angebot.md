@@ -30,40 +30,6 @@ sections:
       die Komplexität Ihrer Transformationsvorhaben.
 
 
-      ##### Microsoft 365 und Azure Infrastruktur
-
-
-      *   Strategie und Roadmap
-
-      *   Modern Workplace
-
-      *   Cloud Security
-
-      *   Cloud Infrastruktur Assessments
-
-
-      ##### Microsoft 365 Trusted Advisor
-
-
-      *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
-
-      *   Begleitung im Übergang zu neuartigen Betriebsmodellen
-
-      *   Technical Change Advisory
-
-
-      ##### Work Journey und Teamwork
-
-
-      *   Kommunikation & Telefonie mit Microsoft Teams
-
-      *   Intranet-Lösungen mit Microsoft Viva Connections
-
-      *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
-
-      *   Effizientes Sitzungsmanagement
-
-
       [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
     type: section_content
   - section_id: lorem-ipsum
