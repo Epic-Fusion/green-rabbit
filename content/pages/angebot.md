@@ -242,7 +242,7 @@ sections:
           *   Potenzial-Analyse und Assessments
         actions:
           - label: Wann möchten Sie einen Workshop planen?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
