@@ -257,7 +257,7 @@ sections:
           *   Line of Business Applikationen verbinden
         actions:
           - label: Fragen zur Azure Plattform?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
