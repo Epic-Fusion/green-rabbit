@@ -138,7 +138,7 @@ sections:
           *   Troubleshooting von agilen Praktiken
           *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
         actions:
-          - label: 'Neugierig, wie '
+          - label: 'Neugierig, wie'
             url: '#'
             style: link
             icon: dribbble
