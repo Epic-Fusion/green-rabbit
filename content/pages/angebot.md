@@ -30,42 +30,73 @@ sections:
       die Komplexität Ihrer Transformationsvorhaben.
 
 
-      ##### Microsoft 365 und Azure Infrastruktur
-
-
-      *   Strategie und Roadmap
-
-      *   Modern Workplace
-
-      *   Cloud Security
-
-      *   Cloud Infrastruktur Assessments
-
-
-      ##### Microsoft 365 Trusted Advisor
-
-
-      *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
-
-      *   Begleitung im Übergang zu neuartigen Betriebsmodellen
-
-      *   Technical Change Advisory
-
-
-      ##### Work Journey und Teamwork
-
-
-      *   Kommunikation & Telefonie mit Microsoft Teams
-
-      *   Intranet-Lösungen mit Microsoft Viva Connections
-
-      *   Potenzial von Kollaborationseffekten nutzen mit Microsoft 365
-
-      *   Effizientes Sitzungsmanagement
-
-
       [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
     type: section_content
+  - section_id: cloud-smart
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Microsoft Modern Workplace
+        image_alt: lorem-ipsum
+        actions:
+          - label: Wie sieht Ihre Ausgangslage dazu aus?
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+        content: |
+          *   Evaluation und Planung der Cloud-Identity
+          *   Design und Implementierung Modern Workplace
+          *   Unterstützung zur Nutzen des Service-Potenzials
+          *   Infrastruktur-Readiness Analyse
+          *   Rollout und Trainings für alle Mitarbeitende
+      - title: Strategie und Beratung
+        image_alt: lorem-ipsum
+        content: >
+          *   Erarbeiten von Cloud-Strategie und Service-Roadmap
+
+          *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
+          durch die digitale Transformation
+
+          *   Veränderungsmanagement, Change Prozess Begleitung
+
+          *   Technical Change Advisory durch die M365-Plattform
+        actions:
+          - label: Jetzt Termin vereinbaren.
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Teamwork und Kommunikation
+        image_alt: lorem-ipsum
+        content: |
+          *   Teamwork, Kommunikation und Telefonie mit Microsoft Teams
+          *   Moderne integrierte Intranet Hub-Lösungen
+          *   Effektivere Meetings etablieren mit Agenda App
+          *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
+          *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
+        actions:
+          - label: Wie könnte Teamwork bei Ihnen aussehen?
+            url: '#beratungsanfrage'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+    type: section_grid
+    title: Clevere Cloud Strategien
+    subtitle: >-
+      Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
+      Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
+      intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
+      die Komplexität Ihrer Transformationsvorhaben.
   - title: Agile Projekt- und Arbeitsformen
     section_id: agile
     image_alt: lorem-ipsum
