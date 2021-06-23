@@ -20,18 +20,6 @@ sections:
 
       *   [App- und Prozessmodernisierung](#modernisierung)
     type: section_content
-  - title: Cloud-Smart Strategie
-    section_id: cloud-smart
-    image_alt: lorem-ipsum
-    content: >
-      Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-      Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
-      intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
-      die Komplexität Ihrer Transformationsvorhaben.
-
-
-      [Neugierig wie **Ihre** Strategie aussehen könnte?](#beratungsanfrage)
-    type: section_content
   - section_id: cloud-smart
     col_number: three
     is_numbered: false
