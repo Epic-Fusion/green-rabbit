@@ -6,19 +6,11 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      Wir fokussieren uns im Bereich technischer Lösungen auf das Angebot von
-      Microsoft 365 und Azure und sind mit unserem Knowhow als Partner
-      qualifiziert. Über unser Partnerökosystem können wir das gesamte Spektrum
-      der M365 und Azure Cloud-Services auf höchstem Niveau abdecken.
-
-
-      *   [Cloud-Smart Strategie](#cloud-smart)
-
-      *   [Agile Projekt- und Arbeitsformen](#agile)
-
-      *   [Employee Experience und Trainings](#employee-experience)
-
-      *   [App- und Prozessmodernisierung](#modernisierung)
+      Als qualifizierter Microsoft-Partner fokussieren wir uns in unseren
+      gemeinsamen Projekten auf die Microsoft 365 und Azure Services. Epic
+      Fusion unterhält gleichzeitig ein umfangreiches Partnernetzwerk um Sie
+      auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich zu
+      unterstützen.
     type: section_content
   - section_id: cloud-smart
     col_number: three
