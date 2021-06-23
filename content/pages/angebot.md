@@ -272,7 +272,7 @@ sections:
           - App- und Prozessmodernisierung
         is_required: false
         type: form_field
-        label: Was liegt Ihnen am Herzen?
+        label: Womit können wir Sie unterstützen?
       - input_type: textarea
         name: Nachricht
         label: Nachricht
