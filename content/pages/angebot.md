@@ -29,9 +29,17 @@ sections:
         actions: []
         type: grid_item
         content: >
-          *   *   Modern Workplace*   Cloud Security*   Cloud Infrastruktur
+          *   * 
+                *   Strategie und Roadmap
+
+      *   Modern Workplace
+
+      *   Cloud Security
+
+      *   Cloud Infrastruktur Assessments
+          Modern Workplace*   Cloud Security*   Cloud Infrastruktur
           Assessments
-          
+
       - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
