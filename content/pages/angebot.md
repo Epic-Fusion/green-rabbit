@@ -20,6 +20,13 @@ sections:
 
       *   [App- und Prozessmodernisierung](#modernisierung)
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - title: Cloud-Smart Strategie
     section_id: cloud-smart
     image_alt: lorem-ipsum
