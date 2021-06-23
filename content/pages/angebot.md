@@ -269,7 +269,7 @@ sections:
           - Microsoft Modern Workplace
           - 'Teamwork, Intranet und Meetings'
           - Agile Projekt- und Arbeitsformen
-          - Employee Experience und Trainings
+          - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
         is_required: false
         type: form_field
