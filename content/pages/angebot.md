@@ -76,19 +76,14 @@ sections:
         type: grid_item
         content: |
           *   Strategie und Roadmap
-
           *   Modern Workplace Windows 10
-
           *   Cloud Security
-
           *   Cloud Infrastruktur Assessments
       - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
           *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
-
           *   Begleitung im Übergang zu DevOps Betriebsmodellen
-
           *   Technical Change Advisory
         actions: []
         type: grid_item
@@ -96,11 +91,8 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Kommunikations-Hub & Telefonie mit Microsoft Teams
-
           *   Intranet-Lösungen mit Microsoft Viva
-
           *   Kollaborationseffekte nutzen mit Microsoft 365
-
           *   Effektivere Meetings in der Organisation etablieren
         actions: []
         type: grid_item
