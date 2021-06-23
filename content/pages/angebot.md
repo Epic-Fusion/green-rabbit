@@ -36,7 +36,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: M365 und Azure Infrastruktur
+      - title: M365 Modern Workplace
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
