@@ -65,7 +65,7 @@ sections:
 
           *   Technical Change Advisory durch die M365-Plattform
         actions:
-          - label: lorem-ipsum
+          - label: Termin vereinbaren
             url: '#'
             style: link
             icon: dribbble
