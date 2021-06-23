@@ -229,7 +229,7 @@ sections:
           *   Individuell und Herstellerunabhängig
         actions:
           - label: Wann steht bei Ihnen das nächste IT-Training an?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
