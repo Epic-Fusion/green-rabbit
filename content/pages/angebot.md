@@ -267,7 +267,7 @@ sections:
         options:
           - Smalltalk über die digitale Zukunft
           - Microsoft Modern Workplace
-          - Microsoft Modern Workplace
+          - 'Teamwork, Intranet und Meetings'
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und Trainings
           - App- und Prozessmodernisierung
