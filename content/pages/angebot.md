@@ -125,7 +125,10 @@ sections:
       - title: Coaching
         image_alt: lorem-ipsum
         content: |
-          *   a
+          *   Kickstarter Workshops zu Agilität
+          *   Coaching vom Projektleiter zum Facilitator
+          *   Review von Methodik und Anwendung
+          *   Troubleshooting von agilen Praktiken
         actions: []
         type: grid_item
       - title: Hybride Arbeitsformen
