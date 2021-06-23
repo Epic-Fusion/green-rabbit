@@ -38,7 +38,14 @@ sections:
     grid_items:
       - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         content: |
           *   Evaluation und Planung der Cloud-Identity
