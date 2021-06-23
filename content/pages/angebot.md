@@ -196,7 +196,7 @@ sections:
           *   Begleitung zur Etablierung unterstützender Kommunikation und
           Portallösungen
         actions:
-          - label: 'Dürfen wir Ihnen konkrete '
+          - label: Dürfen wir Ihnen Ideen präsentieren?
             url: '#'
             style: link
             icon: dribbble
