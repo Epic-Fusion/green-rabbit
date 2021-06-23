@@ -190,10 +190,13 @@ sections:
         content: >
           *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung und
           Stärkung der Kultur
+
           *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial in
-          der Organisation entfesseln
+          der Organisation entfesseln 
+
           *   Begleitung zur Etablierung unterstützender Portallösungen wie
           Intranets
+
           *   Integrierende Ansätze zu Hybrid-Work Herausforderungen
         actions: []
         type: grid_item
