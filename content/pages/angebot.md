@@ -160,7 +160,7 @@ sections:
           Ansätzen
         actions:
           - label: Hybride Arbeitswelt entdecken.
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
