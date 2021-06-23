@@ -195,36 +195,6 @@ sections:
         type: grid_item
     type: section_grid
   - title: App- und Prozessmodernisierung
-    section_id: modernisierung
-    image_alt: lorem-ipsum
-    content: >
-
-
-      ##### Microsoft Azure, Power Plattform und Power BI
-
-
-      *   Beratung für echte digitale Lösungen
-
-      *   Prozessautomatisierung mit Microsoft Power Automate
-
-      *   Umsetzungen von Azure Web, Mobile und Logic Apps
-
-      *   Workflow Lösungen oder integrale Funktionalitäten mit Azure Functions
-
-      *   Business Intelligence Lösungen für Echtzeit Insights und Datenanalysen
-
-      *   Datenvisualisierungen mit Microsoft Power BI
-
-
-      [Möchten Sie das Potenzial von **Ihrem** Use Case
-      abschätzen?](#beratungsanfrage)
-    type: section_content
-    subtitle: >-
-      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
-      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
-      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
-      integrale Lösungen auf Basis von Microsoft Azure.
-  - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
     subtitle: >-
       Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
