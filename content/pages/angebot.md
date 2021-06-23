@@ -106,6 +106,11 @@ sections:
 
       [Agile Arbeitsformen auch bei **Ihnen** ausprobieren?](#beratungsanfrage)
     type: section_content
+    subtitle: >-
+      Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
+      ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
+      langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
+      selbstorganisierte Teams.
   - title: Employee Experience und Trainings
     section_id: employee-experience
     image_alt: lorem-ipsum
