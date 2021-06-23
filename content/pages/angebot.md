@@ -272,7 +272,7 @@ sections:
           *   Echtzeit Datenvisualisierung mit Microsoft Power BI
         actions:
           - label: Möchten Sie das Potenzial von Daten sehen?
-            url: '#'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
