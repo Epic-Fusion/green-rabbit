@@ -224,7 +224,7 @@ sections:
       Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
       Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
       integrale Lösungen auf Basis von Microsoft Azure.
-  - title: lorem-ipsum
+  - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
