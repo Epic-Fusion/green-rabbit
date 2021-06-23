@@ -66,7 +66,7 @@ sections:
           *   Technical Change Advisory durch die M365-Plattform
         actions:
           - label: Jetzt Termin vereinbaren.
-            url: '##beratungsanfrage'
+            url: '#beratungsanfrage'
             style: link
             icon: dribbble
             new_window: false
