@@ -28,8 +28,14 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        content: >
+        content: |
+          *   Strategie und Roadmap
 
+          *   Modern Workplace Windows 10
+
+          *   Cloud Security
+
+          *   Cloud Infrastruktur Assessments
       - title: M365 Trusted Advisor
         image_alt: lorem-ipsum
         content: |
