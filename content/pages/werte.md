@@ -71,31 +71,6 @@ sections:
       auf der Welt. Wir arbeiten täglich daran, mehr Menschen diese
       Möglichkeiten zu geben und der Gemeinschaft etwas zurückzugeben.
     type: section_content
-  - title: Prinzipien
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >
-      Aus unseren Werten sind feste Prinzipien entstanden, welche in jeder
-      unserer Entscheide einfliessen. Wir handeln nach:
-
-
-      **Purpose** over Profits
-
-
-      **We** over Me
-
-
-      **Trust** over Control
-
-
-      **Learn-It** over Know-It
-
-
-      **Experiment** over Certainity
-
-
-      **Transparency** over Obscurity
-    type: section_content
   - title: Interessiert?
     section_id: lorem-ipsum
     content: >
