@@ -262,10 +262,6 @@ sections:
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
-    content: >
-      Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
-      unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
-      besprechen.
     form_id: Besprechungsanfrage
     form_action: /thankyou
     form_fields:
