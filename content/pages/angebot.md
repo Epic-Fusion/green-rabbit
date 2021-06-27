@@ -262,10 +262,6 @@ sections:
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
-    content: >
-      Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
-      unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
-      besprechen.
     form_id: Besprechungsanfrage
     form_action: /thankyou
     form_fields:
@@ -308,6 +304,9 @@ sections:
         type: form_field
     submit_label: Anfrage absenden
     type: section_form
+    subtitle: >-
+      Wir freuen uns auf die Möglichkeit Sie in einem persönlichen Gespräch von
+      unserem Angebot zu überzeugen. Fordern Sie uns heraus!
 seo:
   title: Angebot - Epic Fusion
   description: >-
