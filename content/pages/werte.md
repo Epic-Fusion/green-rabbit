@@ -11,7 +11,7 @@ sections:
 
       Gleichstellung und Diversität bilden einen festen Grundwert unserer
       Organisation. Wir bilden und fördern ein vielfältiges Team mit Menschen
-      von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in all unseren
+      von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in unseren
       Interaktionen fördern wir gezielt die Integration.
 
 
@@ -20,9 +20,8 @@ sections:
 
       Wir wissen, dass uns als Kollektiv von engagierten, ganzheitlich denkenden
       Menschen mit gezieltem kundenorientierten Fokus keine Grenzen gesetzt
-      sind. Als Gemeinschaft schaffen wir uns Raum für Experimente und um uns zu
-      entwickeln. Wir lassen nicht zu, dass uns das Ego einem sinnhaftem Wandel
-      im Wege steht.
+      sind. Wir lassen nicht zu, dass uns das Ego einem sinnhaftem Wandel im
+      Wege steht.
 
 
       #### Leidenschaft
@@ -37,19 +36,19 @@ sections:
       #### Tägliches Lernen
 
 
-      Wir schaffen aktiv Raum für eine "Learn-it-All" Kultur. Wir glauben, dass
-      Talente und Fähigkeiten durch gezieltes Lernen und Ausdauer stark
-      entwickelt werden können. Wir sind uns bewusst, dass wir dazu fortlaufend
-      den Status Quo in Frage stellen, um uns kontinuierlich zu verbessern und
-      so ein langfristiges, nachhaltiges Wachstum erzielen.
+      Wir schaffen aktiv Raum für eine Lernkultur. Wir glauben, dass Talente und
+      Fähigkeiten durch gezieltes Lernen und Ausdauer stark entwickelt werden
+      können. Wir sind uns bewusst, dass wir nur dann ein nachhaltiges Wachstum
+      erzielen, wenn wir uns kontinuierlich verbessern, in dem wir fortlaufend
+      den Status Quo in Frage stellen.
 
 
       #### Evolutionärer Sinn
 
 
-      Wir verpflichten uns einer agilen, evolutionären Organisation mit
-      verteilter Autorität und kollektiver Intelligenz. Wir glauben an die Kraft
-      des Experimentierens und sehen Hindernisse auf unserem Weg als Chance, um
+      Wir verpflichten uns einer evolutionären Organisation mit verteilter
+      Autorität und kollektiver Intelligenz. Wir glauben an die Kraft des
+      Experimentierens und sehen Hindernisse auf unserem Weg als Chance, um
       daran zu wachsen und uns vorwärts zu bringen.
 
 
