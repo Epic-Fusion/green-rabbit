@@ -311,7 +311,7 @@ sections:
     subtitle: >-
       Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
       unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
-      besprechen.
+      diskutieren.
 seo:
   title: Angebot - Epic Fusion
   description: >-
