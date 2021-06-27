@@ -310,7 +310,7 @@ sections:
     type: section_form
     subtitle: >-
       Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
-      unverbindlich im Rahmen eines kostenlosen Beratungsge
+      unverbindlich im Rahmen eines kostenlosen Beratung
 seo:
   title: Angebot - Epic Fusion
   description: >-
