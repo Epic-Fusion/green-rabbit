@@ -310,7 +310,7 @@ sections:
     type: section_form
     subtitle: >-
       Wir freuen uns auf die Möglichkeit Sie in einem persönlichen Gespräch von
-      unserem Angebot zu 
+      unserem Angebot zu überzeugen. Fordern Sie uns heraus!
 seo:
   title: Angebot - Epic Fusion
   description: >-
