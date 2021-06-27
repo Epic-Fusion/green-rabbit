@@ -308,6 +308,9 @@ sections:
         type: form_field
     submit_label: Anfrage absenden
     type: section_form
+    subtitle: >-
+      Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
+      unverbindlich im Rahmen eines 
 seo:
   title: Angebot - Epic Fusion
   description: >-
