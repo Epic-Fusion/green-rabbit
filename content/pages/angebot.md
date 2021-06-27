@@ -308,10 +308,7 @@ sections:
         type: form_field
     submit_label: Anfrage absenden
     type: section_form
-    subtitle: >-
-      Wir bieten Ihnen die Möglichkeit uns kennenzulernen und Ihre Bedürfnisse
-      unverbindlich im Rahmen eines kostenlosen Beratungsgespräches zu
-      diskutieren.
+    subtitle: 'Wir freuen uns auf die Möglichkeit '
 seo:
   title: Angebot - Epic Fusion
   description: >-
