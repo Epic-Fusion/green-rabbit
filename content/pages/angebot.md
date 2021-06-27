@@ -308,7 +308,9 @@ sections:
         type: form_field
     submit_label: Anfrage absenden
     type: section_form
-    subtitle: 'Wir freuen uns auf die Möglichkeit Sie in einem persönlichen Gespräch '
+    subtitle: >-
+      Wir freuen uns auf die Möglichkeit Sie in einem persönlichen Gespräch von
+      unserem Angebot zu 
 seo:
   title: Angebot - Epic Fusion
   description: >-
