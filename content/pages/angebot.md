@@ -52,10 +52,10 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Teamwork, Kommunikation und Telefonie mit Microsoft Teams
-          *   Moderne integrierte Intranet Hub-Lösungen
-          *   Effektivere Meetings etablieren mit Agenda App
-          *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
+          *   Nutzung moderner Intranet Hub-Lösungen
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
+          *   Effektivere Meetings dank der Agenda App
+          *   Professionelle IT-Schulung Ihrer Mitarbeitenden
         actions:
           - label: Wie könnte Teamwork bei Ihnen aussehen?
             url: '#beratungsanfrage'
