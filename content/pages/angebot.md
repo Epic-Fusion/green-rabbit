@@ -28,14 +28,17 @@ sections:
       - title: Strategie und Beratung
         image_alt: lorem-ipsum
         content: >
-          *   Erarbeiten von Cloud-Strategie und Service-Roadmap
+          *   Erarbeitung Ihrer Cloud-Strategie und Service-Roadmap
 
-          *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
-          durch die digitale Transformation
+          *   Visionsworkshops mit integralen Konzepte und ganzheitlicher
+          Beratung
 
-          *   Veränderungsmanagement, Change Prozess Begleitung
+          *    Begleitung beim Veränderungsmanagement und Change Prozessen
 
-          *   Technical Change Advisory durch die M365-Plattform
+          *   Technical Change Advisory zur M365-Plattform
+
+          *   Zielgerichtete Führung durch die digitale Transformation Ihres
+          Unternehmens
         actions:
           - label: Jetzt Termin vereinbaren.
             url: '#beratungsanfrage'
