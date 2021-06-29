@@ -67,22 +67,6 @@ sections:
       Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
       intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
       die Komplexität Ihrer Transformationsvorhaben.
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: >-
