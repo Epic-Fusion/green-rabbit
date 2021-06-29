@@ -19,7 +19,7 @@ sections:
         type: grid_item
         content: |
           *   Evaluation und Planung der Cloud-Identity
-          *   Design und Implementierung Modern Workplace
+          *   Design und Implementierung des Modern Workplaces
           *   Unterstützung zur Nutzen des Service-Potenzials
           *   Infrastruktur-Readiness Analyse
           *   Rollout und Trainings für alle Mitarbeitende
