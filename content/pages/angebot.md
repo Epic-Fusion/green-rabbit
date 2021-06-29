@@ -18,10 +18,12 @@ sections:
             type: action
         type: grid_item
         content: |
+
+
+          *   Analyse Ihrer Infrastruktur-Ausgangslage
           *   Evaluation und Planung der Cloud-Identity
           *   Design und Implementierung eines Modern Workplaces
-          *   Unterstützung zur Nutzen des Service-Potenzials
-          *   Infrastruktur-Readiness Analyse
+          *   Optimierte Nutzung des Service-Potenzials
           *   Rollout und Trainings für alle Mitarbeitende
       - title: Strategie und Beratung
         image_alt: lorem-ipsum
