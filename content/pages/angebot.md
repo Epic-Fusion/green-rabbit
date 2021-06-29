@@ -63,10 +63,10 @@ sections:
     type: section_grid
     title: Clevere Cloud Strategien
     subtitle: >-
-      Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-      Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
-      intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
-      die Komplexität Ihrer Transformationsvorhaben.
+      Epic Fusion verbindet Ihre Anforderungen und Rahmenbedingungen mit dem
+      vollen Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir
+      eine intelligente, phasenweise Cloud-Enablement Strategie. Damit
+      reduzieren wir die Komplexität bei gleichen Ressourcen. 
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: >-
