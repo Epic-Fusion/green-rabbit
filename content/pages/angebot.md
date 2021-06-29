@@ -2,22 +2,6 @@
 title: Unser Angebot
 hide_title: false
 sections:
-  - title: Unser Angebot
-    section_id: Unser Angebot
-    subtitle: Mit Epic Fusion sind Sie fit für die digitale Zukunft
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: section_content
   - section_id: cloud-smart
     col_number: three
     is_numbered: false
