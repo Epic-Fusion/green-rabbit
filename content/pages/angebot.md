@@ -57,7 +57,7 @@ sections:
           *   Effektivere Meetings dank der Agenda App
           *   Professionelle IT-Schulung Ihrer Mitarbeitenden
         actions:
-          - label: Wie könnte Teamwork bei Ihnen aussehen?
+          - label: Ist Ihre Teamarbeit effizient ausgerichtet?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
