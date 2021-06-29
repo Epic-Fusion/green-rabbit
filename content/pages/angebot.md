@@ -9,7 +9,7 @@ sections:
       - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
         actions:
-          - label: Wie sieht Ihre Ausgangslage dazu aus?
+          - label: Wie sieht Ihre Ausgangslage aus?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
