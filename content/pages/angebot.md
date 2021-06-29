@@ -1,6 +1,6 @@
 ---
 title: Unser Angebot
-hide_title: false
+hide_title: true
 sections:
   - section_id: cloud-smart
     col_number: three
