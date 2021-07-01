@@ -76,17 +76,10 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      # Unser Angebot
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
     type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
