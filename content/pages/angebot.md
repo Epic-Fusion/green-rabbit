@@ -69,7 +69,7 @@ sections:
           *   Zielgerichtete Führung durch die digitale Transformation Ihres
           Unternehmens
         actions:
-          - label: Jetzt Termin vereinbaren
+          - label: Wie clever ist Ihre Cloud Strategie?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
