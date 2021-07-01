@@ -249,8 +249,8 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Beratung und Begleitung für echte digitale Lösungen
-          *   Konzeptions- und Design Thinking Workshops
-          *   Potenzial-Analyse und Assessments
+          *   Konzeptions- und Design Thinking-Workshops
+          *   Potenzial-Analyse und Bewertungen
         actions:
           - label: Wann möchten Sie einen Workshop planen?
             url: '#beratungsanfrage'
