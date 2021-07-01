@@ -373,6 +373,10 @@ seo:
         Fusion vereinbaren.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Angebote zur digitalen Transformation | Epic Fusion
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
