@@ -3,7 +3,7 @@ title: Unser Angebot
 hide_title: true
 sections:
   - title: Unser Angebot
-    section_id: lorem-ipsum
+    section_id: Mit Epic Fusion sind Sie fit für die digitale Zukunft
     content: >-
       ## Lorem ipsum
 
