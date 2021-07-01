@@ -366,6 +366,13 @@ seo:
       value: Angebote zur digitalen Transformation | Epic Fusion
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Digitale Transformation geplant? Cloud-Strategie • Agile Prozesse •
+        IT-Training • Microsoft 365 + Azure ✓ Kostenloses Gespräch mit Epic
+        Fusion vereinbaren.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
