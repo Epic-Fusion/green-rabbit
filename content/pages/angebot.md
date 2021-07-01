@@ -2,6 +2,15 @@
 title: Unser Angebot
 hide_title: true
 sections:
+  - title: Unser Angebot
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: |
+      # Unser Angebot
+
+      ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
+    type: section_content
   - section_id: cloud-smart
     col_number: three
     is_numbered: false
@@ -72,15 +81,6 @@ sections:
       vollen Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir
       eine intelligente, phasenweise Cloud-Enablement Strategie. Damit
       reduzieren wir die Komplexität bei gleichen Ressourcen.
-  - title: Unser Angebot
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      # Unser Angebot
-
-      ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
-    type: section_content
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: >-
