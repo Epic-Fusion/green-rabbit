@@ -4,7 +4,25 @@ hide_title: true
 sections:
   - title: Unser Angebot
     section_id: hero
-    content: "## Mit Epic Fusion sind Sie fit für die digitale Zukunft\n\nKämpfen Sie auch in Ihrem Unternehmen mit der mit der Bewältigung der Microsoft 365 Service-Updates? \n\nGern stellen wir Ihnen unsere bewährte\_[#EpicFusionMethode](https://www.linkedin.com/feed/hashtag/?keywords=epicfusionmethode\\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6813842769736470529)\_für\_[#Microsoft](https://www.linkedin.com/feed/hashtag/?keywords=microsoft\\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6813842769736470529)\_#365\_[#ServiceChanges](https://www.linkedin.com/feed/hashtag/?keywords=servicechanges\\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6813842769736470529)\_vor. Lehnen Sie sich zurück und stärken Sie gleichzeitig Ihr Cloud Service Portfolio!\n"
+    content: >+
+      ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
+
+
+      Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud Strategie?
+      Haben Sie mit aglilen Projekt- und Arbeitsformen die Effizienz in Ihren
+      Teams gesteigert? Beherrschen Ihre Mitarbeitenden den Funktionsumfang
+      Ihrer IT-Programme? Sie sind sich bei der Beantwortung dieser Fragen
+      unsicher?
+
+
+      Epic Fusion schafft Sicherheit. Und steigert die Effizienz. Wir führen Sie
+      mit der integralen Arbeitsweise und massgeschneiderten Angeboten
+      zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
+      und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
+      agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
+      Modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
+      digitale Zukunft.
+
     actions: []
     type: section_hero
   - section_id: cloud-smart
