@@ -302,7 +302,7 @@ sections:
     content: >
       Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten
       Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen
-      Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden,
+      Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden sowie
       herstellerübergreifenden Lösungen ganzheitlich unterstützen.
 
 
