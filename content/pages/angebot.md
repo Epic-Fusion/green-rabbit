@@ -301,15 +301,6 @@ sections:
     image_alt: lorem-ipsum
     content: "Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich unterstützen.\n\nEpic Fusion hat eine Methode entwickelt, sämtliche Microsoft 365 Updates effizient zu verarbeiten. Denn Microsoft lanciert linear gesehen rund 720 Serviceoptimierungen\_pro Jahr. Das bringt einen erheblichen Verarbeitungsaufwand mit sich. Kämpfen Sie auch in Ihrem Unternehmen mit der mit der Bewältigung der Microsoft 365 Service-Updates?\n"
     type: section_content
-  - actions:
-      - label: Epic Fusion Methode entdecken
-        url: 'https://www.epicfusion.com/angebot#beratungsanfrage'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_hero
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
     form_id: Besprechungsanfrage
