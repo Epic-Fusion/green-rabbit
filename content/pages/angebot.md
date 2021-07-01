@@ -247,9 +247,14 @@ sections:
     grid_items:
       - title: Design Thinking
         image_alt: lorem-ipsum
-        content: |
-          *   Beratung und Begleitung für echte digitale Lösungen
+        content: >
+          *   Lösen von Problemen und Entwicklung neuer Ideen mit Design
+          Thinking-Ansatz
+
+          *   Beratung und Begleitung für digitale Lösungen
+
           *   Konzeptions- und Design Thinking-Workshops
+
           *   Potenzial-Analyse und Bewertungen
         actions:
           - label: Wie entwickeln Sie neue Ideen?
