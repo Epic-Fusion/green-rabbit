@@ -352,10 +352,10 @@ sections:
       unserem Angebot zu überzeugen. Fordern Sie uns heraus!
 seo:
   title: Angebot | Epic Fusion
-  description: >
-    Cloud-Smart Strategie, Microsoft 365 Infrastruktur, Agile Projekt- und
-    Arbeitsformen, Employee Experience und Trainings, App- und
-    Prozessmodernierung.
+  description: >-
+    Digitale Transformation geplant? Cloud-Strategie • Agiles Projektmanagement
+    • IT-Training • Design Thinking • Microsoft 365 + Azure ✓ Kostenloses
+    Gespräch mit den Epic Fusion-Experten.
   robots: []
   extra:
     - name: 'og:image'
