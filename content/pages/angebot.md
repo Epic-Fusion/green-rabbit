@@ -1,7 +1,40 @@
 ---
 title: Unser Angebot
-hide_title: false
+hide_title: true
 sections:
+  - title: Unser Angebot
+    section_id: hero
+    content: >
+      ## Ist Ihr Unternehmen für die digitale Zukunft richtig aufgestellt?
+
+
+      Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud Strategie?
+      Haben Sie mit aglilen Projekt- und Arbeitsformen die Effizienz in Ihren
+      Teams gesteigert? Beherrschen Ihre Mitarbeitenden den Funktionsumfang
+      Ihrer IT-Programme? Sie sind sich bei der Beantwortung dieser Fragen
+      unsicher?
+
+
+      ## Epic Fusion Empowerment
+
+
+      Epic Fusion schafft Sicherheit. Und steigert die Effizienz. Wir führen Sie
+      mit unserer integralen Arbeitsweise und massgeschneiderten Angeboten
+      zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
+      und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
+      agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
+      modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
+      digitale Zukunft. Entfesseln wir mit der richtigen Digital
+      Transformation-Strategie das vorhandene Potenzial in Ihrem Unternehmen. 
+    actions:
+      - label: Unternehmen digitalisieren
+        url: '/angebot#beratungsanfrage'
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_hero
   - section_id: cloud-smart
     col_number: three
     is_numbered: false
@@ -9,7 +42,7 @@ sections:
       - title: Microsoft Modern Workplace
         image_alt: lorem-ipsum
         actions:
-          - label: Wie sieht Ihre Ausgangslage dazu aus?
+          - label: Wie sieht Ihre Ausgangslage aus?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -18,24 +51,29 @@ sections:
             type: action
         type: grid_item
         content: |
+
+
+          *   Analyse Ihrer Infrastruktur-Ausgangslage
           *   Evaluation und Planung der Cloud-Identity
-          *   Design und Implementierung Modern Workplace
-          *   Unterstützung zur Nutzen des Service-Potenzials
-          *   Infrastruktur-Readiness Analyse
+          *   Design und Implementierung eines Modern Workplaces
+          *   Optimierte Nutzung des Service-Potenzials
           *   Rollout und Trainings für alle Mitarbeitende
       - title: Strategie und Beratung
         image_alt: lorem-ipsum
         content: >
-          *   Erarbeiten von Cloud-Strategie und Service-Roadmap
+          *   Erarbeitung Ihrer Cloud-Strategie und Service-Roadmap
 
-          *   Visionsworkshops, integrale Konzepte und ganzheitliche Beratung
-          durch die digitale Transformation
+          *   Visionsworkshops mit integralen Konzepte und ganzheitlicher
+          Beratung
 
-          *   Veränderungsmanagement, Change Prozess Begleitung
+          *   Begleitung beim Veränderungsmanagement und Change Prozessen
 
-          *   Technical Change Advisory durch die M365-Plattform
+          *   Technical Change Advisory zur M365-Plattform
+
+          *   Zielgerichtete Führung durch die digitale Transformation Ihres
+          Unternehmens
         actions:
-          - label: Jetzt Termin vereinbaren.
+          - label: Wie clever ist Ihre Cloud Strategie?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -47,12 +85,12 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Teamwork, Kommunikation und Telefonie mit Microsoft Teams
-          *   Moderne integrierte Intranet Hub-Lösungen
-          *   Effektivere Meetings etablieren mit Agenda App
-          *   Professionelle IT-Ausbildungen Ihrer Mitarbeitenden
+          *   Nutzung moderner Intranet Hub-Lösungen
           *   Wissens- und Taskmanagement mit Microsoft oder Atlassian
+          *   Effektivere Meetings dank der Agenda App
+          *   Professionelle IT-Schulung Ihrer Mitarbeitenden
         actions:
-          - label: Wie könnte Teamwork bei Ihnen aussehen?
+          - label: Ist Ihre Teamarbeit effizient ausgerichtet?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -63,29 +101,31 @@ sections:
     type: section_grid
     title: Clevere Cloud Strategien
     subtitle: >-
-      Wir verbinden Ihre Anforderungen und Rahmenbedingungen mit dem vollen
-      Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir eine
-      intelligente, phasenweise Cloud-Enablement Strategie und reduzieren damit
-      die Komplexität Ihrer Transformationsvorhaben.
+      Epic Fusion verbindet Ihre Anforderungen und Rahmenbedingungen mit dem
+      vollen Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir
+      eine intelligente, phasenweise Cloud-Enablement Strategie. Damit
+      reduzieren wir die Komplexität bei gleichen Ressourcen.
   - title: Agile Projekt- und Arbeitsformen
     section_id: lorem-ipsum
     subtitle: >-
-      Wir schaffen die notwendigen Voraussetzungen, um agile Arbeitsformen
-      ganzheitlich in einem kontinuierlichen Lernprozess zu etablieren und
-      langfristig zu stärken. Ob Projektmethodik nach Scrum oder Kanban, oder
-      selbstorganisierte Teams.
+      Agile Arbeitsformen bedeuten einen Lernprozess. Epic Fusion schafft die
+      notwendigen Voraussetzungen, um die Agilität in Ihrem Unternehmen
+      schrittweise zu etablieren. Das Ziel: Ihre Arbeitskultur und
+      Projektmethodik langfristig stärken. Ob Scrum, Kanban oder
+      selbstorganisierte Teams – Epic Fusion steht Ihren Mitarbeitenden
+      kompetent zur Seite.
     col_number: three
     is_numbered: false
     grid_items:
       - title: Agile Projekte
         image_alt: lorem-ipsum
         content: |
-          *   Projektleitung und Projekt Management Unterstützung
-          *   Vertretung von Scrum- oder Kanban Rollen im Projekt
+          *   Projektleitung und Unterstützung im Projekt Management
+          *   Vertretung von Scrum- oder Kanban-Rollen im Projekt
           *   Transformation von klassischen Projekten in die Agilität
-          *   Etablieren von hybriden Projektmodellen in der Organisation
+          *   Etablierung von hybriden Projektmodellen im Unternehmen
         actions:
-          - label: Jetzt Ihre Projektunterstützung buchen.
+          - label: Wobei benötigen Sie Projektunterstützung?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -96,13 +136,13 @@ sections:
       - title: Coaching
         image_alt: lorem-ipsum
         content: |
-          *   Kickstarter Workshops zu Agilität
-          *   Coaching vom Projektleiter zum Facilitator
-          *   Review von Methodik und Anwendung
+          *   Kickstarter-Workshops zum Thema «Agilität»
+          *   Coaching «Facilitor statt Projektleiter\*in»
+          *   Überprüfung bestehender Methodik und Anwendungen
           *   Troubleshooting von agilen Praktiken
-          *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
+          *   Trainings zu Scrum, Kanban und selbstorganisierten Teams
         actions:
-          - label: Wie sieht Ihr Coaching Bedarf aus?
+          - label: Wo haben Sie Coaching-Bedarf?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -118,12 +158,12 @@ sections:
           *   Bedürfnisse von Teams und Menschen in der virtuellen Welt
           etablieren
 
-          *   Beratung um Meetings effektiv und sinnvoll durchführen
+          *   Beratung zur effektiven und sinnvollen Durchführung von Meetings
 
-          *   Workshops zur Reflexion bestehender Arbeitsmodellen mit New Work
-          Ansätzen
+          *   Workshops zur Reflexion bestehender Arbeitsmodelle mit New
+          Work-Ansätzen
         actions:
-          - label: Hybride Arbeitswelt entdecken.
+          - label: Wie profitieren Sie von einer hybriden Arbeitswelt?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -132,28 +172,28 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: Employee Experience und Training
+  - title: Employee Experience und IT-Training
     section_id: lorem-ipsum
     subtitle: >-
-      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
-      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
-      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben. Damit gelingt Ihnen das Fundament für eine lebendige Lernkultur.
+      Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist die
+      Einbindung von Mensch, Kultur und Technologie essentiell. Epic Fusion
+      setzt auf praktische Lösungen, welche den Arbeitsalltag Ihrer
+      Mitarbeitenden verbessert und das Arbeiten vereinfacht. Schaffen wir in
+      Ihrem Unternehmen gemeinsam das Fundament für eine lebendige Lernkultur.
     col_number: three
     is_numbered: false
     grid_items:
       - title: Employee Experience
         image_alt: lorem-ipsum
         content: >
+          *   Gezieltes Empowerment Ihrer Mitarbeitenden mit der richtigen
+          Strategie
+
           *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung
 
-          *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial in
-          der Organisation entfesseln
-
-          *   Begleitung zur Etablierung unterstützender Kommunikation und
-          Portallösungen
+          *   Etablierung unterstützender Kommunikationstools und Portallösungen
         actions:
-          - label: Dürfen wir Ihnen Ideen präsentieren?
+          - label: Wie entfesseln Sie das Potenzial Ihrer Mitarbeitenden?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -164,10 +204,10 @@ sections:
       - title: User Adoption
         image_alt: lorem-ipsum
         content: |
-          *   Beratung zu neuartigen User Adoption Ansätzen
-          *   Erfrischende User Adoption Methoden mit viel Abwechselung
-          *   Beratung zu interaktiven Self-Service Lernportalen
-          *   Integrierende Lösungen in bestehende Kommunikation
+          *   Beratung zu neuartigen User Adoption-Ansätzen
+          *   Etablierung erfrischender User Adoption-Methoden
+          *   Beratung zu interaktiven Self-Service-Lernportalen
+          *   Integrierende Lösungen in bestehende Kommunikationsabläufe
         actions:
           - label: Möchten Sie Ihre Mitarbeitenden befähigen?
             url: '#beratungsanfrage'
@@ -181,11 +221,11 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Didaktisch konzipierte und individuelle IT-Ausbildungsprogramme
-          *   Trainings unter Leitung von erfahrenen, zertifizierten Ausbildern
-          *   Interaktive Ansätze mit grösstmöglicher Mitarbeiterbeteiligung
-          *   Individuell und Herstellerunabhängig
+          *   Trainings mit erfahrener, zertifizierter Ausbildungsleitung
+          *   Interaktive Ansätze mit grösstmöglicher Mitarbeitendenbeteiligung
+          *   Individuell und unabhängig vom Hersteller
         actions:
-          - label: 'Bereit, das nächste IT-Training zu planen?'
+          - label: Bereit für das wertvolle IT-Training?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -197,21 +237,27 @@ sections:
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
     subtitle: >-
-      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
-      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
-      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
-      integrale Lösungen auf Basis von Microsoft Azure.
+      Neue Ideen und wirkungsvolle Veränderungen brauchen Raum. Epic Fusion
+      begleitet Sie bei der Auflösung veralteter Legacy Applikationen und
+      Prozesse. Mit ganzheitlichen Ansätzen schaffen wir für Ihr Unternehmen
+      eine moderne, zugängliche und ganzheitliche Lösung auf Basis von Microsoft
+      Azure.
     col_number: three
     is_numbered: false
     grid_items:
       - title: Design Thinking
         image_alt: lorem-ipsum
-        content: |
-          *   Beratung und Begleitung für echte digitale Lösungen
-          *   Konzeptions- und Design Thinking Workshops
-          *   Potenzial-Analyse und Assessments
+        content: >
+          *   Lösen von Problemen und Entwicklung neuer Ideen mit Design
+          Thinking-Ansatz
+
+          *   Beratung und Begleitung für digitale Lösungen
+
+          *   Konzeptions- und Design Thinking-Workshops
+
+          *   Potenzial-Analyse und Bewertungen
         actions:
-          - label: Wann möchten Sie einen Workshop planen?
+          - label: Wie entwickeln Sie neue Ideen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -222,11 +268,11 @@ sections:
       - title: Microsoft Azure
         image_alt: lorem-ipsum
         content: |
-          *   Vollwertig integrierte Lösungen mit Azure Web
-          *   Workflowintegration Azure Functions und Logic Apps
-          *   Line of Business Applikationen verbinden
+          *   Vollwertig integrierte Lösungen mit Microsoft Azure Web
+          *   Workflow-Integration der Azure Functions und Logic Apps
+          *   Verbinden der Line of Business-Applikationen
         actions:
-          - label: Fragen zur Azure Plattform?
+          - label: Haben Sie zur Azure-Plattform Fragen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -241,7 +287,7 @@ sections:
           *   Skalierbare Mini-Apps für Ihre Mitarbeitenden
           *   Echtzeit Datenvisualisierung mit Microsoft Power BI
         actions:
-          - label: Möchten Sie das Potenzial von Daten sehen?
+          - label: Möchten Sie das Potenzial Ihrer Daten sehen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -253,12 +299,7 @@ sections:
   - title: Microsoft Partner
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Als qualifizierter Microsoft-Partner fokussieren wir uns in unseren
-      gemeinsamen Projekten auf die Microsoft 365 und Azure Services. Epic
-      Fusion unterhält gleichzeitig ein umfangreiches Partnernetzwerk um Sie
-      auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich zu
-      unterstützen.
+    content: "Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich unterstützen.\n\nEpic Fusion hat eine Methode entwickelt, sämtliche Microsoft 365 Updates effizient zu verarbeiten. Denn Microsoft lanciert linear gesehen rund 720 Serviceoptimierungen\_pro Jahr. Das bringt einen erheblichen Verarbeitungsaufwand mit sich. Kämpfen Sie auch in Ihrem Unternehmen mit der mit der Bewältigung der Microsoft 365 Service-Updates?\n\n[Von der Epic Fusion Methode profitieren](https://www.epicfusion.com/angebot#beratungsanfrage)\n"
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
@@ -288,37 +329,61 @@ sections:
         options:
           - Smalltalk über die digitale Zukunft
           - Microsoft Modern Workplace
+          - Cloud-Strategien und Möglichkeiten
           - 'Teamwork, Intranet und Meetings'
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
+          - Microsoft 365 und Azure-Lösungen
         is_required: false
         type: form_field
         label: Womit können wir Sie unterstützen?
       - input_type: textarea
         name: Nachricht
         label: Nachricht
-        default_value: 'Hinweise, Fragen, Ergänzungen ?'
+        default_value: 'Hinweise, Fragen, Ergänzungen?'
         options: []
         is_required: false
         type: form_field
     submit_label: Anfrage absenden
     type: section_form
     subtitle: >-
-      Wir freuen uns auf die Möglichkeit Sie in einem persönlichen Gespräch von
+      Wir freuen uns auf die Möglichkeit, Sie in einem persönlichen Gespräch von
       unserem Angebot zu überzeugen. Fordern Sie uns heraus!
 seo:
-  title: Angebot - Epic Fusion
+  title: Angebote zur digitalen Transformation | Epic Fusion
   description: >-
-    Cloud-Smart Strategie, Microsoft 365 Infrastruktur, Agile Projekt- und
-    Arbeitsformen, Employee Experience und Trainings, App- und
-    Prozessmodernierung.
+    Digitale Transformation geplant? Cloud-Strategie • Agile Prozesse •
+    IT-Training • Microsoft 365 + Azure ✓ Kostenloses Gespräch mit Epic Fusion
+    vereinbaren.
   robots: []
   extra:
     - name: 'og:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Angebote zur digitalen Transformation | Epic Fusion
+      keyName: property
+      relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Digitale Transformation geplant? Cloud-Strategie • Agile Prozesse •
+        IT-Training • Microsoft 365 + Azure ✓ Kostenloses Gespräch mit Epic
+        Fusion vereinbaren.
+      keyName: property
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: Angebote zur digitalen Transformation | Epic Fusion
+      keyName: name
+      relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Digitale Transformation geplant? Cloud-Strategie • Agile Prozesse •
+        IT-Training • Microsoft 365 + Azure ✓ Kostenloses Gespräch mit Epic
+        Fusion vereinbaren.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
