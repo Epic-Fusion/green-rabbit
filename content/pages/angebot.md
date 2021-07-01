@@ -206,10 +206,10 @@ sections:
       - title: User Adoption
         image_alt: lorem-ipsum
         content: |
-          *   Beratung zu neuartigen User Adoption Ansätzen
-          *   Erfrischende User Adoption Methoden mit viel Abwechselung
-          *   Beratung zu interaktiven Self-Service Lernportalen
-          *   Integrierende Lösungen in bestehende Kommunikation
+          *   Beratung zu neuartigen User Adoption-Ansätzen
+          *   Etablierung erfrischender User Adoption-Methoden
+          *   Beratung zu interaktiven Self-Service-Lernportalen
+          *   Integrierende Lösungen in bestehende Kommunikationsabläufe
         actions:
           - label: Möchten Sie Ihre Mitarbeitenden befähigen?
             url: '#beratungsanfrage'
