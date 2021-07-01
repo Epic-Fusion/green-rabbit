@@ -24,7 +24,7 @@ sections:
       digitale Zukunft.
 
     actions:
-      - label: lorem-ipsum
+      - label: Weiterkommen
         url: '#'
         style: link
         icon: dribbble
