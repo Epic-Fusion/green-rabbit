@@ -154,10 +154,10 @@ sections:
           *   Bedürfnisse von Teams und Menschen in der virtuellen Welt
           etablieren
 
-          *   Beratung um Meetings effektiv und sinnvoll durchführen
+          *   Beratung zur effektiven und sinnvollen Durchführung von Meetings
 
-          *   Workshops zur Reflexion bestehender Arbeitsmodellen mit New Work
-          Ansätzen
+          *   Workshops zur Reflexion bestehender Arbeitsmodelle mit New
+          Work-Ansätzen
         actions:
           - label: Hybride Arbeitswelt entdecken.
             url: '#beratungsanfrage'
