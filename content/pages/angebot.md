@@ -353,9 +353,9 @@ sections:
 seo:
   title: Angebot | Epic Fusion
   description: >-
-    Digitale Transformation geplant? Cloud-Strategie • Agiles Projektmanagement
-    • IT-Training • Design Thinking • Microsoft 365 + Azure ✓ Kostenloses
-    Gespräch mit den Epic Fusion-Experten.
+    Digitale Transformation geplant? Cloud-Strategie • Agile Prozesse •
+    IT-Training • Design Thinking • Microsoft 365 + Azure ✓ Kostenloses Gespräch
+    mit Epic Fusion-Experten.
   robots: []
   extra:
     - name: 'og:image'
