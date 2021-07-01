@@ -9,7 +9,7 @@ sections:
 
 
       Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud Strategie?
-      Haben Sie mit aglilen Projekt- und Arbeitsformen die Effizienz in Ihren
+      Haben Sie mit agilen Projekt- und Arbeitsformen die Effizienz in Ihren
       Teams gesteigert? Beherrschen Ihre Mitarbeitenden den Funktionsumfang
       Ihrer IT-Programme? Sie sind sich bei der Beantwortung dieser Fragen
       unsicher?
@@ -25,7 +25,7 @@ sections:
       agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
       modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
       digitale Zukunft. Entfesseln wir mit der richtigen Digital
-      Transformation-Strategie das vorhandene Potenzial in Ihrem Unternehmen. 
+      Transformation-Strategie das vorhandene Potenzial in Ihrem Unternehmen.
     actions:
       - label: Unternehmen digitalisieren
         url: '/angebot#beratungsanfrage'
