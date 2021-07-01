@@ -72,7 +72,7 @@ sections:
       vollen Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir
       eine intelligente, phasenweise Cloud-Enablement Strategie. Damit
       reduzieren wir die Komplexität bei gleichen Ressourcen.
-  - title: lorem-ipsum
+  - title: Unser Angebot
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
