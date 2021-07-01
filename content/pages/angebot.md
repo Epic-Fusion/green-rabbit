@@ -116,10 +116,10 @@ sections:
       - title: Agile Projekte
         image_alt: lorem-ipsum
         content: |
-          *   Projektleitung und Projekt Management Unterstützung
-          *   Vertretung von Scrum- oder Kanban Rollen im Projekt
+          *   Projektleitung und Unterstützung im Projekt Management
+          *   Vertretung von Scrum- oder Kanban-Rollen im Projekt
           *   Transformation von klassischen Projekten in die Agilität
-          *   Etablieren von hybriden Projektmodellen in der Organisation
+          *   Etablierung von hybriden Projektmodellen im Unternehmen
         actions:
           - label: Jetzt Ihre Projektunterstützung buchen.
             url: '#beratungsanfrage'
