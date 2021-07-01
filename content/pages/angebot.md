@@ -132,11 +132,11 @@ sections:
       - title: Coaching
         image_alt: lorem-ipsum
         content: |
-          *   Kickstarter Workshops zu Agilität
-          *   Coaching vom Projektleiter zum Facilitator
-          *   Review von Methodik und Anwendung
+          *   Kickstarter-Workshops zum Thema «Agilität»
+          *   Coaching «Facilitor statt Projektleiter\*in»
+          *   Überprüfung bestehender Methodik und Anwendungen
           *   Troubleshooting von agilen Praktiken
-          *   Trainings zu Scrum, Kanban oder selbstorganisierten Teams
+          *   Trainings zu Scrum, Kanban und selbstorganisierten Teams
         actions:
           - label: Wie sieht Ihr Coaching Bedarf aus?
             url: '#beratungsanfrage'
