@@ -304,7 +304,7 @@ sections:
   - actions:
       - label: Epic Fusion Methode entdecken
         url: 'https://www.epicfusion.com/kontakt/'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
