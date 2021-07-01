@@ -22,7 +22,7 @@ sections:
       mit unserer integralen Arbeitsweise und massgeschneiderten Angeboten
       zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
       und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
-      agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
+      agile Projekt- und Arbeitsformen, befähigen Ihre Mitarbeitenden und
       modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
       digitale Zukunft. Entfesseln wir mit der richtigen Digital
       Transformation-Strategie das vorhandene Potenzial in Ihrem Unternehmen.
@@ -302,7 +302,7 @@ sections:
     content: >
       Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten
       Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen
-      Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden,
+      Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden sowie
       herstellerübergreifenden Lösungen ganzheitlich unterstützen.
 
 
