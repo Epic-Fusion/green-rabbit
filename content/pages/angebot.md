@@ -272,7 +272,7 @@ sections:
           *   Workflow-Integration der Azure Functions und Logic Apps
           *   Verbinden der Line of Business-Applikationen
         actions:
-          - label: Haben Sie zur Azure Plattform?
+          - label: Haben Sie zur Azure Plattform Fragen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
