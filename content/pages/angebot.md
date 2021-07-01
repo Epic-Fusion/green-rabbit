@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: Unser Angebot
     section_id: hero
-    content: >+
+    content: >
       ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
 
 
@@ -16,13 +16,12 @@ sections:
 
 
       Epic Fusion schafft Sicherheit. Und steigert die Effizienz. Wir führen Sie
-      mit der integralen Arbeitsweise und massgeschneiderten Angeboten
+      mit unserer integralen Arbeitsweise und massgeschneiderten Angeboten
       zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
       und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
       agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
       Modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
       digitale Zukunft.
-
     actions:
       - label: Unternehmen digitalisieren
         url: '/angebot#beratungsanfrage'
