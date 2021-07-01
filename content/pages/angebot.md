@@ -4,8 +4,7 @@ hide_title: true
 sections:
   - title: Unser Angebot
     section_id: hero
-    content: |
-      ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
+    content: "## Mit Epic Fusion sind Sie fit für die digitale Zukunft\n\nKämpfen Sie auch in Ihrem Unternehmen mit der mit der Bewältigung der Microsoft 365 Service-Updates? \n\nGern stellen wir Ihnen unsere bewährte\_[#EpicFusionMethode](https://www.linkedin.com/feed/hashtag/?keywords=epicfusionmethode\\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6813842769736470529)\_für\_[#Microsoft](https://www.linkedin.com/feed/hashtag/?keywords=microsoft\\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6813842769736470529)\_#365\_[#ServiceChanges](https://www.linkedin.com/feed/hashtag/?keywords=servicechanges\\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6813842769736470529)\_vor. Lehnen Sie sich zurück und stärken Sie gleichzeitig Ihr Cloud Service Portfolio!\n"
     actions: []
     type: section_hero
   - section_id: cloud-smart
