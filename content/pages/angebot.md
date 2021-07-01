@@ -159,7 +159,7 @@ sections:
           *   Workshops zur Reflexion bestehender Arbeitsmodelle mit New
           Work-Ansätzen
         actions:
-          - label: Hybride Arbeitswelt entdecken.
+          - label: Haben Sie die hybride Arbeitswelt bereits für sich entdeckt?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
