@@ -195,7 +195,7 @@ sections:
 
           *   Etablierung unterstützender Kommunikationstools und Portallösungen
         actions:
-          - label: Dürfen wir Ihnen Ideen präsentieren?
+          - label: Möchten Sie Ihre Mitarbeitenen befähigen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
