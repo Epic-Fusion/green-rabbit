@@ -25,7 +25,7 @@ sections:
 
     actions:
       - label: Unternehmen digitalisieren
-        url: '#'
+        url: '/angebot#beratungsanfrage'
         style: button
         icon: dribbble
         new_window: false
