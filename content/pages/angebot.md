@@ -172,7 +172,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: Employee Experience und Training
+  - title: Employee Experience und IT-Training
     section_id: lorem-ipsum
     subtitle: >-
       Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist die
