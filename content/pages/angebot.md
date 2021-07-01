@@ -237,10 +237,11 @@ sections:
   - title: App- und Prozessmodernisierung
     section_id: lorem-ipsum
     subtitle: >-
-      Wir begleiten bei der Auflösung veralteter Legacy Applikationen und
-      Prozesse, um Raum für neue Ideen und echte Transformation zu ermöglichen.
-      Mit ganzheitlichen Ansätzen schaffen wir moderne, zugängliche und
-      integrale Lösungen auf Basis von Microsoft Azure.
+      Neue Ideen und wirkungsvolle Veränderungen brauchen Raum. Epic Fusion
+      begleitet Sie bei der Auflösung veralteter Legacy Applikationen und
+      Prozesse. Mit ganzheitlichen Ansätzen schaffen wir für Ihr Unternehmen
+      eine moderne, zugängliche und ganzheitliche Lösung auf Basis von Microsoft
+      Azure.
     col_number: three
     is_numbered: false
     grid_items:
