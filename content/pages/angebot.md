@@ -24,7 +24,7 @@ sections:
       digitale Zukunft.
 
     actions:
-      - label: Weiterkommen
+      - label: modernisieren
         url: '#'
         style: link
         icon: dribbble
