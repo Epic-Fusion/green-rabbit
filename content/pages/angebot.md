@@ -189,8 +189,6 @@ sections:
           *   Gezieltes Empowerment Ihrer Mitarbeitenden mit der richtigen
           Strategie
 
-          *   Entfesseln von vorhandendem Potenzial in Ihrem Unternehmen
-
           *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung
 
           *   Etablierung unterstützender Kommunikationstools und Portallösungen
