@@ -171,10 +171,11 @@ sections:
   - title: Employee Experience und Training
     section_id: lorem-ipsum
     subtitle: >-
-      Die Grundlage für einen erfolgreichen Wechsel zur kontinuierlichen
-      Veränderung ist die Integration von Mensch, Kultur und Technologie. Wir
-      bilden und vereinen sinnhafte, praktische Lösungen, die Mitarbeitende
-      lieben. Damit gelingt Ihnen das Fundament für eine lebendige Lernkultur.
+      Für einen erfolgreichen Wechsel zur kontinuierlichen Veränderung ist die
+      Einbindung von Mensch, Kultur und Technologie essentiell. Epic Fusion
+      setzt auf praktische Lösungen, welche den Arbeitsalltag Ihrer
+      Mitarbeitenden verbessert und das Arbeiten vereinfacht. Schaffen wir in
+      Ihrem Unternehmen gemeinsam das Fundament für eine lebendige Lernkultur.
     col_number: three
     is_numbered: false
     grid_items:
