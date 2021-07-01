@@ -121,7 +121,7 @@ sections:
           *   Transformation von klassischen Projekten in die Agilität
           *   Etablierung von hybriden Projektmodellen im Unternehmen
         actions:
-          - label: Jetzt Ihre Projektunterstützung buchen.
+          - label: Jetzt Projektunterstützung holen.
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
