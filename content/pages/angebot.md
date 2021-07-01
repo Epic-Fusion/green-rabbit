@@ -299,12 +299,12 @@ sections:
   - title: Microsoft Partner
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Als qualifizierter Microsoft-Partner fokussieren wir uns in unseren
-      gemeinsamen Projekten auf die Microsoft 365 und Azure Services. Epic
-      Fusion unterhält gleichzeitig ein umfangreiches Partnernetzwerk um Sie
-      auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich zu
-      unterstützen.
+    content: >+
+      Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten
+      Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen
+      Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden,
+      herstellerübergreifenden Lösungen ganzheitlich unterstützen.
+
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
