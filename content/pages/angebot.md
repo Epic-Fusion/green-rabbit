@@ -3,7 +3,7 @@ title: Unser Angebot
 hide_title: true
 sections:
   - title: Unser Angebot
-    section_id: Unser Angebot
+    section_id: hero
     content: |
       ## Mit Epic Fusion sind Sie fit für die digitale Zukunft
     actions: []
