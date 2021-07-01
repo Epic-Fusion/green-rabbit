@@ -334,7 +334,7 @@ sections:
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
-          - 'Microsoft '
+          - Microsoft 365 und Azure-Lösungen
         is_required: false
         type: form_field
         label: Womit können wir Sie unterstützen?
