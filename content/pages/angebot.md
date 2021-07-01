@@ -351,7 +351,7 @@ sections:
       Wir freuen uns auf die Möglichkeit, Sie in einem persönlichen Gespräch von
       unserem Angebot zu überzeugen. Fordern Sie uns heraus!
 seo:
-  title: Angebot | Epic Fusion
+  title: Angebote zur digitalen Transformation | Epic Fusion
   description: >-
     Digitale Transformation geplant? Cloud-Strategie • Agile Prozesse •
     IT-Training • Microsoft 365 + Azure ✓ Kostenloses Gespräch mit Epic Fusion
