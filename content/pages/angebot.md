@@ -20,8 +20,10 @@ sections:
       zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
       und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
       agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
-      modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
-      digitale Zukunft.
+      modernisieren Ihre App- und Prozesslandschaft. 
+
+
+      Machen wir Sie fit für die digitale Zukunft.
     actions:
       - label: Unternehmen digitalisieren
         url: '/angebot#beratungsanfrage'
