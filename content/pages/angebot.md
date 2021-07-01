@@ -341,7 +341,7 @@ sections:
       - input_type: textarea
         name: Nachricht
         label: Nachricht
-        default_value: 'Hinweise, Fragen, Ergänzungen ?'
+        default_value: 'Hinweise, Fragen, Ergänzungen?'
         options: []
         is_required: false
         type: form_field
