@@ -303,7 +303,7 @@ sections:
     type: section_content
   - actions:
       - label: Epic Fusion Methode entdecken
-        url: 'https://www.epicfusion.com/kontakt/'
+        url: 'https://www.epicfusion.com/angebot#beratungsanfrage'
         style: button
         icon: dribbble
         new_window: false
