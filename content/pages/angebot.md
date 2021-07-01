@@ -333,7 +333,7 @@ sections:
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
-          - 'Cloud-Strategien und '
+          - Cloud-Strategien und Möglichkeiten
         is_required: false
         type: form_field
         label: Womit können wir Sie unterstützen?
