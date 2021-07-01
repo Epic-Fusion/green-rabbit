@@ -252,7 +252,7 @@ sections:
           *   Konzeptions- und Design Thinking-Workshops
           *   Potenzial-Analyse und Bewertungen
         actions:
-          - label: Wann möchten Sie einen Workshop planen?
+          - label: Wie entwickeln Sie neue Ideen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
