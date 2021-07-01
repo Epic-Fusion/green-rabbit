@@ -182,13 +182,12 @@ sections:
       - title: Employee Experience
         image_alt: lorem-ipsum
         content: >
+          *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial im
+          Unternehmen entfesseln
+
           *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung
 
-          *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial in
-          der Organisation entfesseln
-
-          *   Begleitung zur Etablierung unterstützender Kommunikation und
-          Portallösungen
+          *   Etablierung unterstützender Kommunikationstools und Portallösungen
         actions:
           - label: Dürfen wir Ihnen Ideen präsentieren?
             url: '#beratungsanfrage'
