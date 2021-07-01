@@ -24,7 +24,7 @@ sections:
       digitale Zukunft.
 
     actions:
-      - label: modernisieren
+      - label: Unternehmen digitalisieren
         url: '#'
         style: link
         icon: dribbble
