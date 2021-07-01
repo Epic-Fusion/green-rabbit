@@ -287,7 +287,7 @@ sections:
           *   Skalierbare Mini-Apps für Ihre Mitarbeitenden
           *   Echtzeit Datenvisualisierung mit Microsoft Power BI
         actions:
-          - label: Möchten Sie das Potenzial von Daten sehen?
+          - label: Möchten Sie das Potenzial Ihrer Daten sehen?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
