@@ -2,7 +2,7 @@
 title: Unser Angebot
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Unser Angebot
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
