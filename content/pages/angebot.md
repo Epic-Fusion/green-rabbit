@@ -362,6 +362,10 @@ seo:
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Angebote zur digitalen Transformation | Epic Fusion
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
