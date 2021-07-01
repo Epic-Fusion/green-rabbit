@@ -268,9 +268,9 @@ sections:
       - title: Microsoft Azure
         image_alt: lorem-ipsum
         content: |
-          *   Vollwertig integrierte Lösungen mit Azure Web
-          *   Workflowintegration Azure Functions und Logic Apps
-          *   Line of Business Applikationen verbinden
+          *   Vollwertig integrierte Lösungen mit Microsoft Azure Web
+          *   Workflow-Integration der Azure Functions und Logic Apps
+          *   Verbinden der Line of Business-Applikationen
         actions:
           - label: Fragen zur Azure Plattform?
             url: '#beratungsanfrage'
