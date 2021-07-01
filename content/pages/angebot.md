@@ -329,11 +329,11 @@ sections:
         options:
           - Smalltalk über die digitale Zukunft
           - Microsoft Modern Workplace
+          - Cloud-Strategien und Möglichkeiten
           - 'Teamwork, Intranet und Meetings'
           - Agile Projekt- und Arbeitsformen
           - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
-          - Cloud-Strategien und Möglichkeiten
         is_required: false
         type: form_field
         label: Womit können wir Sie unterstützen?
