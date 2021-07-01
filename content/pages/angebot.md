@@ -76,13 +76,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
         type: grid_item
       - title: Teamwork und Kommunikation
         image_alt: lorem-ipsum
