@@ -9,7 +9,7 @@ sections:
 
 
       Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud Strategie?
-      Haben Sie mit aglilen Projekt- und Arbeitsformen die Effizienz in Ihren
+      Haben Sie mit agilen Projekt- und Arbeitsformen die Effizienz in Ihren
       Teams gesteigert? Beherrschen Ihre Mitarbeitenden den Funktionsumfang
       Ihrer IT-Programme? Sie sind sich bei der Beantwortung dieser Fragen
       unsicher?
@@ -25,7 +25,7 @@ sections:
       agile Projekt- und Arbeitsformen, trainieren Ihre Mitarbeitenden und
       modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
       digitale Zukunft. Entfesseln wir mit der richtigen Digital
-      Transformation-Strategie das vorhandene Potenzial in Ihrem Unternehmen. 
+      Transformation-Strategie das vorhandene Potenzial in Ihrem Unternehmen.
     actions:
       - label: Unternehmen digitalisieren
         url: '/angebot#beratungsanfrage'
@@ -225,7 +225,7 @@ sections:
           *   Interaktive Ansätze mit grösstmöglicher Mitarbeitendenbeteiligung
           *   Individuell und unabhängig vom Hersteller
         actions:
-          - label: Bereit für das wertvolle IT-Training?
+          - label: Bereit für ein echtes IT-Training?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -299,7 +299,20 @@ sections:
   - title: Microsoft Partner
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: "Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden, herstellerübergreifenden Lösungen ganzheitlich unterstützen.\n\nEpic Fusion hat eine Methode entwickelt, sämtliche Microsoft 365 Updates effizient zu verarbeiten. Denn Microsoft lanciert linear gesehen rund 720 Serviceoptimierungen\_pro Jahr. Das bringt einen erheblichen Verarbeitungsaufwand mit sich. Kämpfen Sie auch in Ihrem Unternehmen mit der mit der Bewältigung der Microsoft 365 Service-Updates?\n\n[Von der Epic Fusion Methode profitieren](https://www.epicfusion.com/angebot#beratungsanfrage)\n"
+    content: >
+      Als offizieller Microsoft-Partner setzt Epic Fusion auf die bewährten
+      Leistungen von Microsoft 365 und Microsoft Azure. Dank dem umfangreichen
+      Partnernetzwerk von Epic Fusion können wir Sie auch bei hybriden,
+      herstellerübergreifenden Lösungen ganzheitlich unterstützen.
+
+
+      Epic Fusion hat eine Methode entwickelt, sämtliche Microsoft 365 Updates
+      effizient zu verarbeiten. Kämpfen Sie auch in Ihrem Unternehmen mit der
+      mit der Bewältigung der Microsoft 365 Service-Updates?
+
+
+      [Von der Epic Fusion Methode
+      profitieren](https://www.epicfusion.com/angebot#beratungsanfrage)
     type: section_content
   - title: Neugierig? Jetzt kostenloses Gespräch vereinbaren
     section_id: beratungsanfrage
