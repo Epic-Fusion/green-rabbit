@@ -225,7 +225,7 @@ sections:
           *   Interaktive Ansätze mit grösstmöglicher Mitarbeitendenbeteiligung
           *   Individuell und unabhängig vom Hersteller
         actions:
-          - label: Bereit für das wertvolle IT-Training?
+          - label: Bereit für ein echtes IT-Training?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
