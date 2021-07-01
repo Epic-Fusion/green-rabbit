@@ -186,8 +186,8 @@ sections:
       - title: Employee Experience
         image_alt: lorem-ipsum
         content: >
-          *   Empowerment: Mit der richtigen Strategie vorhandenes Potenzial im
-          Unternehmen entfesseln
+          *   Gezieltes Empowerment Ihrer Mitarbeitenden: Mit der richtigen
+          Strategie vorhandenes Potenzial im Unternehmen entfesseln
 
           *   Ganzheitliche Konzepte für eine ideale Arbeitserfahrung
 
