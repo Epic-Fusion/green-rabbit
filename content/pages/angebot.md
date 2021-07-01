@@ -335,6 +335,7 @@ sections:
           - Employee Experience und IT-Trainings
           - App- und Prozessmodernisierung
           - Microsoft 365 und Azure-Lösungen
+          - Sonstiges
         is_required: false
         type: form_field
         label: Womit können wir Sie unterstützen?
