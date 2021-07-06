@@ -28,9 +28,9 @@ sections:
       Epic Fusion hat den Fokus menschlicher Fähigkeiten fest in die Methodik
       integriert. Wir sind überzeugt, dass eine Lösung so bereitgestellt werden
       soll, dass die Menschen, die Mitarbeitenden ihre Fähigkeiten damit
-      bestmöglich nutzen können - und nicht umgekehrt, dass "Users" auf ein Tool
-      adoptiert werden müssen. Das erreichen wir, in dem wir neue Arbeitsformen
-      etablieren und die Perspektive wechseln, wie sich [Teams
+      bestmöglich nutzen können - und nicht umgekehrt, dass Benutzer auf ein
+      Tool adoptiert werden müssen. Das erreichen wir, in dem wir neue
+      Arbeitsformen etablieren und die Perspektive wechseln, wie sich [Teams
       organisieren](https://www.epicfusion.com/angebot/#agile).
 
 
@@ -56,7 +56,16 @@ sections:
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
 
 
-      ####
+      #### Wer wir sind
+
+
+      Wir sind ein kleines, stark wachsendes Team und vertreten unsere Rollen
+      mit Spezialisten in den Bereichen Modern Work Transformation, Cloud
+      Strategie und Architektur, User Adoption und Training, Change Management,
+      Agile Coaching und Collaboration & Communication.
+
+
+      Lesen Sie hier in Kürze mehr über unser Team..
     type: section_content
   - section_id: lorem-ipsum
     actions:
