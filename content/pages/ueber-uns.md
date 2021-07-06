@@ -12,7 +12,7 @@ sections:
       Eine Frage, die Epic Fusion in der Gründung stark geprägt hat. Wir sind
       überzeugt "Mindset is everything" - und wir möchten Unternehmen dabei
       begleiten, das richtige und ganzheitliche Mindset für die Initiativen rund
-      um den digitalen Arbeitsplatz zu finden. 
+      um den digitalen Arbeitsplatz zu finden.
 
 
       Wir erleben heute eine Disruption in fast aller unserer Lebensbereiche,
@@ -21,17 +21,16 @@ sections:
       von neuartigen Cloud-Services bringt dringende Fragen an Datenschutz,
       Sicherheit und Infrastruktur mit sich. Automatisierung und Künstliche
       Intelligenz werden uns zunehmend begleiten. Doch wo bleiben bei der ganzen
-      Technologie die Menschen? 
+      Technologie die Menschen? Wie können wir auch in einem virtuellen,
+      digitalen Umfeld mit Empathie, Innovation und Kreativität umgehen?
 
 
 
-
-      Epic Fusion wurde gegründet, um Organisationen im Zyklus dieser neuen,
-      sich kontinuierlich verändernden Arbeitswelt zu begleiten. Wir gestalten
-      sichere, skalierbare, Cloud-Lösungen, welche die Arbeit in Organisationen
-      massiv vereinfachen. Dabei steht in unseren Konzepten stets der Mensch vor
-      der Softwarelösung im Fokus, um dem kulturellen Wandel mit der
-      dazugehörigen Mitarbeitererfahrung erfolgreich zu begegnen.
+      Epic Fusion hat den Fokus menschlicher Fähigkeiten fest in die Methodik
+      integriert. Wir sind überzeugt, dass eine Lösung so bereitgestellt werden
+      soll, dass die Menschen, die Mitarbeitenden ihre Fähigkeiten damit
+      bestmöglich nutzen können - und nicht umgekehrt, dass "Users" auf ein Tool
+      adoptiert werden müssen. 
 
 
       #### Wozu wir uns verpflichten
@@ -54,6 +53,9 @@ sections:
       wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
       gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
+
+
+      ####
     type: section_content
   - section_id: lorem-ipsum
     actions:
