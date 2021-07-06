@@ -31,23 +31,26 @@ sections:
       dazugehörigen Mitarbeitererfahrung erfolgreich zu begegnen.
 
 
-      #### Unsere Werte und Prinzipien
+      #### Wozu wir uns verpflichten
 
 
       Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
-      leidenschaftliche Menschen, die als Team für gemeinsame Werte einstehen.
-      Wir wissen, dass wir damit einen nachhaltigen Effekt für unsere Kunden,
-      unsere Partner und die Gesellschaft erreichen können.
+      leidenschaftliche Menschen, die als Team für gemeinsame
+      [Werte](https://www.epicfusion.com/werte) einstehen. Wir wissen, dass wir
+      damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die
+      Gesellschaft erreichen können.
 
 
-      #### Unsere Organisation
+      #### Wie wir uns organisieren
 
 
-      Gemeinsam lassen wir Epic Fusion als evolutionäre Organisation in die
-      Zukunft wachsen. Wir haben uns verteilter Autorität und kollektive
+      Wir möchten zukünftige Arbeitsformen gleich selbst vorleben. Epic Fusion
+      kennt daher keine Hierarchie, keine Chefs und keine fixen
+      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektive
       Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
-      wachsen. Wir engagieren uns für den Aufbau der verteilten Zukunft und
-      priorisieren Talent über Lokalität.
+      wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
+      gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
+      [Fragen](https://www.epicfusion.com/kontakt) Sie uns! 
     type: section_content
   - section_id: lorem-ipsum
     actions:
