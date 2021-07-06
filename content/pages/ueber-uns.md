@@ -29,7 +29,9 @@ sections:
       integriert. Wir sind überzeugt, dass eine Lösung so bereitgestellt werden
       soll, dass die Menschen, die Mitarbeitenden ihre Fähigkeiten damit
       bestmöglich nutzen können - und nicht umgekehrt, dass "Users" auf ein Tool
-      adoptiert werden müssen.
+      adoptiert werden müssen. Das erreichen wir, in dem wir neue Arbeitsformen
+      etablieren und die Perspektive wechseln, wie sich [Teams
+      organisieren](https://www.epicfusion.com/angebot/#agile).
 
 
       #### Wozu wir uns verpflichten
