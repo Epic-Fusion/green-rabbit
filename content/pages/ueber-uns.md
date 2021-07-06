@@ -17,7 +17,7 @@ sections:
 
       Wir erleben heute eine Disruption in fast aller unserer Lebensbereiche,
       die bis vor kurzem niemand für möglich gehalten hätte. Insbesondere die
-      digitale Arbeitswelt veränderte sich schneller als je zuvor. Die Nutzung
+      digitale Arbeitswelt verändert sich schneller als je zuvor. Die Nutzung
       von neuartigen Cloud-Services bringt dringende Fragen an Datenschutz,
       Sicherheit und Infrastruktur mit sich. Automatisierung und Künstliche
       Intelligenz werden uns zunehmend begleiten. Doch wo bleiben bei der ganzen
@@ -25,12 +25,11 @@ sections:
       digitalen Umfeld mit Empathie, Innovation und Kreativität umgehen?
 
 
-
       Epic Fusion hat den Fokus menschlicher Fähigkeiten fest in die Methodik
       integriert. Wir sind überzeugt, dass eine Lösung so bereitgestellt werden
       soll, dass die Menschen, die Mitarbeitenden ihre Fähigkeiten damit
       bestmöglich nutzen können - und nicht umgekehrt, dass "Users" auf ein Tool
-      adoptiert werden müssen. 
+      adoptiert werden müssen.
 
 
       #### Wozu wir uns verpflichten
