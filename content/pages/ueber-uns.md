@@ -6,21 +6,24 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      **Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen.
-      Wir unterstützen Ihr Unternehmen, der Veränderung mit modernen Lösungen zu
-      begegnen. Dabei katalysieren wir die digitale Transformation mit Werten
-      und Prinzipien, um eine nachhaltige Wirkung auf Mensch, Gesellschaft und
-      Organisationen zu schaffen.**
+      **Diese ganzen digitalen Projekte.. geht das nicht besser?**
 
 
-      Über mehr als ein Jahr hinweg erleben wir eine Disruption in fast aller
-      unserer Lebensbereiche, die niemand für möglich gehalten hätte.
-      Insbesondere die digitale Arbeitswelt veränderte sich schneller als je
-      zuvor. Die Nutzung von neuartigen Cloud-Services bringt dringende Fragen
-      an Datenschutz, Sicherheit und Infrastruktur mit sich. Dabei ist der
-      Faktor des Umgangs mit den menschlichen Fähigkeiten, der Arbeitsformen und
-      Organisationskultur mindestens ebenso wichtig, um in der heutigen
-      volatilen Zeit erfolgreich bestehen zu können.
+      Eine Frage, die Epic Fusion in der Gründung stark geprägt hat. Wir sind
+      überzeugt "Mindset is everything" - und wir möchten Unternehmen dabei
+      begleiten, das richtige und ganzheitliche Mindset für die Initiativen rund
+      um den digitalen Arbeitsplatz zu finden. 
+
+
+      Wir erleben heute eine Disruption in fast aller unserer Lebensbereiche,
+      die bis vor kurzem niemand für möglich gehalten hätte. Insbesondere die
+      digitale Arbeitswelt veränderte sich schneller als je zuvor. Die Nutzung
+      von neuartigen Cloud-Services bringt dringende Fragen an Datenschutz,
+      Sicherheit und Infrastruktur mit sich. Automatisierung und Künstliche
+      Intelligenz werden uns zunehmend begleiten. Doch wo bleiben bei der ganzen
+      Technologie die Menschen? 
+
+
 
 
       Epic Fusion wurde gegründet, um Organisationen im Zyklus dieser neuen,
@@ -50,7 +53,7 @@ sections:
       Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
       wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
       gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
-      [Fragen](https://www.epicfusion.com/kontakt) Sie uns! 
+      [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
     type: section_content
   - section_id: lorem-ipsum
     actions:
