@@ -59,10 +59,10 @@ sections:
       #### Wer wir sind
 
 
-      Wir sind ein kleines, stark wachsendes Team und vertreten unsere Rollen
-      mit Spezialisten in den Bereichen Modern Work Transformation, Cloud
-      Strategie und Architektur, User Adoption und Training, Change Management,
-      Agile Coaching und Collaboration & Communication.
+      Wir sind ein wachsendes Team und vertreten unsere Rollen mit Spezialisten
+      in den Bereichen Modern Work Transformation, Cloud Strategie und
+      Architektur, User Adoption und Training, Change Management, Agile Coaching
+      und Collaboration & Communication.
 
 
       Lesen Sie hier in Kürze mehr über unser Team..
