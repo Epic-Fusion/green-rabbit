@@ -6,39 +6,43 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      **Diese ganzen digitalen Projekte.. geht das nicht besser?**
+      ##### Epic Fusion verbindet Digital First und Menschlichkeit.&#xD;
 
 
-      Eine Frage, die Epic Fusion in der Gründung stark geprägt hat. Wir sind
-      überzeugt "Mindset is everything" - und wir möchten Unternehmen dabei
-      begleiten, das richtige und ganzheitliche Mindset für die Initiativen rund
-      um den digitalen Arbeitsplatz zu finden.
+      Epic Fusion ist ein Digital First Team. Wir verbinden New Work Ideen mit
+      hochwertigen Lösungen, um echte digitale Transformation zu ermöglichen. No
+      Excuses, ohne Kompromisse. Wir leben die digitale Zukunft und schaffen
+      damit Raum für uns Menschen.
 
 
-      Wir erleben heute eine Disruption in fast aller unserer Lebensbereiche,
-      die bis vor kurzem niemand für möglich gehalten hätte. Insbesondere die
-      digitale Arbeitswelt verändert sich schneller als je zuvor. Die Nutzung
-      von neuartigen Cloud-Services bringt dringende Fragen an Datenschutz,
-      Sicherheit und Infrastruktur mit sich. Automatisierung und Künstliche
-      Intelligenz werden uns zunehmend begleiten. Doch wo bleiben bei der ganzen
-      Technologie die Menschen? Wie können wir auch in einem virtuellen,
-      digitalen Umfeld mit Empathie, Innovation und Kreativität umgehen?
+      In der heutigen Zeit global vernetzter Märkte dringt die Digitalisierung
+      immer stärker in all unserer Lebensbereiche. Aufgaben werden zunehmend
+      durch Automatisierung und künstliche Intelligenz ersetzt. Damit ergeben
+      sich nicht nur Vereinfachungen und Verbesserungen, sondern auch neue
+      Komplexität und fehlende Orientierung.
 
 
-      Epic Fusion hat den Fokus menschlicher Fähigkeiten fest in die Methodik
-      integriert. Wir sind überzeugt, dass eine Lösung so bereitgestellt werden
-      soll, dass die Menschen, die Mitarbeitenden ihre Fähigkeiten damit
-      bestmöglich nutzen können - und nicht umgekehrt, dass Benutzer auf ein
-      Tool adoptiert werden müssen. Das erreichen wir, in dem wir neue
-      Arbeitsformen etablieren und die Perspektive wechseln, wie sich [Teams
-      organisieren](https://www.epicfusion.com/angebot/#agile).
+      Wir finden es bei Epic Fusion daher essenziell, das menschliche Potenzial
+      in seiner Einzigartigkeit zu nutzen. Unsere sozialen Fähigkeiten wie
+      Empathie, Kreativität oder Innovation können nicht durch künstliche
+      Intelligenz ersetzt werden. Es bedeutet jedoch auch, die Organisation von
+      unseren Teams und unseren Arbeitsweisen zu hinterfragen und neu zu formen.
+      Was motiviert die Menschen in unseren Teams? Wie bilden wir Vertrauen? Wie
+      sieht es aus, wenn sich Teams selbst regulieren, statt gesteuert zu
+      werden? Mit den richtigen Antworten aktivieren wir ungeahntes Potenzial.
+
+
+      Für dieses Potenzial schaffen wir Lösungen rund um den digitalen
+      Arbeitsplatz der Zukunft. Von der Technologie, über die Arbeitsweisen bis
+      zur Organisation unserer Teams. Unser Ziel bei Epic Fusion ist, Sie bei
+      der Transformation zu begleiten, um unsere Erfahrungen und Wissen mit
+      Ihnen zu teilen.
 
 
       #### Wozu wir uns verpflichten
 
 
-      Wir sind kein weiterer Dienstleister für technische Lösungen. Wir sind
-      leidenschaftliche Menschen, die als Team für gemeinsame
+      Wir sind leidenschaftliche Menschen, die als Team für gemeinsame
       [Werte](https://www.epicfusion.com/werte) einstehen. Wir wissen, dass wir
       damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die
       Gesellschaft erreichen können.
@@ -47,9 +51,9 @@ sections:
       #### Wie wir uns organisieren
 
 
-      Wir möchten zukünftige Arbeitsformen gleich selbst vorleben. Epic Fusion
-      kennt daher keine Hierarchie, keine Chefs und keine fixen
-      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektive
+      Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
+      Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
+      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektiver
       Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
       wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
       gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
