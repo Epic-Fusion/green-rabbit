@@ -15,7 +15,7 @@ sections:
       damit Raum für uns Menschen.
 
 
-      In der heutigen Zeit global vernetzter Märke dringt die Digitalisierung
+      In der heutigen Zeit global vernetzter Märkte dringt die Digitalisierung
       immer stärker in all unserer Lebensbereiche. Aufgaben werden zunehmend
       durch Automatisierung und künstliche Intelligenz ersetzt. Damit ergeben
       sich nicht nur Vereinfachungen und Verbesserungen, sondern auch neue
