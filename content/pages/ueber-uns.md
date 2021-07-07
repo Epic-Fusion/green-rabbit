@@ -11,7 +11,7 @@ sections:
 
       Epic Fusion ist ein Digital First Team. Wir verbinden New Work Ideen mit
       hochwertigen Lösungen, um echte digitale Transformation zu ermöglichen. No
-      Excuses, Ohne Kompromisse. Wir leben die digitale Zukunft und schaffen
+      Excuses, ohne Kompromisse. Wir leben die digitale Zukunft und schaffen
       damit Raum für uns Menschen.
 
 
