@@ -138,17 +138,12 @@ sections:
         type: grid_item
       - title: Dankbarkeit
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Wir sind dankbar für das Glück und die Freiheit welche wir haben,
+          diese Werte zu praktizieren, im Gegensatz zu vielen weniger
+          glücklichen Menschen auf der Welt. Wir arbeiten täglich daran, mehr
+          Menschen diese Möglichkeiten zu geben und der Gemeinschaft etwas
+          zurückzugeben.
         actions: []
         type: grid_item
     type: section_grid
