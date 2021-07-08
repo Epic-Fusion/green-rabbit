@@ -203,6 +203,10 @@ seo:
         Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: 'Team, Werte und Prinzipien | Epic Fusion'
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
