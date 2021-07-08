@@ -17,7 +17,7 @@ sections:
       die Zukunft heraus und etabliert neue Lösungen.»*
 
 
-      ## Teampower bei Epic Fusion
+      ## Epic Fusion Teampower
 
 
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
