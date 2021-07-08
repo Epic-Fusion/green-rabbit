@@ -117,7 +117,7 @@ sections:
     type: section_grid
   - title: Wie wir uns organisieren
     section_id: lorem-ipsum
-    subtitle: Epic Fusion
+    subtitle: Digital First bei Epic Fusion
     image_alt: lorem-ipsum
     content: >
       Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
