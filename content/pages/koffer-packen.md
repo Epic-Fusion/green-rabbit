@@ -5,11 +5,10 @@ sections:
   - title: Bist Du bereit für eine neues Abenteuer?
     section_id: lorem-ipsum
     content: >
-      Wenn Du Dich mit unseren
-      [Werten](https://www.epicfusion.com/ueber-epic-fusion) identifizieren
-      kannst und aussergewöhnliche Fähigkeiten im Bereich der digitalen
-      Transformation, Digital Workplace, Change Management, Microsoft 365 oder
-      Azure Infrastruktur mitbringst, würden wir Dich gerne kennenlernen!
+      Wenn Du Dich mit unseren Werten identifizieren kannst und
+      aussergewöhnliche Fähigkeiten im Bereich der digitalen Transformation,
+      Digital Workplace, Change Management, Microsoft 365 oder Azure
+      Infrastruktur mitbringst, würden wir Dich gerne kennenlernen!
     form_id: Bewerbung
     form_action: /thankyou
     form_fields:
