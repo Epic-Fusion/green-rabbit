@@ -96,7 +96,7 @@ sections:
           unseren Interaktionen fördern wir gezielt die Integration.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Gemeinschaft
         image_alt: lorem-ipsum
         content: >
           Wir wissen, dass uns als Kollektiv von engagierten, ganzheitlich
