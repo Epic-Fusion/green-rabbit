@@ -165,11 +165,15 @@ sections:
 
       «We over Me»
 
+
       «Purpose over Profits»
+
 
       «Progress over Perfection»
 
+
       «Learn-It over Know-It»
+
 
       «Experiment over Certainity»
 
