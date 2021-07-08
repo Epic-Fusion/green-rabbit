@@ -129,7 +129,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Kontakt
         url: '#'
         style: button
         icon: dribbble
