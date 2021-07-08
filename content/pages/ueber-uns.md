@@ -1,5 +1,5 @@
 ---
-title: Wir Epic Fusion
+title: Über Epic Fusion
 hide_title: false
 sections:
   - section_id: lorem-ipsum
