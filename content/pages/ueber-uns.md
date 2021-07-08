@@ -74,7 +74,7 @@ sections:
       zielgerichtet durch die digitale Transformation.
 
 
-      [Machen wir Sie fit für die digitale
+      [Machen wir auch Sie fit für die digitale
       Zukunft](https://www.epicfusion.com/kontakt/)
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
