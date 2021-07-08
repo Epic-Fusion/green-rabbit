@@ -121,7 +121,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: Wie wir uns organisieren
+  - title: Unsere Methodik
     section_id: lorem-ipsum
     subtitle: Digital First bei Epic Fusion
     image_alt: lorem-ipsum
