@@ -40,7 +40,7 @@ sections:
       ##### &#xD;
 
 
-      Epic Fusion ist ein Digital First Team. Wir verbinden New Work-Ideen mit
+      Epic Fusion ist ein Digital First-Team. Wir verbinden New Work-Ideen mit
       hochwertigen Lösungen. So ermöglichen wir eine echte, digitale
       Transformation. Unsere Devise: No Excuses – keine Kompromisse. Wir leben
       die digitale Zukunft selbst vor und schaffen so mehr Raum für uns
