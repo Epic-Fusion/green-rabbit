@@ -117,17 +117,12 @@ sections:
         type: grid_item
       - title: Tägliches Lernen
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Epic Fusion schafft Raum für eine proaktive Lernkultur. Wir sind
+          überzeugt: Mit gezieltem Lernen, Passion und Ausdauer werden Talente
+          und Fähigkeiten stark gefördert. Ein nachhaltiges Wachstum kann nur
+          dann erzielt werden, wenn wir uns kontinuierlich verbessern. Deshalb
+          stellen wir den Status Quo fortlaufend in Frage.
         actions: []
         type: grid_item
     type: section_grid
