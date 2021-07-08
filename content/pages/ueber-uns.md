@@ -140,9 +140,12 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Was für ein episches Privileg! Wir sind dankbar für das Glück und die
-          Freiheit, unsere Werte aktiv praktizieren zu dürfen. Wir arbeiten
-          täglich daran, mehr Menschen diese Möglichkeiten zu geben und der
-          Gemeinschaft etwas zurückzugeben.
+          Freiheit, unsere Werte und Prinzipien aktiv praktizieren zu dürfen.
+          Wir arbeiten täglich daran, mehr Menschen diese Möglichkeiten zu
+          bieten: Mit bewusst radikalen Ansätzen lösen wir Effekte aus. Unsere
+          Mitarbeitenden arbeiten an sinnstiftenden Projekten. Den Epic Fusion
+          Mindset tragen wir über die Arbeit hinaus zu unseren Kunden und
+          Freunden und geben so der Gemeinschaft bestenfalls etwas zurück.
         actions: []
         type: grid_item
     type: section_grid
