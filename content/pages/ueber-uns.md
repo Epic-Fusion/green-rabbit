@@ -14,7 +14,7 @@ sections:
 
 
       > *«Wir leben unsere Angebote und Prinzipien selbst vor. Epic Fusion
-      fordert bewusst die Zukunft heraus und etabliert neue Lösungen.»*
+      fordert die Zukunft bewusst heraus und etabliert neue Lösungen.»*
 
 
       ##
