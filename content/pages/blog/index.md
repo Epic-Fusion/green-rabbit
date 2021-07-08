@@ -1,6 +1,8 @@
 ---
-title: Blog
-subtitle: 'News, Tipps und Highlights'
+title: Aktuelles aus der digitalen Welt
+subtitle: >-
+  Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
+  informiert
 hide_title: false
 col_number: three
 seo:
