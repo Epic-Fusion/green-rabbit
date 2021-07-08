@@ -109,9 +109,10 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Leidenschaft ist unser täglicher Antrieb. Wir fokussieren uns auf die
-          Arbeit, für die unser Herz schlägt – Arbeit, die das Potenzial von
-          Menschen freisetzt. So erzielen wir die gewünschte Wirkung für uns und
-          unsere Kunden. Wir leben das Motto «Do it with passion or not at all».
+          Arbeit, für die unser Herz schlägt. Arbeit, die das Potenzial von
+          Menschen freisetzt. So erzielen wir eine nachhaltige Wirkung für uns
+          und unsere Kunden. Wir leben das Motto «Do it with passion or not at
+          all».
         actions: []
         type: grid_item
     type: section_grid
