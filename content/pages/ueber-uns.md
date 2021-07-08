@@ -22,7 +22,7 @@ sections:
       Adoption und User Training, Change Management, Agile Coaching sowie
       Collaboration und Communication.
     actions:
-      - label: Mit Epic Fusion durchstarten
+      - label: Gemeinsam mit Epic Fusion durchstarten
         url: '#'
         style: button
         icon: dribbble
