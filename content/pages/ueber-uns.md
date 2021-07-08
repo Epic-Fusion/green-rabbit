@@ -68,9 +68,7 @@ sections:
       rund um den digitalen Arbeitsplatz der Zukunft. Von der Technologie über
       die Arbeitsweisen bis zur Teamstrukturierung. Wir teilen unsere
       Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
-      zielgerichtet durch die digitale Transformation. 
-
-
+      zielgerichtet durch die digitale Transformation.
 
 
       #### Wozu wir uns verpflichten
@@ -92,9 +90,6 @@ sections:
       wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
       gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
-
-
-      #### Wer wir sind
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
 seo:
