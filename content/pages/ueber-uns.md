@@ -147,9 +147,10 @@ sections:
 
 
       Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
-      und kollektiver Intelligenz. So können wir uns jeden Tag weiterentwickeln
-      und  wachsen. Wir sind ein Team, dass sich für gemeinsame Ziele einsetzt
-      und zusammen Erfolge feiert.
+      und kollektiver Intelligenz. Wir glauben an die Kraft des Experimentierens
+      und verstehen Hindernisse als Chance. So können wir uns kontinuierlich
+      weiterentwickeln und wachsen. Wir sind ein Team, dass sich für gemeinsame
+      Ziele einsetzt und zusammen Erfolge feiert.
 
 
       [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
