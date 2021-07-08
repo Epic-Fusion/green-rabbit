@@ -140,7 +140,7 @@ sections:
   - section_id: Interesse geweckt?
     actions:
       - label: Koffer packen
-        url: 'https://www.epicfusion.com/kontakt/'
+        url: 'https://www.epicfusion.com/koffer-packen/'
         style: button
         icon: dribbble
         new_window: false
