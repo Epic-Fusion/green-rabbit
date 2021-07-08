@@ -147,6 +147,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
+    title: Haben wir Ihr Interesse geweckt?
 seo:
   title: Über uns - Epic Fusion
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
