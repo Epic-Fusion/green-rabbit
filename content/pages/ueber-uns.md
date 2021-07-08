@@ -156,8 +156,8 @@ sections:
     content: >
       Entsprechend der Digital First-Devise organisieren wir uns nach neuen
       Ideen und Strukturen. Epic Fusion kennt keine Hierarchie, keine Chefs und
-      keine fixen Büroarbeitsplätze. Und keine fixen Ferien – unsere
-      Mitarbeitenden gestalten ihre Arbeits- und Ferienmodelle selbst.
+      keine festen Büroarbeitsplätze. Und keine fixen Ferien – unsere
+      Mitarbeitenden gestalten ihre Arbeits- und Ferienzeit selbst.
 
 
       Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
