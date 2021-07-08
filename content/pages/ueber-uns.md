@@ -122,7 +122,8 @@ sections:
           überzeugt: Mit gezieltem Lernen, Passion und Ausdauer werden Talente
           und Fähigkeiten stark gefördert. Ein nachhaltiges Wachstum kann nur
           dann erzielt werden, wenn wir uns kontinuierlich verbessern. Deshalb
-          stellen wir den Status Quo fortlaufend in Frage.
+          stellen wir den Status Quo fortlaufend in Frage und bleiben up to
+          date.
         actions: []
         type: grid_item
       - title: Menschlichkeit
