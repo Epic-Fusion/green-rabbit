@@ -1,95 +1,218 @@
 ---
-title: Wir Epic Fusion
-hide_title: false
+title: Über Epic Fusion
+hide_title: true
 sections:
-  - title: Unsere Story
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+  - title: Über Epic Fusion
+    section_id: Über Epic Fusion - hero
     content: >
-      ##### Epic Fusion verbindet Digital First und Menschlichkeit.&#xD;
+      ## Wer steckt hinter Epic Fusion?
 
 
-      Epic Fusion ist ein Digital First Team. Wir verbinden New Work Ideen mit
-      hochwertigen Lösungen, um echte digitale Transformation zu ermöglichen. No
-      Excuses, ohne Kompromisse. Wir leben die digitale Zukunft und schaffen
-      damit Raum für uns Menschen.
+      Andreas Schmerek und Sanche Baskaran, die beiden Gründer von Epic Fusion,
+      sind überzeugt: Das geht doch besser mit diesen digitalen Projekten! Mit
+      Epic Fusion unterstützen sie Unternehmen bei der digitalen Transformation.
 
 
-      In der heutigen Zeit global vernetzter Märkte dringt die Digitalisierung
-      immer stärker in all unserer Lebensbereiche. Aufgaben werden zunehmend
-      durch Automatisierung und künstliche Intelligenz ersetzt. Damit ergeben
-      sich nicht nur Vereinfachungen und Verbesserungen, sondern auch neue
-      Komplexität und fehlende Orientierung.
+      > *«Wir leben selbst vor, was wir anbieten. Epic Fusion fordert bewusst
+      die Zukunft heraus und etabliert neue Lösungen.»*
 
 
-      Wir finden es bei Epic Fusion daher essenziell, das menschliche Potenzial
-      in seiner Einzigartigkeit zu nutzen. Unsere sozialen Fähigkeiten wie
-      Empathie, Kreativität oder Innovation können nicht durch künstliche
-      Intelligenz ersetzt werden. Es bedeutet jedoch auch, die Organisation von
-      unseren Teams und unseren Arbeitsweisen zu hinterfragen und neu zu formen.
-      Was motiviert die Menschen in unseren Teams? Wie bilden wir Vertrauen? Wie
-      sieht es aus, wenn sich Teams selbst regulieren, statt gesteuert zu
-      werden? Mit den richtigen Antworten aktivieren wir ungeahntes Potenzial.
+      ##
 
 
-      Für dieses Potenzial schaffen wir Lösungen rund um den digitalen
-      Arbeitsplatz der Zukunft. Von der Technologie, über die Arbeitsweisen bis
-      zur Organisation unserer Teams. Unser Ziel bei Epic Fusion ist, Sie bei
-      der Transformation zu begleiten, um unsere Erfahrungen und Wissen mit
-      Ihnen zu teilen.
+      ## Epic Fusion Teampower
 
 
-      #### Wozu wir uns verpflichten
-
-
-      Wir sind leidenschaftliche Menschen, die als Team für gemeinsame
-      [Werte](https://www.epicfusion.com/werte) einstehen. Wir wissen, dass wir
-      damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die
-      Gesellschaft erreichen können.
-
-
-      #### Wie wir uns organisieren
-
-
-      Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
-      Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
-      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektiver
-      Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
-      wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
-      gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
-      [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
-
-
-      #### Wer wir sind
-
-
-      Wir sind ein wachsendes Team und vertreten unsere Rollen mit Spezialisten
-      in den Bereichen Modern Work Transformation, Cloud Strategie und
-      Architektur, User Adoption und Training, Change Management, Agile Coaching
-      und Collaboration & Communication.
-
-
-      Lesen Sie hier in Kürze mehr über unser Team..
-    type: section_content
-  - section_id: lorem-ipsum
+      Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
+      Modern Work Transformation, Cloud Strategie und Cloud Architektur, User
+      Adoption und User Training, Change Management, Agile Coaching sowie
+      Collaboration und Communication.
     actions:
-      - label: Kontakt
-        url: /kontakt
+      - label: Gemeinsam mit Epic Fusion durchstarten
+        url: '#'
         style: button
         icon: dribbble
         new_window: false
         no_follow: false
         type: action
     type: section_hero
+  - title: Unsere Story
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >
+      ##### &#xD;
+
+
+      Epic Fusion ist ein Digital First-Team. Wir verbinden New Work-Ideen mit
+      hochwertigen Lösungen. So ermöglichen wir eine echte, digitale
+      Transformation. Unsere Devise: No Excuses – keine Kompromisse. Wir leben
+      die digitale Zukunft selbst vor und schaffen so mehr Raum für uns
+      Menschen.
+
+
+      Die Digitalisierung dringt in der heutigen Zeit mit global vernetzten
+      Märkte immer stärker in all unserer Lebensbereiche ein. Aufgaben werden
+      zunehmend durch Automatisierung und künstliche Intelligenz ersetzt. Damit
+      ergeben sich nicht nur Vereinfachungen und Verbesserungen, sondern auch
+      zunehmende Komplexität und fehlende Orientierung.
+
+
+      Für Epic Fusion ist es daher essenziell, das menschliche Potenzial in
+      seiner Einzigartigkeit zu nutzen. Soziale Fähigkeiten wie Empathie,
+      Kreativität oder Innovation können nicht durch künstliche Intelligenz
+      ersetzt werden. Jedoch sollten wir die Organisation von Teams und
+      Arbeitsweisen hinterfragen. Was motiviert die Mitarbeitenden? Wie stärken
+      wir Vertrauen? Was passiert, wenn sich Teams selbst regulieren, statt
+      fremdgesteuert zu werden? Mit den richtigen Antworten lässt sich
+      ungeahntes Potenzial aktiveren.
+
+
+      Für die Entfesselung von solchem Potenzial schafft Epic Fusion Lösungen
+      rund um den digitalen Arbeitsplatz der Zukunft. Von der Technologie über
+      die Arbeitsweisen bis zur Teamstrukturierung. Wir teilen unsere
+      Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
+      zielgerichtet durch die digitale Transformation.
+
+
+      [Machen wir auch Sie fit für die digitale
+      Zukunft](https://www.epicfusion.com/kontakt/)
+    type: section_content
+    subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
+  - title: Unsere Werte und Prinzipien
+    section_id: Unsere Werte + Prinzipien - Grid Section
+    subtitle: >-
+      Epic Fusion besteht aus passionierten Menschen. Als Team machen wir uns
+      für gemeinsame Werte stark. So erzielen wir einen nachhaltigen Mehrwert
+      für unsere Kunden, Partner und die Gesellschaft.
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Gleichstellung
+        image_alt: lorem-ipsum
+        content: >
+          Gleichstellung und Diversität sind die festen Grundwerte von Epic
+          Fusion. Wir bilden und fördern ein vielfältiges Team von Menschen auf
+          allen Wegen des Lebens. Unsere Interaktionen sind geprägt von
+          Mitgefühl und Respekt für einander.
+        actions: []
+        type: grid_item
+      - title: Gemeinschaft
+        image_alt: lorem-ipsum
+        content: >
+          Als Kollektiv von engagierten, ganzheitlich denkenden Menschen mit
+          kunden- und lösungsorientiertem Fokus sind uns keine Grenzen gesetzt.
+          Wir lassen nicht zu, dass uns das Ego einem sinnhaftem Wandel im Weg
+          steht.
+        actions: []
+        type: grid_item
+      - title: Leidenschaft
+        image_alt: lorem-ipsum
+        content: >
+          Leidenschaft ist unser täglicher Antrieb. Wir fokussieren uns auf die
+          Arbeit, für die unser Herz schlägt. Arbeit, die das Potenzial von
+          Menschen freisetzt. So erzielen wir eine nachhaltige Wirkung für uns
+          und unsere Kunden. Wir leben das Motto «Do it with passion or not at
+          all».
+        actions: []
+        type: grid_item
+      - title: Tägliches Lernen
+        image_alt: lorem-ipsum
+        content: >
+          Epic Fusion schafft Raum für eine proaktive Lernkultur. Wir sind
+          überzeugt: Mit gezieltem Lernen, Passion und Ausdauer werden Talente
+          und Fähigkeiten stark gefördert. Ein nachhaltiges Wachstum kann nur
+          dann erzielt werden, wenn wir uns kontinuierlich verbessern. Deshalb
+          stellen wir den Status Quo fortlaufend in Frage.
+        actions: []
+        type: grid_item
+      - title: Menschlichkeit
+        image_alt: lorem-ipsum
+        content: >
+          Aus Meinungsverschiedenheiten und dem Austausch neuer, auch
+          kontroverser Ideen schöpfen wir Erfahrungen und Erkenntnisse. Epic
+          Fusion lebt die Philosophie «Strong opinions, weakly held». Mit
+          empathischem Feedback lernen wir dazu, wachsen und stärken unsere
+          Charakteren. Wir stehen für unser Handeln ein und übernehmen
+          Verantwortung.
+        actions: []
+        type: grid_item
+      - title: Dankbarkeit
+        image_alt: lorem-ipsum
+        content: >
+          Was für ein episches Privileg! Wir sind dankbar für das Glück und die
+          Freiheit, unsere Werte und Prinzipien aktiv praktizieren zu dürfen.
+          Unsere Mitarbeitenden erfüllen sinnstiftenden Arbeiten. Den Epic
+          Fusion Mindset tragen wir über die Projekte hinaus zu unseren Kunden
+          und Freunden. Und geben so der Gemeinschaft eine Portion Positivität
+          zurück.
+        actions: []
+        type: grid_item
+    type: section_grid
+  - title: Unser Arbeitsalltag
+    section_id: lorem-ipsum
+    subtitle: Kollektives Digital First bei Epic Fusion
+    image_alt: lorem-ipsum
+    content: >
+      Entsprechend der Digital First-Devise organisieren wir uns nach neuen
+      Ideen und Strukturen. Epic Fusion kennt keine Hierarchie, keine Chefs und
+      keine fixen Büroarbeitsplätze. Und keine fixen Ferien – unsere
+      Mitarbeitenden gestalten ihre Arbeits- und Ferienmodelle selbst.
+
+
+      Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
+      und kollektiver Intelligenz. Wir glauben an die Kraft des Experimentierens
+      und verstehen Hindernisse als Chance. So können wir uns kontinuierlich
+      weiterentwickeln und wachsen. Wir sind ein Team, dass sich für gemeinsame
+      Ziele einsetzt und zusammen Erfolge feiert.
+
+
+      [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
+    type: section_content
+  - section_id: Interesse geweckt?
+    actions:
+      - label: Koffer packen
+        url: 'https://www.epicfusion.com/koffer-packen/'
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_hero
+    title: Haben wir Ihr Interesse geweckt?
+    content: >
+      Sie identifizieren Sich mit unseren Werten, Prinzipien und Arbeitsalltag?
+      Möchten Sie selbst bei Epic Fusion mitwirken? Dann nichts wie los.
 seo:
-  title: Über uns - Epic Fusion
-  description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
+  title: 'Team, Werte und Prinzipien | Epic Fusion'
+  description: >-
+    Wer steckt hinter Epic Fusion? Gleichstellung • Leidenschaft • Tägliches
+    Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
   robots: []
   extra:
     - name: 'og:image'
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Wer steckt hinter Epic Fusion? Gleichstellung • Leidenschaft • Tägliches
+        Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
+      keyName: property
+      relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Wer steckt hinter Epic Fusion? Gleichstellung • Leidenschaft • Tägliches
+        Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
+      keyName: name
+      relativeUrl: false
+    - name: 'og:title'
+      value: 'Team, Werte und Prinzipien | Epic Fusion'
+      keyName: property
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Team, Werte und Prinzipien | Epic Fusion'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
