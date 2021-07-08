@@ -100,7 +100,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: >-
       Epic Fusion besteht aus passionierten Menschen. Als Team machen wir uns
-      für gemeinsame Werte ein.
+      für gemeinsame Werte stark.
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
