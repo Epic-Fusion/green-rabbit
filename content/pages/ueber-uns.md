@@ -134,8 +134,7 @@ sections:
       und zusammen Erfolge feiert.
 
 
-      [Wie das funktioniert?](https://www.epicfusion.com/kontakt/) [Sie wollen
-      bei Epic Fusion mitwirken?](https://www.epicfusion.com/koffer-packen/)
+      [Wie das funktioniert?](https://www.epicfusion.com/kontakt/) 
     type: section_content
   - section_id: Interesse geweckt?
     actions:
