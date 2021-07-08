@@ -59,17 +59,17 @@ sections:
 
       Für Epic Fusion ist es daher essenziell, das menschliche Potenzial in
       seiner Einzigartigkeit zu nutzen. Soziale Fähigkeiten wie Empathie,
-      Kreativität oder Innovation können nicht durch künstliche Intelligenz
-      ersetzt werden. Jedoch sollten wir die Organisation von Teams und
-      Arbeitsweisen hinterfragen. Was motiviert die Mitarbeitenden? Wie stärken
-      wir Vertrauen? Was passiert, wenn sich Teams selbst regulieren, statt
-      fremdgesteuert zu werden? Mit den richtigen Antworten lässt sich
-      ungeahntes Potenzial aktiveren.
+      Kreativität und Innovationskraft sind nicht mit künstlicher Intelligenz
+      ersetzbar. Jedoch sollten wir die Organisation von Teams und Arbeitsweisen
+      hinterfragen. Was motiviert die Mitarbeitenden? Wie stärken wir Vertrauen?
+      Was passiert, wenn sich Teams selbst regulieren, statt fremdgesteuert zu
+      werden? Mit den richtigen Antworten lässt sich ungeahntes Potenzial
+      aktiveren.
 
 
       Für die Entfesselung von solchem Potenzial schafft Epic Fusion Lösungen
       rund um den digitalen Arbeitsplatz der Zukunft. Von der Technologie über
-      die Arbeitsweisen bis zur Teamstrukturierung. Wir teilen unsere
+      die Arbeitsweisen bis hin zur Teamstrukturierung. Wir teilen unsere
       Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
       zielgerichtet durch die digitale Transformation.
 
@@ -81,7 +81,7 @@ sections:
   - title: Unsere Werte und Prinzipien
     section_id: Unsere Werte + Prinzipien - Grid Section
     subtitle: >-
-      Epic Fusion besteht aus passionierten Menschen. Als Team machen wir uns
+      Hinter Epic Fusion stehen passionierte Menschen. Als Team machen wir uns
       für gemeinsame Werte stark. So erzielen wir einen nachhaltigen Mehrwert
       für unsere Kunden, Partner und die Gesellschaft.
     col_number: three
@@ -101,7 +101,7 @@ sections:
         content: >
           Als Kollektiv von engagierten, ganzheitlich denkenden Menschen mit
           kunden- und lösungsorientiertem Fokus sind uns keine Grenzen gesetzt.
-          Wir lassen nicht zu, dass uns das Ego einem sinnhaftem Wandel im Weg
+          Wir lassen nicht zu, dass das Ego einem sinnhaften Wandel im Weg
           steht.
         actions: []
         type: grid_item
@@ -122,7 +122,8 @@ sections:
           überzeugt: Mit gezieltem Lernen, Passion und Ausdauer werden Talente
           und Fähigkeiten stark gefördert. Ein nachhaltiges Wachstum kann nur
           dann erzielt werden, wenn wir uns kontinuierlich verbessern. Deshalb
-          stellen wir den Status Quo fortlaufend in Frage.
+          stellen wir den Status Quo fortlaufend in Frage und bleiben up to
+          date.
         actions: []
         type: grid_item
       - title: Menschlichkeit
@@ -155,15 +156,15 @@ sections:
     content: >
       Entsprechend der Digital First-Devise organisieren wir uns nach neuen
       Ideen und Strukturen. Epic Fusion kennt keine Hierarchie, keine Chefs und
-      keine fixen Büroarbeitsplätze. Und keine fixen Ferien – unsere
-      Mitarbeitenden gestalten ihre Arbeits- und Ferienmodelle selbst.
+      keine festen Büroarbeitsplätze. Und keine fixen Ferien – unsere
+      Mitarbeitenden gestalten ihre Arbeits- und Ferienzeit selbst.
 
 
       Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
       und kollektiver Intelligenz. Wir glauben an die Kraft des Experimentierens
-      und verstehen Hindernisse als Chance. So können wir uns kontinuierlich
-      weiterentwickeln und wachsen. Wir sind ein Team, dass sich für gemeinsame
-      Ziele einsetzt und zusammen Erfolge feiert.
+      und verstehen Hindernisse als Chance. So entwickeln wir uns kontinuierlich
+      weiter und wachsen. Wir sind ein Team, dass sich für gemeinsame Ziele
+      einsetzt und zusammen Erfolge feiert.
 
 
       [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
