@@ -139,7 +139,7 @@ sections:
     type: section_content
   - section_id: Interesse geweckt?
     actions:
-      - label: Epic Fusion kontaktieren
+      - label: Koffer packen
         url: 'https://www.epicfusion.com/kontakt/'
         style: button
         icon: dribbble
