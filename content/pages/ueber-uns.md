@@ -130,7 +130,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Wie wir uns organisieren
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
