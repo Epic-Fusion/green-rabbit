@@ -29,7 +29,7 @@ sections:
       Collaboration und Communication.
     actions:
       - label: Gemeinsam mit Epic Fusion durchstarten
-        url: 'https://www.epicfusion.com/kontakt/'
+        url: 'https://www.epicfusion.com/angebot/#beratungsanfrage'
         style: button
         icon: dribbble
         new_window: false
