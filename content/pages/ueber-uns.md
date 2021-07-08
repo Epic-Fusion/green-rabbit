@@ -130,7 +130,7 @@ sections:
       - dolor sit amet
     actions:
       - label: Kontakt aufnehmen
-        url: '#'
+        url: 'https://www.epicfusion.com/kontakt/'
         style: button
         icon: dribbble
         new_window: false
