@@ -130,9 +130,9 @@ sections:
         content: >
           Meinungsverschiedenheiten und der Austausch neuer Ideen, wenn auch
           kontrovers, ermöglichen uns neue Erkenntnisse. Epic Fusion lebt die
-          Philosophie "Strong opinions, weakly held". Wir geben uns jederzeit
-          empathisches Feedback um zu lernen, zu wachsen und unseren Charakter
-          zu stärken. Wir übernehmen immer Verantwortung für unser Handeln.
+          Philosophie «Strong opinions, weakly held». Dank empathischem Feedback
+          lernen wir dazu, wachsen und stärken unsere Charakteren. Für unser
+          Handeln übernehmen wir immer die Verantwortung.
         actions: []
         type: grid_item
       - title: Dankbarkeit
