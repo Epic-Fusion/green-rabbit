@@ -8,7 +8,14 @@ sections:
       ## Wer steckt hinter Epic Fusion?
 
       *
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
   - title: Unsere Story
     section_id: lorem-ipsum
