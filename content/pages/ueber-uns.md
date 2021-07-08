@@ -36,8 +36,8 @@ sections:
   - title: Die Epic Fusion Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
-      ##### Epic Fusion verbindet Digital First und Menschlichkeit.&#xD;
+    content: >
+      ##### &#xD;
 
 
       Epic Fusion ist ein Digital First Team. Wir verbinden New Work Ideen mit
@@ -92,7 +92,6 @@ sections:
 
 
       #### Wer wir sind
-
     type: section_content
 seo:
   title: Über uns - Epic Fusion
