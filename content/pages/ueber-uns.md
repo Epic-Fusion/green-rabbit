@@ -207,6 +207,10 @@ seo:
       value: 'Team, Werte und Prinzipien | Epic Fusion'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Team, Werte und Prinzipien | Epic Fusion'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
