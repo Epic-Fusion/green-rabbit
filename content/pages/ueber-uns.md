@@ -9,7 +9,7 @@ sections:
 
       *
     actions:
-      - label: lorem-ipsum
+      - label: Mit Epic Fusion durchstarten
         url: '#'
         style: link
         icon: dribbble
