@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Aktuelles aus der digitalen Welt
 subtitle: >-
   Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
   informiert
