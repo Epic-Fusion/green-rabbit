@@ -93,7 +93,7 @@ sections:
 
       #### Wer wir sind
     type: section_content
-    subtitle: Bei Epic Fusion trifft Digital First mit Menschlichkeit.
+    subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
 seo:
   title: Über uns - Epic Fusion
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
