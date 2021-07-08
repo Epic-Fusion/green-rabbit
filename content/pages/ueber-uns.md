@@ -163,15 +163,15 @@ sections:
       Folgende Leitmotive führen uns im Arbeitsalltag zu nachhaltigen Erfolgen:
 
 
-      *   «We over Me»
+      «We over Me»
 
-      *   «Purpose over Profits»
+      «Purpose over Profits»
 
-      *   «Progress over Perfection»
+      «Progress over Perfection»
 
-      *   «Learn-It over Know-It»
+      «Learn-It over Know-It»
 
-      *   «Experiment over Certainity»
+      «Experiment over Certainity»
 
 
       Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
