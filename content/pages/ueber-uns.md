@@ -135,23 +135,6 @@ sections:
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
-
-
-
-
-      #### Wie wir uns organisieren
-
-
       Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
       Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
       Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektiver
