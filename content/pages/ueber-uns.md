@@ -2,6 +2,16 @@
 title: Wir Epic Fusion
 hide_title: false
 sections:
+  - section_id: lorem-ipsum
+    actions:
+      - label: Mit Epic Fusion durchstarten
+        url: /kontakt
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_hero
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -78,16 +88,6 @@ sections:
 
       *
     actions: []
-    type: section_hero
-  - section_id: lorem-ipsum
-    actions:
-      - label: Mit Epic Fusion durchstarten
-        url: /kontakt
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
     type: section_hero
 seo:
   title: Über uns - Epic Fusion
