@@ -191,6 +191,12 @@ seo:
       value: /_static/app-assets/images/epic-fusion-bg-800-min.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Wer steckt hinter Epic Fusion? Gleichstellung • Leidenschaft • Tägliches
+        Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
