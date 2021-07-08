@@ -17,6 +17,9 @@ sections:
       die Zukunft heraus und etabliert neue Lösungen.»*
 
 
+      ## Teampower bei Epic Fusion
+
+
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
       Modern Work Transformation, Cloud Strategie und Cloud Architektur, User
       Adoption und User Training, Change Management, Agile Coaching sowie
