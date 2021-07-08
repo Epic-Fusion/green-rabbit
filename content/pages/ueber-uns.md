@@ -138,11 +138,10 @@ sections:
       - title: Dankbarkeit
         image_alt: lorem-ipsum
         content: >
-          Wir sind dankbar für das Glück und die Freiheit welche wir haben,
-          diese Werte zu praktizieren, im Gegensatz zu vielen weniger
-          glücklichen Menschen auf der Welt. Wir arbeiten täglich daran, mehr
-          Menschen diese Möglichkeiten zu geben und der Gemeinschaft etwas
-          zurückzugeben.
+          Was für ein episches Privileg! Wir sind dankbar für das Glück und die
+          Freiheit, unsere Werte aktiv praktizieren zu dürfen. Wir arbeiten
+          täglich daran, mehr Menschen diese Möglichkeiten zu geben und der
+          Gemeinschaft etwas zurückzugeben.
         actions: []
         type: grid_item
     type: section_grid
