@@ -96,7 +96,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: Gleichstellung
         image_alt: lorem-ipsum
         content: >
           ## Gleichstellung
