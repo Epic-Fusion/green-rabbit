@@ -125,11 +125,10 @@ sections:
       Büroarbeitsplätze. Wir verpflichten uns verteilter Autorität und
       kollektiver Intelligenz, um uns jeden einzelnen Tag weiter zu entwickeln
       und zu wachsen. Wir sind ein Team, dass sich für gemeinsame Ziele einsetzt
-      und zusammen Erfolge feiert! 
+      und zusammen Erfolge feiert!
 
 
-      [Wie das funktioniert? Fragen Sie
-      uns!](https://www.epicfusion.com/kontakt/)
+      [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
     type: section_content
   - section_id: Kontakt-Button
     actions:
