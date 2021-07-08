@@ -81,7 +81,7 @@ sections:
     type: section_hero
   - section_id: lorem-ipsum
     actions:
-      - label: Kontakt
+      - label: Mit Epic Fusion durchstarten
         url: /kontakt
         style: button
         icon: dribbble
