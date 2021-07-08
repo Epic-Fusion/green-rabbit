@@ -12,6 +12,14 @@ sections:
         no_follow: false
         type: action
     type: section_hero
+  - title: Über Epic Fusion
+    section_id: Über Epic Fusion - hero
+    content: |
+      ## Wer steckt hinter Epic Fusion?
+
+      *
+    actions: []
+    type: section_hero
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -81,14 +89,6 @@ sections:
 
       Lesen Sie hier in Kürze mehr über unser Team..
     type: section_content
-  - title: Über Epic Fusion
-    section_id: Über Epic Fusion - hero
-    content: |
-      ## Wer steckt hinter Epic Fusion?
-
-      *
-    actions: []
-    type: section_hero
 seo:
   title: Über uns - Epic Fusion
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
