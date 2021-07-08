@@ -129,7 +129,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: Kontakt
+      - label: Kontakt aufnehmen
         url: '#'
         style: button
         icon: dribbble
