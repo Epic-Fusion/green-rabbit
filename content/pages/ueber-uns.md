@@ -75,7 +75,7 @@ sections:
 
 
       [Machen wir auch Sie fit für die digitale
-      Zukunft](https://www.epicfusion.com/kontakt/)
+      Zukunft](https://www.epicfusion.com/angebot/#beratungsanfrage)
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
   - title: Unsere Werte und Prinzipien
