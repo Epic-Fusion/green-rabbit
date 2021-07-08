@@ -40,34 +40,37 @@ sections:
       ##### &#xD;
 
 
-      Epic Fusion ist ein Digital First Team. Wir verbinden New Work Ideen mit
-      hochwertigen Lösungen, um echte digitale Transformation zu ermöglichen. No
-      Excuses, ohne Kompromisse. Wir leben die digitale Zukunft und schaffen
-      damit Raum für uns Menschen.
+      Epic Fusion ist ein Digital First Team. Wir verbinden New Work-Ideen mit
+      hochwertigen Lösungen. So ermöglichen wir eine echte, digitale
+      Transformation. Unsere Devise: No Excuses – keine Kompromisse. Wir leben
+      die digitale Zukunft selbst vor und schaffen so mehr Raum für uns
+      Menschen.
 
 
-      In der heutigen Zeit global vernetzter Märkte dringt die Digitalisierung
-      immer stärker in all unserer Lebensbereiche. Aufgaben werden zunehmend
-      durch Automatisierung und künstliche Intelligenz ersetzt. Damit ergeben
-      sich nicht nur Vereinfachungen und Verbesserungen, sondern auch neue
-      Komplexität und fehlende Orientierung.
+      Die Digitalisierung dringt in der heutigen Zeit mit global vernetzten
+      Märkte immer stärker in all unserer Lebensbereiche ein. Aufgaben werden
+      zunehmend durch Automatisierung und künstliche Intelligenz ersetzt. Damit
+      ergeben sich nicht nur Vereinfachungen und Verbesserungen, sondern auch
+      zunehmende Komplexität und fehlende Orientierung.
 
 
-      Wir finden es bei Epic Fusion daher essenziell, das menschliche Potenzial
-      in seiner Einzigartigkeit zu nutzen. Unsere sozialen Fähigkeiten wie
-      Empathie, Kreativität oder Innovation können nicht durch künstliche
-      Intelligenz ersetzt werden. Es bedeutet jedoch auch, die Organisation von
-      unseren Teams und unseren Arbeitsweisen zu hinterfragen und neu zu formen.
-      Was motiviert die Menschen in unseren Teams? Wie bilden wir Vertrauen? Wie
-      sieht es aus, wenn sich Teams selbst regulieren, statt gesteuert zu
-      werden? Mit den richtigen Antworten aktivieren wir ungeahntes Potenzial.
+      Für Epic Fusion ist es daher essenziell, das menschliche Potenzial in
+      seiner Einzigartigkeit zu nutzen. Soziale Fähigkeiten wie Empathie,
+      Kreativität oder Innovation können nicht durch künstliche Intelligenz
+      ersetzt werden. Jedoch sollten wir die Organisation von Teams und
+      Arbeitsweisen hinterfragen. Was motiviert die Mitarbeitenden? Wie können
+      wir das Vertrauen stärken? Wie sieht es aus, wenn sich Teams selbst
+      regulieren, statt fremdgesteuert zu werden? Mit den richtigen Antworten
+      lässt sich ungeahntes Potenzial aktiveren.
 
 
-      Für dieses Potenzial schaffen wir Lösungen rund um den digitalen
-      Arbeitsplatz der Zukunft. Von der Technologie, über die Arbeitsweisen bis
-      zur Organisation unserer Teams. Unser Ziel bei Epic Fusion ist, Sie bei
-      der Transformation zu begleiten, um unsere Erfahrungen und Wissen mit
-      Ihnen zu teilen.
+      Für die Entfesselung von solchem Potenzial schafft Epic Fusion Lösungen
+      rund um den digitalen Arbeitsplatz der Zukunft. Von der Technologie über
+      die Arbeitsweisen bis zur Teamstrukturierung. Wir teilen unsere
+      Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
+      zielgerichtet durch die digitale Transformation. 
+
+
 
 
       #### Wozu wir uns verpflichten
