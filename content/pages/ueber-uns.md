@@ -142,8 +142,8 @@ sections:
           Was für ein episches Privileg! Wir sind dankbar für das Glück und die
           Freiheit, unsere Werte und Prinzipien aktiv praktizieren zu dürfen.
           Unsere Mitarbeitenden erfüllen sinnstiftenden Arbeiten. Den Epic
-          Fusion Mindset tragen wir über die Projekte hinaus zu unseren Kunden
-          und Freunden. Und geben so der Gemeinschaft eine Portion Positivität
+          Fusion Mindset tragen wir über Projekte hinaus zu unseren Kunden und
+          Freunden. Und geben so der Gemeinschaft eine Portion Positivität
           zurück.
         actions: []
         type: grid_item
