@@ -126,12 +126,12 @@ sections:
     subtitle: Digital First bei Epic Fusion
     image_alt: lorem-ipsum
     content: >
-      Digital First heisst auch, uns nach neuen Ideen zu organisieren. Epic
-      Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
-      Büroarbeitsplätze. Wir verpflichten uns verteilter Autorität und
-      kollektiver Intelligenz, um uns jeden einzelnen Tag weiter zu entwickeln
-      und zu wachsen. Wir sind ein Team, dass sich für gemeinsame Ziele einsetzt
-      und zusammen Erfolge feiert!
+      Entsprechend der Digital First-Devise organisieren wir uns nach neuen
+      Ideen und Strukturen. Epic Fusion kennt daher keine Hierarchie, keine
+      Chefs und keine fixen Büroarbeitsplätze. Wir verpflichten uns verteilter
+      Autorität und kollektiver Intelligenz, um uns jeden einzelnen Tag weiter
+      zu entwickeln und zu wachsen. Wir sind ein Team, dass sich für gemeinsame
+      Ziele einsetzt und zusammen Erfolge feiert!
 
 
       [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
