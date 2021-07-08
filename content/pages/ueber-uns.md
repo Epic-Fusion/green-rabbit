@@ -125,7 +125,7 @@ sections:
           stellen wir den Status Quo fortlaufend in Frage.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Evolutionärer Sinn
         image_alt: lorem-ipsum
         content: >
           Wir verpflichten uns einer evolutionären Organisation mit verteilter
