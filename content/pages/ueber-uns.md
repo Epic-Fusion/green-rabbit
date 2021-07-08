@@ -160,7 +160,7 @@ sections:
       Mitarbeitenden gestalten ihre Arbeits- und Ferienzeit selbst.
 
 
-      Folgende fünf Leitmotive führen uns im Arbeitsalltag zu nachhaltigen
+      Folgende fünf Grundsätze führen uns im Arbeitsalltag zu nachhaltigen
       Erfolgen:
 
 
