@@ -136,7 +136,7 @@ sections:
           Handeln.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Dankbarkeit
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
