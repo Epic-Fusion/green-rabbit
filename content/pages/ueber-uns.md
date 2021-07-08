@@ -9,9 +9,8 @@ sections:
 
 
       Andreas Schmerek und Sanche Baskaran, die beiden Gründer von Epic Fusion,
-      sind überzeugt: \*Das geht doch besser mit diesen digitalen Projekten!
-      \*Mit Epic Fusion unterstützen sie Unternehmen bei der digitalen
-      Transformation.
+      sind überzeugt: Das geht doch besser mit diesen digitalen Projekten! Mit
+      Epic Fusion unterstützen sie Unternehmen bei der digitalen Transformation.
 
 
       > *«Wir leben selbst vor, was wir anbieten. Epic Fusion fordert bewusst
