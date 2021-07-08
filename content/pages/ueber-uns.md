@@ -182,7 +182,9 @@ sections:
       Möchten Sie selbst bei Epic Fusion mitwirken? Dann nichts wie los.
 seo:
   title: 'Team, Werte und Prinzipien | Epic Fusion'
-  description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
+  description: >-
+    Wer steckt hinter Epic Fusion? Gleichstellung • Leidenschaft • Tägliches
+    Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
   robots: []
   extra:
     - name: 'og:image'
