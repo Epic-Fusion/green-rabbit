@@ -148,7 +148,7 @@ sections:
     type: section_grid
   - title: Unser Arbeitsalltag
     section_id: lorem-ipsum
-    subtitle: Digital First bei Epic Fusion
+    subtitle: Kollektives Digital First bei Epic Fusion
     image_alt: lorem-ipsum
     content: >
       Entsprechend der Digital First-Devise organisieren wir uns nach neuen
