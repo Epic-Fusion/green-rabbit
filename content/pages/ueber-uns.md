@@ -143,12 +143,13 @@ sections:
       Entsprechend der Digital First-Devise organisieren wir uns nach neuen
       Ideen und Strukturen. Epic Fusion kennt keine Hierarchie, keine Chefs und
       keine fixen Büroarbeitsplätze. Und keine fixen Ferien – unsere
-      Mitarbeitenden gestalten ihre Arbeits- und Ferienmodelle selbst. 
+      Mitarbeitenden gestalten ihre Arbeits- und Ferienmodelle selbst.
 
 
-      Wir verpflichten uns geteilter Autorität und kollektiver Intelligenz. So
-      können wir uns jeden Tag weiterentwickeln und  wachsen. Wir sind ein Team,
-      dass sich für gemeinsame Ziele einsetzt und zusammen Erfolge feiert.
+      Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
+      und kollektiver Intelligenz. So können wir uns jeden Tag weiterentwickeln
+      und  wachsen. Wir sind ein Team, dass sich für gemeinsame Ziele einsetzt
+      und zusammen Erfolge feiert.
 
 
       [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
