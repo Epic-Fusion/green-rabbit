@@ -76,18 +76,6 @@ sections:
 
       [Machen wir Sie fit für die digitale
       Zukunft](https://www.epicfusion.com/kontakt/)
-
-
-      #### Wie wir uns organisieren
-
-
-      Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
-      Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
-      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektiver
-      Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
-      wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
-      gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
-      [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
   - title: Unsere Werte und Prinzipien
