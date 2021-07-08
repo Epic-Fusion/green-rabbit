@@ -128,10 +128,12 @@ sections:
       - title: Menschlichkeit
         image_alt: lorem-ipsum
         content: >
-          Wir verpflichten uns einer evolutionären Organisation mit verteilter
-          Autorität und kollektiver Intelligenz. Wir glauben an die Kraft des
-          Experimentierens und sehen Hindernisse auf unserem Weg als Chance, um
-          daran zu wachsen und uns vorwärts zu bringen.
+          Wir wissen, dass uns Meinungsverschiedenheiten und der Austausch von
+          Ideen, auch wenn kontrovers, neue Erkenntnisse ermöglichen. Wir leben
+          die Philosophie "Strong opinions, weakly held". Wir geben uns
+          jederzeit empathisches Feedback um zu lernen, zu wachsen und unseren
+          Charakter zu stärken. Wir übernehmen immer Verantwortung für unser
+          Handeln.
         actions: []
         type: grid_item
     type: section_grid
