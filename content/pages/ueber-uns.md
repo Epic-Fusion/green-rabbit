@@ -114,7 +114,7 @@ sections:
 
       - dolor sit amet
     type: section_content
-  - title: lorem-ipsum
+  - title: Unsere Werte und Prinzipien
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
