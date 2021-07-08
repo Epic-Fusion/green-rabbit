@@ -115,7 +115,7 @@ sections:
           all».
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Tägliches Lernen
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
