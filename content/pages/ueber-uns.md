@@ -96,7 +96,7 @@ sections:
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
-  - title: lorem-ipsum
+  - title: Wozu wir uns verpflichten
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
