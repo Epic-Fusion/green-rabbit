@@ -197,6 +197,12 @@ seo:
         Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Wer steckt hinter Epic Fusion? Gleichstellung • Leidenschaft • Tägliches
+        Lernen • Empathie ✓ Wieso Sie mit Epic Fusion durchstarten sollten.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
