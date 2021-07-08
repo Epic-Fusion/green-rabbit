@@ -127,11 +127,11 @@ sections:
     image_alt: lorem-ipsum
     content: >
       Entsprechend der Digital First-Devise organisieren wir uns nach neuen
-      Ideen und Strukturen. Epic Fusion kennt daher keine Hierarchie, keine
-      Chefs und keine fixen Büroarbeitsplätze. Wir verpflichten uns verteilter
-      Autorität und kollektiver Intelligenz, um uns jeden einzelnen Tag weiter
-      zu entwickeln und zu wachsen. Wir sind ein Team, dass sich für gemeinsame
-      Ziele einsetzt und zusammen Erfolge feiert!
+      Ideen und Strukturen. Epic Fusion kennt keine Hierarchie, keine Chefs und
+      keine fixen Büroarbeitsplätze. Wir verpflichten uns geteilter Autorität
+      und kollektiver Intelligenz. So können wir uns jeden Tag weiterentwickeln
+      und  wachsen. Wir sind ein Team, dass sich für gemeinsame Ziele einsetzt
+      und zusammen Erfolge feiert.
 
 
       [Wie das funktioniert?](https://www.epicfusion.com/kontakt/)
