@@ -71,7 +71,7 @@ sections:
 
       Lesen Sie hier in Kürze mehr über unser Team..
     type: section_content
-  - title: lorem-ipsum
+  - title: Über Epic Fusion
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
