@@ -73,17 +73,10 @@ sections:
     type: section_content
   - title: Über Epic Fusion
     section_id: Über Epic Fusion - hero
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Wer steckt hinter Epic Fusion?
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *
     actions: []
     type: section_hero
   - section_id: lorem-ipsum
