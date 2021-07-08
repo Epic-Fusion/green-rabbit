@@ -107,17 +107,11 @@ sections:
         type: grid_item
       - title: Leidenschaft
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Leidenschaft ist unser täglicher Antrieb. Wir fokussieren uns auf die
+          Arbeit, für die unser Herz schlägt – Arbeit, die das Potenzial von
+          Menschen freisetzt. So erzielen wir die gewünschte Wirkung für uns und
+          unsere Kunden. Wir leben das Motto «Do it with passion or not at all».
         actions: []
         type: grid_item
     type: section_grid
