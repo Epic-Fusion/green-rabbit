@@ -90,10 +90,10 @@ sections:
       - title: Gleichstellung
         image_alt: lorem-ipsum
         content: >
-          Gleichstellung und Diversität bilden einen festen Grundwert unserer
-          Organisation. Wir bilden und fördern ein vielfältiges Team mit
-          Menschen von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in
-          unseren Interaktionen fördern wir gezielt die Integration.
+          Gleichstellung und Diversität bilden den festen Grundwert von Epic
+          Fusion. Wir bilden und fördern ein vielfältiges Team mit Menschen von
+          allen Pfaden des Lebens. Durch Mitgefühl und Respekt in unseren
+          Interaktionen fördern wir gezielt die Integration.
         actions: []
         type: grid_item
       - title: Gemeinschaft
