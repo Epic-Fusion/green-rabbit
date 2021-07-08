@@ -148,6 +148,9 @@ sections:
         type: action
     type: section_hero
     title: Haben wir Ihr Interesse geweckt?
+    content: >
+      Sie identifizieren Sich mit unseren Werten, Prinzipien und Arbeitsformen?
+      Dann nicht's wie los:
 seo:
   title: Über uns - Epic Fusion
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
