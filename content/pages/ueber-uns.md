@@ -126,7 +126,7 @@ sections:
     subtitle: Digital First bei Epic Fusion
     image_alt: lorem-ipsum
     content: >
-      Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
+      Digital First heisst auch, uns nach neuen Ideen zu organisieren. Epic
       Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
       Büroarbeitsplätze. Wir verpflichten uns verteilter Autorität und
       kollektiver Intelligenz, um uns jeden einzelnen Tag weiter zu entwickeln
