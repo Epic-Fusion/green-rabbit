@@ -69,7 +69,7 @@ sections:
 
       Für die Entfesselung von solchem Potenzial schafft Epic Fusion Lösungen
       rund um den digitalen Arbeitsplatz der Zukunft. Von der Technologie über
-      die Arbeitsweisen bis zur Teamstrukturierung. Wir teilen unsere
+      die Arbeitsweisen bis hin zur Teamstrukturierung. Wir teilen unsere
       Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
       zielgerichtet durch die digitale Transformation.
 
