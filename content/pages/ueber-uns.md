@@ -2,16 +2,6 @@
 title: Über Epic Fusion
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
-    actions:
-      - label: Mit Epic Fusion durchstarten
-        url: /kontakt
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_hero
   - title: Über Epic Fusion
     section_id: Über Epic Fusion - hero
     content: |
