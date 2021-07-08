@@ -14,7 +14,7 @@ sections:
 
 
       > *«Wir leben selbst vor, was wir anbieten. Epic Fusion fordert bewusst
-      die Zukunft heraus und schafft neue Lösungen.»*
+      die Zukunft heraus und etabliert neue Lösungen.»*
 
 
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
