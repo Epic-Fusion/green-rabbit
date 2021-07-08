@@ -181,7 +181,7 @@ sections:
       Sie identifizieren Sich mit unseren Werten, Prinzipien und Arbeitsalltag?
       Möchten Sie selbst bei Epic Fusion mitwirken? Dann nichts wie los.
 seo:
-  title: Über uns - Epic Fusion
+  title: 'Team, Werte und Prinzipien | Epic Fusion'
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
   robots: []
   extra:
