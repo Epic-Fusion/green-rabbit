@@ -160,18 +160,23 @@ sections:
       Mitarbeitenden gestalten ihre Arbeits- und Ferienzeit selbst.
 
 
-      Folgende Leitmotive führen uns im Arbeitsalltag zu nachhaltigen Erfolgen:
+      Folgende fünf Leitmotive führen uns im Arbeitsalltag zu nachhaltigen
+      Erfolgen:
 
 
-      *   We over Me
+      1.  «We over Me»
 
-      *   Purpose over Profits
 
-      *   Progress over Perfection
+      2.  «Purpose over Profits»
 
-      *   Learn-It over Know-It
 
-      *   Experiment over Certainity
+      3.  «Progress over Perfection»
+
+
+      4.  «Learn-It over Know-It»
+
+
+      5.  «Experiment over Certainity»
 
 
       Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
