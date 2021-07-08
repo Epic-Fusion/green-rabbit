@@ -130,7 +130,7 @@ sections:
     type: section_content
   - section_id: Kontakt-Button
     actions:
-      - label: Kontakt aufnehmen
+      - label: Epic Fusion kontaktieren
         url: 'https://www.epicfusion.com/kontakt/'
         style: button
         icon: dribbble
