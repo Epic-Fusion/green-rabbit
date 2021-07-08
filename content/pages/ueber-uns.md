@@ -92,7 +92,7 @@ sections:
         content: >
           Gleichstellung und Diversität sind die festen Grundwerte von Epic
           Fusion. Wir bilden und fördern ein vielfältiges Team von Menschen auf
-          allen Pfaden des Lebens. Unsere Interaktionen sind geprägt von
+          allen Wegen des Lebens. Unsere Interaktionen sind geprägt von
           Mitgefühl und Respekt für einander.
         actions: []
         type: grid_item
