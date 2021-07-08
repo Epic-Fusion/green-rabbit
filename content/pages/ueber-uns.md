@@ -4,10 +4,23 @@ hide_title: true
 sections:
   - title: Über Epic Fusion
     section_id: Über Epic Fusion - hero
-    content: |
+    content: >
       ## Wer steckt hinter Epic Fusion?
 
-      *
+
+      Andreas Schmerek und Sanche Baskaran, die beiden Gründer von Epic Fusion,
+      sind überzeugt: *«Das geht doch besser mit diesen digitalen Projekten!»* 
+
+
+      Mit Epic Fusion unterstützen sie Unternehmen bei der digitalen
+      Transformation. *«Wir leben selbst vor, was wir anbieten. Wir fordern
+      bewusst die Zukunft heraus und schaffen neue Ansätze.»*
+
+
+      Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
+      Modern Work Transformation, Cloud Strategie und Architektur, User Adoption
+      und Training, Change Management, Agile Coaching sowie Collaboration und
+      Communication.
     actions:
       - label: Mit Epic Fusion durchstarten
         url: '#'
