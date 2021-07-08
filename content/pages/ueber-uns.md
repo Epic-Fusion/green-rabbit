@@ -90,13 +90,10 @@ sections:
       - title: Gleichstellung
         image_alt: lorem-ipsum
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Gleichstellung und Diversität bilden einen festen Grundwert unserer
+          Organisation. Wir bilden und fördern ein vielfältiges Team mit
+          Menschen von allen Pfaden des Lebens. Durch Mitgefühl und Respekt in
+          unseren Interaktionen fördern wir gezielt die Integration.
         actions: []
         type: grid_item
       - title: lorem-ipsum
