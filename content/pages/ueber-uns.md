@@ -143,7 +143,7 @@ sections:
           Freiheit, unsere Werte und Prinzipien aktiv praktizieren zu dürfen.
           Unsere Mitarbeitenden arbeiten an sinnstiftenden Projekten. Den Epic
           Fusion Mindset tragen wir über die Arbeit hinaus zu unseren Kunden und
-          Freunden. Und geben so der Gemeinschaft bestenfalls einen Positivschub
+          Freunden. Und geben so der Gemeinschaft eine Portion Positivität
           zurück.
         actions: []
         type: grid_item
