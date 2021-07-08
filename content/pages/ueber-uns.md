@@ -29,7 +29,7 @@ sections:
       Collaboration und Communication.
     actions:
       - label: Gemeinsam mit Epic Fusion durchstarten
-        url: 'https://www.epicfusion.com/kontakt/'
+        url: 'https://www.epicfusion.com/angebot/#beratungsanfrage'
         style: button
         icon: dribbble
         new_window: false
@@ -75,7 +75,7 @@ sections:
 
 
       [Machen wir auch Sie fit für die digitale
-      Zukunft](https://www.epicfusion.com/kontakt/)
+      Zukunft](https://www.epicfusion.com/angebot/#beratungsanfrage)
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
   - title: Unsere Werte und Prinzipien
