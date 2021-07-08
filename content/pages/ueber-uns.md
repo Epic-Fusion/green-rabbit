@@ -141,10 +141,9 @@ sections:
         content: >
           Was für ein episches Privileg! Wir sind dankbar für das Glück und die
           Freiheit, unsere Werte und Prinzipien aktiv praktizieren zu dürfen.
-          Wir arbeiten täglich daran, mehr Menschen diese Möglichkeiten zu
-          bieten: Unsere Mitarbeitenden arbeiten an sinnstiftenden Projekten.
-          Den Epic Fusion Mindset tragen wir über die Arbeit hinaus zu unseren
-          Kunden und Freunden und geben so der Gemeinschaft bestenfalls etwas
+          Unsere Mitarbeitenden arbeiten an sinnstiftenden Projekten. Den Epic
+          Fusion Mindset tragen wir über die Arbeit hinaus zu unseren Kunden und
+          Freunden. Und geben so der Gemeinschaft bestenfalls einen Positivschub
           zurück.
         actions: []
         type: grid_item
