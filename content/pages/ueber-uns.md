@@ -75,15 +75,6 @@ sections:
       Zukunft](https://www.epicfusion.com/kontakt/)
 
 
-      #### Wozu wir uns verpflichten
-
-
-      Wir sind leidenschaftliche Menschen, die als Team für gemeinsame
-      [Werte](https://www.epicfusion.com/werte) einstehen. Wir wissen, dass wir
-      damit einen nachhaltigen Effekt für unsere Kunden, unsere Partner und die
-      Gesellschaft erreichen können.
-
-
       #### Wie wir uns organisieren
 
 
