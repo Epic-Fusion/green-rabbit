@@ -178,7 +178,7 @@ sections:
     type: section_hero
     title: Haben wir Ihr Interesse geweckt?
     content: >
-      Sie identifizieren Sich mit unseren Werten, Prinzipien und Arbeitsformen?
+      Sie identifizieren Sich mit unseren Werten, Prinzipien und Arbeitsalltag?
       Möchten selbst bei Epic Fusion mitwirken? Dann nicht's wie los.
 seo:
   title: Über uns - Epic Fusion
