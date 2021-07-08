@@ -160,6 +160,24 @@ sections:
       Mitarbeitenden gestalten ihre Arbeits- und Ferienzeit selbst.
 
 
+      In unserem Arbeitsalltag begleiten uns folgende Leitmotive:
+
+
+      *   We over Me
+
+
+      *   Purpose over Profits
+
+
+      *   Progress over Perfection
+
+
+      *   Learn-It over Know-It
+
+
+      *   Experiment over Certainity
+
+
       Wir verpflichten uns einer evolutionären Organisation geteilter Autorität
       und kollektiver Intelligenz. Wir glauben an die Kraft des Experimentierens
       und verstehen Hindernisse als Chance. So entwickeln wir uns kontinuierlich
