@@ -127,17 +127,11 @@ sections:
         type: grid_item
       - title: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Wir verpflichten uns einer evolutionären Organisation mit verteilter
+          Autorität und kollektiver Intelligenz. Wir glauben an die Kraft des
+          Experimentierens und sehen Hindernisse auf unserem Weg als Chance, um
+          daran zu wachsen und uns vorwärts zu bringen.
         actions: []
         type: grid_item
     type: section_grid
