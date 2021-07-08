@@ -116,7 +116,7 @@ sections:
         type: grid_item
     type: section_grid
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: Kontakt-Button
     content: >-
       ## Lorem ipsum
 
