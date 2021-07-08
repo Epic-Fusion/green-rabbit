@@ -105,7 +105,7 @@ sections:
           sinnhaftem Wandel im Wege steht.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Leidenschaft
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
