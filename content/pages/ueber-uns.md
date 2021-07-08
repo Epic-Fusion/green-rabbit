@@ -116,7 +116,9 @@ sections:
     type: section_content
   - title: Unsere Werte und Prinzipien
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Epic Fusion besteht aus passionierten Menschen. Als Team machen wir uns
+      für gemeinsame Werte stark.
     col_number: three
     is_numbered: false
     grid_items: []
