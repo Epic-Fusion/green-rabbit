@@ -26,15 +26,6 @@
                 "type": "action"
             },
             {
-                "label": "Werte",
-                "url": "/werte",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link",
