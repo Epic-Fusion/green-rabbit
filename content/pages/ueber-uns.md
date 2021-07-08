@@ -101,7 +101,7 @@ sections:
         content: >
           Als Kollektiv von engagierten, ganzheitlich denkenden Menschen mit
           kunden- und lösungsorientiertem Fokus sind uns keine Grenzen gesetzt.
-          Wir lassen nicht zu, dass uns das Ego einem sinnhaftem Wandel im Weg
+          Wir lassen nicht zu, dass das Ego einem sinnhaften Wandel im Weg
           steht.
         actions: []
         type: grid_item
