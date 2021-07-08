@@ -178,7 +178,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    title: Haben wir Ihr Interesse geweckt?
+    title: Interesse geweckt?
     content: >
       Sie identifizieren Sich mit unseren Werten, Prinzipien und Arbeitsalltag?
       Möchten Sie selbst bei Epic Fusion mitwirken? Dann nichts wie los.
