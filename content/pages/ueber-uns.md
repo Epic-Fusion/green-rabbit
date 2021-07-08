@@ -128,11 +128,12 @@ sections:
       - title: Menschlichkeit
         image_alt: lorem-ipsum
         content: >
-          Meinungsverschiedenheiten und der Austausch neuer Ideen, wenn auch
-          kontrovers, ermöglichen uns neue Erkenntnisse. Epic Fusion lebt die
-          Philosophie «Strong opinions, weakly held». Dank empathischem Feedback
-          lernen wir dazu, wachsen und stärken unsere Charakteren. Wir stehen
-          für unser Handeln ein und übernehmen Verantwortung.
+          Aus Meinungsverschiedenheiten und dem Austausch neuer, auch
+          kontroverser Ideen schöpfen wir Erfahrungen und Erkenntnisse. Epic
+          Fusion lebt die Philosophie «Strong opinions, weakly held». Mit
+          empathischem Feedback lernen wir dazu, wachsen und stärken unsere
+          Charakteren. Wir stehen für unser Handeln ein und übernehmen
+          Verantwortung.
         actions: []
         type: grid_item
       - title: Dankbarkeit
