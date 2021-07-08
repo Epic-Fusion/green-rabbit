@@ -129,17 +129,6 @@ sections:
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
     type: section_content
   - section_id: Kontakt-Button
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions:
       - label: Kontakt aufnehmen
         url: 'https://www.epicfusion.com/kontakt/'
