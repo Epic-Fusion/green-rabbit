@@ -1,6 +1,6 @@
 ---
 title: Über Epic Fusion
-hide_title: false
+hide_title: true
 sections:
   - section_id: lorem-ipsum
     actions:
