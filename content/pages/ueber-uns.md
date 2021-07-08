@@ -97,7 +97,7 @@ sections:
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
   - title: Unsere Werte und Prinzipien
-    section_id: lorem-ipsum
+    section_id: Unsere Werte + Prinzipien
     subtitle: >-
       Epic Fusion besteht aus passionierten Menschen. Als Team machen wir uns
       für gemeinsame Werte stark.
