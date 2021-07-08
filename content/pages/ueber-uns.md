@@ -59,12 +59,12 @@ sections:
 
       Für Epic Fusion ist es daher essenziell, das menschliche Potenzial in
       seiner Einzigartigkeit zu nutzen. Soziale Fähigkeiten wie Empathie,
-      Kreativität oder Innovation können nicht durch künstliche Intelligenz
-      ersetzt werden. Jedoch sollten wir die Organisation von Teams und
-      Arbeitsweisen hinterfragen. Was motiviert die Mitarbeitenden? Wie stärken
-      wir Vertrauen? Was passiert, wenn sich Teams selbst regulieren, statt
-      fremdgesteuert zu werden? Mit den richtigen Antworten lässt sich
-      ungeahntes Potenzial aktiveren.
+      Kreativität und Innovationskraft sind nicht mit künstlicher Intelligenz
+      ersetzbar. Jedoch sollten wir die Organisation von Teams und Arbeitsweisen
+      hinterfragen. Was motiviert die Mitarbeitenden? Wie stärken wir Vertrauen?
+      Was passiert, wenn sich Teams selbst regulieren, statt fremdgesteuert zu
+      werden? Mit den richtigen Antworten lässt sich ungeahntes Potenzial
+      aktiveren.
 
 
       Für die Entfesselung von solchem Potenzial schafft Epic Fusion Lösungen
