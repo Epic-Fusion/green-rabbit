@@ -128,8 +128,7 @@ sections:
       gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
     type: section_content
-  - title: lorem-ipsum
-    section_id: Kontakt-Button
+  - section_id: Kontakt-Button
     content: >-
       ## Lorem ipsum
 
