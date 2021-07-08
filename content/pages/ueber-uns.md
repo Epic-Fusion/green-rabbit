@@ -81,7 +81,7 @@ sections:
   - title: Unsere Werte und Prinzipien
     section_id: Unsere Werte + Prinzipien - Grid Section
     subtitle: >-
-      Epic Fusion besteht aus passionierten Menschen. Als Team machen wir uns
+      Hinter Epic Fusion stehen passionierte Menschen. Als Team machen wir uns
       für gemeinsame Werte stark. So erzielen wir einen nachhaltigen Mehrwert
       für unsere Kunden, Partner und die Gesellschaft.
     col_number: three
