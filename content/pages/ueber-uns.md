@@ -90,14 +90,6 @@ sections:
       [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
     type: section_content
     subtitle: Bei Epic Fusion trifft Digital First auf Menschlichkeit.
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 6
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: section_portfolio
   - title: Unsere Werte und Prinzipien
     section_id: Unsere Werte + Prinzipien - Grid Section
     subtitle: >-
