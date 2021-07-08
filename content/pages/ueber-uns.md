@@ -99,10 +99,10 @@ sections:
       - title: Gemeinschaft
         image_alt: lorem-ipsum
         content: >
-          Wir wissen, dass uns als Kollektiv von engagierten, ganzheitlich
-          denkenden Menschen mit gezieltem kundenorientierten Fokus keine
-          Grenzen gesetzt sind. Wir lassen nicht zu, dass uns das Ego einem
-          sinnhaftem Wandel im Wege steht.
+          Als Kollektiv von engagierten, ganzheitlich denkenden Menschen mit
+          kunden- und lösungsorientiertem Fokus sind uns keine Grenzen gesetzt.
+          Wir lassen nicht zu, dass uns das Ego einem sinnhaftem Wandel im Weg
+          steht.
         actions: []
         type: grid_item
       - title: Leidenschaft
