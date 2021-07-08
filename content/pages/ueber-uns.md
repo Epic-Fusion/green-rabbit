@@ -160,7 +160,7 @@ sections:
       Mitarbeitenden gestalten ihre Arbeits- und Ferienzeit selbst.
 
 
-      In unserem Arbeitsalltag begleiten uns folgende Leitmotive:
+      Folgende Leitmotive führen uns durch den Arbeitsalltag:
 
 
       *   We over Me
