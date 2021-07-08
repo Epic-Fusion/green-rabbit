@@ -13,8 +13,8 @@ sections:
       Epic Fusion unterstützen sie Unternehmen bei der digitalen Transformation.
 
 
-      > *«Wir leben selbst vor, was wir anbieten. Epic Fusion fordert bewusst
-      die Zukunft heraus und etabliert neue Lösungen.»*
+      > *«Wir leben unser Angebot selbst vor. Epic Fusion fordert bewusst die
+      Zukunft heraus und etabliert neue Lösungen.»*
 
 
       ##
