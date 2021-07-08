@@ -30,7 +30,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Unsere Story
+  - title: Die Epic Fusion Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
