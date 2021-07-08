@@ -115,6 +115,19 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
+  - title: Wie wir uns organisieren
+    section_id: lorem-ipsum
+    subtitle: Epic Fusion
+    image_alt: lorem-ipsum
+    content: >
+      Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
+      Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
+      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektiver
+      Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
+      wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
+      gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
+      [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
+    type: section_content
   - title: lorem-ipsum
     section_id: Kontakt-Button
     content: >-
@@ -137,19 +150,6 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Wie wir uns organisieren
-    section_id: lorem-ipsum
-    subtitle: Epic Fusion
-    image_alt: lorem-ipsum
-    content: >
-      Digital First heisst, uns auch nach neuen Ideen zu organisieren. Epic
-      Fusion kennt daher keine Hierarchie, keine Chefs und keine fixen
-      Büroarbeitsplätze. Wir haben uns verteilter Autorität und kollektiver
-      Intelligenz verpflichtet, um uns jeden einzelnen Tag zu entwickeln und zu
-      wachsen. Wir sind ein Team, dass gemeinsam für unsere Ziele kämpft und
-      gemeinsam unsere Erfolge feiert! Wie das alles funktionieren kann?
-      [Fragen](https://www.epicfusion.com/kontakt) Sie uns!
-    type: section_content
 seo:
   title: Über uns - Epic Fusion
   description: 'Wir sind da, um Ihre Initiativen fit für die digitale Zukunft zu machen! '
