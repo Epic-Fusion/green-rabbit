@@ -71,9 +71,8 @@ sections:
       zielgerichtet durch die digitale Transformation.
 
 
-      [Starten Sie die digitale Reise](https://www.epicfusion.com/kontakt/)
-
-
+      [Machen wir Sie fit für die digitale
+      Zukunft](https://www.epicfusion.com/kontakt/)
 
 
       #### Wozu wir uns verpflichten
