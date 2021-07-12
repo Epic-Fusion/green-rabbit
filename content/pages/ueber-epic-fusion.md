@@ -24,9 +24,9 @@ sections:
 
 
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
-      Modern Work Transformation, Cloud-Strategie und -Architektur, User
-      Adoption und User Training, Change Management, Agile Coaching sowie
-      Collaboration und Communication.
+      Modern Work Transformation, Cloud-Strategie und -Architektur, Adoption und
+      Training, Change Management, Agile Coaching sowie Collaboration und
+      Communication.
     actions:
       - label: Gemeinsam mit Epic Fusion durchstarten
         url: 'https://www.epicfusion.com/angebot/#beratungsanfrage'
