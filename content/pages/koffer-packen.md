@@ -3,7 +3,7 @@ title: Koffer packen!
 hide_title: true
 sections:
   - title: Koffer packen!
-    section_id: Bist du bereit für ein neues Abenteue
+    section_id: Bereit für ein neues Abenteue
     content: >-
       ## Lorem ipsum
 
