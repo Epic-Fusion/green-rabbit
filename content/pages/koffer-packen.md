@@ -1,14 +1,27 @@
 ---
 title: Koffer packen!
-hide_title: false
+hide_title: true
 sections:
-  - title: Bist Du bereit für eine neues Abenteuer?
-    section_id: lorem-ipsum
+  - title: Koffer packen!
+    section_id: Koffeer packen!
     content: >
-      Wenn Du Dich mit unseren Werten identifizieren kannst und
-      aussergewöhnliche Fähigkeiten im Bereich der digitalen Transformation,
-      Digital Workplace, Change Management, Microsoft 365 oder Azure
-      Infrastruktur mitbringst, würden wir Dich gerne kennenlernen!
+      ## Bereit für ein neues Abenteuer?
+
+
+      Du identifizierst dich mit unseren Werten? Bringst aussergewöhnliche
+      Fähigkeiten im Bereich der digitalen Transformation, Digital Workplace,
+      Change Management, Microsoft 365 oder Azure Infrastruktur mit?
+
+
+      Hi, wir sind das Epic Fusion Powerteam – und freuen uns darauf, dich
+      persönlich kennenzulernen!
+    actions: []
+    type: section_hero
+  - section_id: Bewerbungsformular
+    content: >
+      Auf klassische Bewerbungsprozesse verzichten wir. Uns interessiert, wer
+      und was in dir steckt. Hau uns um – am besten gleich beim ersten
+      Austausch.
     form_id: Bewerbung
     form_action: /thankyou
     form_fields:
@@ -25,38 +38,40 @@ sections:
         is_required: true
         type: form_field
       - input_type: tel
-        name: Tel.
+        name: Telefonnummer
         label: Tel.
         options: []
         is_required: true
         type: form_field
       - input_type: text
-        name: LinkedInProfil
-        label: LinkedIn Profil oder CV
-        default_value: >-
-          Link zu deinem LinkedIn Profil oder anderweitig zur Verfügung
-          gestellter Online-CV
+        name: LinkedIn Profil
+        label: LinkedIn Profil oder Online-CV
+        default_value: Link zu deinem LinkedIn Profil oder Online-CV
         options: []
         is_required: true
         type: form_field
       - input_type: textarea
         name: Warum Epic Fusion?
         label: Warum Epic Fusion?
-        default_value: 'Was inspiriert Dich, ein Teil von Epic Fusion zu werden?'
+        default_value: >-
+          Wieso willst du ein Teil von Epic Fusion werden? Was willst du bei uns
+          bewirken?
         options: []
         is_required: true
         type: form_field
       - input_type: textarea
         name: Erfahrung
-        label: Was bringst du in einem Koffer mit?
+        label: Was bringst du im Koffer mit?
         default_value: >-
-          Welche Fähigkeiten und Erfahrungen zeichnen Dich aus? Welche
+          Welche Fähigkeiten und Erfahrungen zeichnen dich aus? Welche
           Ausbildungen hast du absolviert?
         options: []
         is_required: true
         type: form_field
     type: section_form
-    submit_label: Check-In
+    submit_label: Check-in
+    title: Deine Bewerbung
+    subtitle: Persönlichkeit vor!
 seo:
   title: ''
   description: ''

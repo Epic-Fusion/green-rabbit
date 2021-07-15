@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Epic Fusion: Mindset is everything'
 hide_title: true
 sections:
   - section_id: hero
