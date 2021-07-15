@@ -19,10 +19,9 @@ sections:
     type: section_hero
   - section_id: Bewerbungsformular
     content: >
-      Wenn Du Dich mit unseren Werten identifizieren kannst und
-      aussergewöhnliche Fähigkeiten im Bereich der digitalen Transformation,
-      Digital Workplace, Change Management, Microsoft 365 oder Azure
-      Infrastruktur mitbringst, würden wir Dich gerne kennenlernen!
+      Auf klassische Bewerbungsprozesse verzichten wir. Uns interessiert, wer
+      und was in dir steckt. Hau uns um – am besten gleich beim ersten
+      Austausch.
     form_id: Bewerbung
     form_action: /thankyou
     form_fields:
