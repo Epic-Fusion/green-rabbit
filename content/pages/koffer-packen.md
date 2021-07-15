@@ -61,7 +61,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Erfahrung
-        label: Was bringst du in einem Koffer mit?
+        label: Was bringst du im Koffer mit?
         default_value: >-
           Welche Fähigkeiten und Erfahrungen zeichnen Dich aus? Welche
           Ausbildungen hast du absolviert?
