@@ -1,6 +1,6 @@
 ---
 title: Koffer packen!
-hide_title: false
+hide_title: true
 sections:
   - title: Bist Du bereit für eine neues Abenteuer?
     section_id: lorem-ipsum
