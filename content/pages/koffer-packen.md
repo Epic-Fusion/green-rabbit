@@ -4,17 +4,17 @@ hide_title: true
 sections:
   - title: Koffer packen!
     section_id: Koffeer packen!
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Bereit für ein neues Abenteuer?
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: section_hero
   - title: Bist Du bereit für eine neues Abenteuer?
