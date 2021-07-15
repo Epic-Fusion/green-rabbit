@@ -72,6 +72,7 @@ sections:
     type: section_form
     submit_label: Check-In
     title: Unser Kennenlernen
+    subtitle: Persönlichkeit vor!
 seo:
   title: ''
   description: ''
