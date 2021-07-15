@@ -8,13 +8,13 @@ sections:
       ## Bereit für ein neues Abenteuer?
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Du identifizierst dich mit unseren Werten? Bringst aussergewöhnliche
+      Fähigkeiten im Bereich der digitalen Transformation, Digital Workplace,
+      Change Management, Microsoft 365 oder Azure Infrastruktur mit?
 
 
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      Höchste Zeit, uns kennen zu lernen! Hi, wir sind das Epic Fusion Powerteam
+      – und freuen uns darauf, dich kennenzulernen!
     actions: []
     type: section_hero
   - title: Bist Du bereit für eine neues Abenteuer?
