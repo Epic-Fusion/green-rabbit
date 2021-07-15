@@ -76,7 +76,7 @@ sections:
         is_required: false
         type: form_field
     type: section_form
-    submit_label: Check-In
+    submit_label: Check-in
     title: Deine Bewerbung
     subtitle: Persönlichkeit vor!
 seo:
