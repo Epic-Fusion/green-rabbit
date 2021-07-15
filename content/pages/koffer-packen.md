@@ -18,10 +18,11 @@ sections:
     actions: []
     type: section_hero
   - section_id: Bewerbungsformular
-    content: >
+    content: >+
       Auf klassische Bewerbungsprozesse verzichten wir. Uns interessiert, wer
       und was in dir steckt. Hau uns um – am besten gleich beim ersten
       Austausch.
+
     form_id: Bewerbung
     form_action: /thankyou
     form_fields:
