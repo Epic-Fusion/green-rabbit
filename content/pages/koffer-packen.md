@@ -70,7 +70,7 @@ sections:
         type: form_field
     type: section_form
     submit_label: Check-In
-    title: Unser Kennenlernen
+    title: Deine Bewerbung
     subtitle: Persönlichkeit vor!
 seo:
   title: ''
