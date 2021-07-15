@@ -57,7 +57,7 @@ sections:
         type: form_field
     type: section_form
     submit_label: Check-In
-  - title: Koffer packen
+  - title: Koffer packen!
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
