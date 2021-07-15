@@ -17,8 +17,7 @@ sections:
       persönlich kennenzulernen!
     actions: []
     type: section_hero
-  - title: Bist Du bereit für eine neues Abenteuer?
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >
       Wenn Du Dich mit unseren Werten identifizieren kannst und
       aussergewöhnliche Fähigkeiten im Bereich der digitalen Transformation,
