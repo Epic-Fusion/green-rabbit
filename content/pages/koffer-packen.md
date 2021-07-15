@@ -63,7 +63,7 @@ sections:
         name: Erfahrung
         label: Was bringst du im Koffer mit?
         default_value: >-
-          Welche Fähigkeiten und Erfahrungen zeichnen Dich aus? Welche
+          Welche Fähigkeiten und Erfahrungen zeichnen dich aus? Welche
           Ausbildungen hast du absolviert?
         options: []
         is_required: true
