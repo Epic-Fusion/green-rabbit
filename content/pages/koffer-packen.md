@@ -38,7 +38,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: tel
-        name: Tel.
+        name: Telefonnummer
         label: Tel.
         options: []
         is_required: true
