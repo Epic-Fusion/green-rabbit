@@ -13,8 +13,8 @@ sections:
       Change Management, Microsoft 365 oder Azure Infrastruktur mit?
 
 
-      Höchste Zeit, uns kennen zu lernen! Hi, wir sind das Epic Fusion Powerteam
-      – und freuen uns darauf, dich kennenzulernen!
+      Hi, wir sind das Epic Fusion Powerteam – und freuen uns darauf, dich
+      persönlich kennenzulernen!
     actions: []
     type: section_hero
   - title: Bist Du bereit für eine neues Abenteuer?
