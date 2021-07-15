@@ -53,7 +53,9 @@ sections:
       - input_type: textarea
         name: Warum Epic Fusion?
         label: Warum Epic Fusion?
-        default_value: Wieso willst du ein Teil von Epic Fusion werden?
+        default_value: >-
+          Wieso willst du ein Teil von Epic Fusion werden? Was willst du bei uns
+          bewirken?
         options: []
         is_required: true
         type: form_field
