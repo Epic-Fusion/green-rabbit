@@ -17,7 +17,7 @@ sections:
       persönlich kennenzulernen!
     actions: []
     type: section_hero
-  - section_id: lorem-ipsum
+  - section_id: Bewerbungsformular
     content: >
       Wenn Du Dich mit unseren Werten identifizieren kannst und
       aussergewöhnliche Fähigkeiten im Bereich der digitalen Transformation,
