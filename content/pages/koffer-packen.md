@@ -46,9 +46,7 @@ sections:
       - input_type: text
         name: LinkedIn Profil
         label: LinkedIn Profil oder Online-CV
-        default_value: >-
-          Link zu deinem LinkedIn Profil oder anderweitig zur Verfügung
-          gestellter Online-CV
+        default_value: Link zu deinem LinkedIn Profil oder Online-CV
         options: []
         is_required: true
         type: form_field
