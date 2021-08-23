@@ -50,6 +50,7 @@ sections:
           IT Training, User Adoption & Change
         actions: []
         type: grid_item
+        image: /images/portrait-lara-min.jpg
     type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
