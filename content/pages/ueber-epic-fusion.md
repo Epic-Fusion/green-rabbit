@@ -77,6 +77,9 @@ sections:
       zielgerichtet durch die digitale Transformation.
 
 
+      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
+
+
       [Machen wir auch Sie fit für die digitale
       Zukunft](https://www.epicfusion.com/angebot/#beratungsanfrage)
     type: section_content
