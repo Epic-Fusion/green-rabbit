@@ -41,7 +41,6 @@ sections:
     type: section_hero
   - title: Unser Team
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: two
     is_numbered: false
     grid_items: []
