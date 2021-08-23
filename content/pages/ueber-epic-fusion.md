@@ -51,6 +51,21 @@ sections:
         actions: []
         type: grid_item
         image: /images/portrait-lara-min.jpg
+      - title: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
