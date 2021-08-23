@@ -53,17 +53,8 @@ sections:
         image: /images/portrait-lara-min.jpg
       - title: Simon Hofmann
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Workplace Engineer
         actions: []
         type: grid_item
         image: /images/portrait-simon-min.jpg
