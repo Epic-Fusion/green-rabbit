@@ -39,7 +39,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
+  - title: Unser Team
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
