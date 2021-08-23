@@ -51,7 +51,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/portrait-lara-min.jpg
-      - title: lorem-ipsum
+      - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
