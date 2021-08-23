@@ -30,9 +30,6 @@ sections:
       Modern Work Transformation, Cloud-Strategie und -Architektur, Adoption und
       Training, Change Management, Agile Coaching sowie Collaboration und
       Communication.
-
-
-      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
     actions:
       - label: Gemeinsam mit Epic Fusion durchstarten
         url: 'https://www.epicfusion.com/angebot/#beratungsanfrage'
@@ -78,6 +75,9 @@ sections:
       die Arbeitsweisen bis hin zur Teamstrukturierung. Wir teilen unsere
       Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
       zielgerichtet durch die digitale Transformation.
+
+
+      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
 
 
       [Machen wir auch Sie fit für die digitale
