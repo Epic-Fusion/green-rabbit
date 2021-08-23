@@ -74,7 +74,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/portrait-andreas-min.jpg
-      - title: lorem-ipsum
+      - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
