@@ -39,6 +39,13 @@ sections:
         no_follow: false
         type: action
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
