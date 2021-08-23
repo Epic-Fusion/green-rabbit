@@ -44,13 +44,6 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Lara Riederer
-        image_alt: lorem-ipsum
-        content: |
-          IT Training, User Adoption & Change
-        actions: []
-        type: grid_item
-        image: /images/portrait-lara-min.jpg
       - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: |
@@ -58,6 +51,13 @@ sections:
         actions: []
         type: grid_item
         image: /images/portrait-simon-min.jpg
+      - title: Lara Riederer
+        image_alt: lorem-ipsum
+        content: |
+          IT Training, User Adoption & Change
+        actions: []
+        type: grid_item
+        image: /images/portrait-lara-min.jpg
     type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
