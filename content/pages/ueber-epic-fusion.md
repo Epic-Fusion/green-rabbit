@@ -47,7 +47,7 @@ sections:
       - title: Lara Riederer
         image_alt: lorem-ipsum
         content: |
-          Weiss was eine Kräuterspirale mit IT-Trainings zu tun hat. Neugierig?
+          Baut Brücken vom Mensch zur App und den Wegweisen gleich mit dazu. 
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
             url: >-
