@@ -50,7 +50,7 @@ sections:
           Cloud Workplace Engineer
         actions: []
         type: grid_item
-        image: /images/portrait-simon-min.jpg
+        image: /images/simonNeu-min.jpg
       - title: Lara Riederer
         image_alt: lorem-ipsum
         content: |
