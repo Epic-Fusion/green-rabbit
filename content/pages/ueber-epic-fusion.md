@@ -114,7 +114,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: Simon Hofmann auf LLinkedIn hinzufügen
             url: '#'
             style: link
             icon: dribbble
