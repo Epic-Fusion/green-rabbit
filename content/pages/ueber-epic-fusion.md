@@ -59,7 +59,7 @@ sections:
             type: action
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: icon
             icon: linkedin
             new_window: false
             no_follow: false
