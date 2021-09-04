@@ -89,7 +89,7 @@
             },
             {
                 "label": "Termin buchen",
-                "url": "#",
+                "url": "https://outlook.office365.com/owa/calendar/EpicFusion1@epicfusion.com/bookings/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
