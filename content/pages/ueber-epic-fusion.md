@@ -8,12 +8,12 @@ sections:
       ## Wer steckt hinter Epic Fusion?
 
 
-      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-001-min.jpg)
+      ![](/images/group-neu-min.jpg)
 
 
-      Andreas Schmerek und Sanche Baskaran, die beiden Gründer von Epic Fusion,
-      sind überzeugt: Das geht doch besser mit diesen digitalen Projekten! Mit
-      Epic Fusion unterstützen sie Unternehmen bei der digitalen Transformation.
+      Das Team von Epic Fusion ist überzeugt: Das geht doch besser mit diesen
+      digitalen Projekten! Mit Epic Fusion unterstützen sie Unternehmen bei der
+      digitalen Transformation.
 
 
       > *«Wir leben unsere Angebote und Prinzipien selbst vor. Epic Fusion
@@ -39,6 +39,97 @@ sections:
         no_follow: false
         type: action
     type: section_hero
+  - title: Unser Team
+    section_id: lorem-ipsum
+    col_number: two
+    is_numbered: false
+    grid_items:
+      - title: Lara Riederer
+        image_alt: lorem-ipsum
+        content: >
+          Baut Brücken vom Mensch zur App und den Wegweiser gleich dazu. Für
+          Studierende, Ihre Mitarbeitenden oder fürs Management.
+
+
+          **User Adoption, Change und IT-Trainings**
+        actions:
+          - label: Jetzt Termin mit Lara Riederer buchen
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitLaraRiederervereinbaren@epicfusion.com/bookings/
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+          - label: lorem-ipsum
+            url: '#'
+            style: icon
+            icon: linkedin
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+        image: /images/LaraNeu3-min.png
+      - title: Simon Hofmann
+        image_alt: lorem-ipsum
+        content: >
+          Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
+          genau so schnell wie Lichtjahre entfernte Sterne.
+
+
+          **Cloud Workplace Engineer**
+        actions:
+          - label: Jetzt Termin mit Simon Hofmann buchen
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitSimonHofmannvereinbaren@epicfusion.com/bookings/
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+        image: /images/simonNeu-min.jpg
+      - title: Sanche Baskaran
+        image_alt: lorem-ipsum
+        content: >
+          Entwirft Cloud Architekturen und baut das Fundament gleich selbst.
+          Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
+          die ganze Roadmap.
+
+
+          **Transformation Architekt, Partner**
+        actions:
+          - label: Jetzt Termin mit Sanche Baskaran buchen
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitSancheBaskaranvereinbaren@epicfusion.com/bookings/
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+        image: /images/SancheNeu-min.png
+      - title: Andreas Schmerek
+        image_alt: lorem-ipsum
+        content: >
+          Startet für Modern Work Transformation und Agilität im Garten. Was
+          möchten Sie anpflanzen? Liebt es, komplexe Themen einfach und greifbar
+          zu machen.
+
+
+          **Modern Work Transformation, Partner**
+        actions:
+          - label: Jetzt Termin mit Andreas Schmerek buchen
+            url: >-
+              https://outlook.office365.com/owa/calendar/EpicFusionTerminmitAndreasSchmerek@epicfusion.com/bookings/
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+        image: /images/AndreasNeu-min.png
+    type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
