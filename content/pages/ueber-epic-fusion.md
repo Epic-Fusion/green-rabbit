@@ -93,8 +93,9 @@ sections:
         image: /images/SancheNeu-min.png
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
-        content: |
-          Beginnt mit Agilität im Garten. 
+        content: >
+          Startet mit Transformation und Agilität im Garten. Was möchten Sie
+          anpflanzen? Liebt es, die Dinge einfach und greifbar zu machen. 
         actions: []
         type: grid_item
         image: /images/AndreasNeu-min.png
