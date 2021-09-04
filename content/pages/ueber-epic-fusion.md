@@ -46,8 +46,9 @@ sections:
     grid_items:
       - title: Lara Riederer
         image_alt: lorem-ipsum
-        content: |
-          Baut Brücken vom Mensch zur App und den Wegweiser gleich dazu. 
+        content: >
+          Baut Brücken vom Mensch zur App und den Wegweiser gleich dazu. Für
+          Studierende, Ihre Mitarbeitende oder fürs Management.
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
             url: >-
