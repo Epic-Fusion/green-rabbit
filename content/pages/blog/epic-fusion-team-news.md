@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Epic FusionTeam
 subtitle: lorem-ipsum
 date: '2021-08-01'
 thumb_image_alt: lorem-ipsum
