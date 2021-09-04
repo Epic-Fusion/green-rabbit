@@ -50,7 +50,8 @@ sections:
           Employee Experience und IT-Trainings
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
-            url: '#'
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitLaraRiederervereinbaren@epicfusion.com/bookings/okings/
             style: button
             icon: dribbble
             new_window: false
