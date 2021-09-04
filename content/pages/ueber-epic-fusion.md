@@ -115,7 +115,7 @@ sections:
             no_follow: false
             type: action
           - label: Sanche Baskaran auf LinkedIn hinzufügen
-            url: '#'
+            url: 'https://www.linkedin.com/in/sanche-baskaran-71b1ba51/'
             style: icon
             icon: linkedin
             new_window: false
