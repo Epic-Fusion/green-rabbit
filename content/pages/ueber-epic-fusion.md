@@ -143,7 +143,7 @@ sections:
             type: action
           - label: Andreas Schmerek auf LinkedIn hinzufügen
             url: 'https://www.linkedin.com/in/andreas-schmerek-71b2a8163/'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
