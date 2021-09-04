@@ -57,7 +57,7 @@ sections:
           Employee Experience und IT-Trainings
         actions: []
         type: grid_item
-        image: /images/portrait-lara-min.jpg
+        image: /images/LaraNeu3-min.png
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: |
