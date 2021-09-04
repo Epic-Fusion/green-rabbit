@@ -47,7 +47,7 @@ sections:
       - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: |
-          Workplace Engineer
+          Cloud Workplace Engineer
         actions: []
         type: grid_item
         image: /images/portrait-simon-min.jpg
