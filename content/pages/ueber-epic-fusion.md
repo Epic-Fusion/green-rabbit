@@ -64,7 +64,7 @@ sections:
       - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: |
-          Cloud Workplace Engineer
+          Schaut entweder 
         actions: []
         type: grid_item
         image: /images/simonNeu-min.jpg
