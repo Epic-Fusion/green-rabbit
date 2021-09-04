@@ -61,7 +61,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Simon Hofmann auf LLinkedIn hinzufügen
+          - label: Lara Riederer auf LLinkedIn hinzufügen
             url: 'https://www.linkedin.com/in/lara-riederer-66b75ba9/'
             style: icon
             icon: linkedin
