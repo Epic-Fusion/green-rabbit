@@ -44,13 +44,6 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Simon Hofmann
-        image_alt: lorem-ipsum
-        content: |
-          Cloud Workplace Engineer
-        actions: []
-        type: grid_item
-        image: /images/simonNeu-min.jpg
       - title: Lara Riederer
         image_alt: lorem-ipsum
         content: |
@@ -58,6 +51,13 @@ sections:
         actions: []
         type: grid_item
         image: /images/LaraNeu3-min.png
+      - title: Simon Hofmann
+        image_alt: lorem-ipsum
+        content: |
+          Cloud Workplace Engineer
+        actions: []
+        type: grid_item
+        image: /images/simonNeu-min.jpg
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: |
