@@ -49,7 +49,7 @@ sections:
         content: |
           Employee Experience und IT-Trainings
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt ein Termin vereinabren
             url: '#'
             style: link
             icon: dribbble
