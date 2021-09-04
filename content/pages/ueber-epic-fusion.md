@@ -63,8 +63,9 @@ sections:
         image: /images/LaraNeu3-min.png
       - title: Simon Hofmann
         image_alt: lorem-ipsum
-        content: |
-          Pendelt zwischen Cloud und Universum. 
+        content: >
+          Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
+          genau so schnell wie Lichtjahre entfernte Sterne.
         actions: []
         type: grid_item
         image: /images/simonNeu-min.jpg
