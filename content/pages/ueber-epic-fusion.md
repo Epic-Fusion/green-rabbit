@@ -58,13 +58,6 @@ sections:
         actions: []
         type: grid_item
         image: /images/simonNeu-min.jpg
-      - title: Andreas Schmerek
-        image_alt: lorem-ipsum
-        content: |
-          Modern Work Transformation, Partner
-        actions: []
-        type: grid_item
-        image: /images/AndreasNeu-min.png
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: |
@@ -72,6 +65,13 @@ sections:
         actions: []
         type: grid_item
         image: /images/SancheNeu-min.png
+      - title: Andreas Schmerek
+        image_alt: lorem-ipsum
+        content: |
+          Modern Work Transformation, Partner
+        actions: []
+        type: grid_item
+        image: /images/AndreasNeu-min.png
     type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
