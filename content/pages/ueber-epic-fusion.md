@@ -64,7 +64,7 @@ sections:
       - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: |
-          Schaut entweder 
+          Pendelt zwischen Cloud und Universum. 
         actions: []
         type: grid_item
         image: /images/simonNeu-min.jpg
