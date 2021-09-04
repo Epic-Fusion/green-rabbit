@@ -148,6 +148,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/AndreasNeu-min.png
     type: section_grid
