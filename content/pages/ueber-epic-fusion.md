@@ -51,7 +51,7 @@ sections:
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
             url: >-
-              https://outlook.office365.com/owa/calendar/TerminmitLaraRiederervereinbaren@epicfusion.com/bookings/okings/
+              https://outlook.office365.com/owa/calendar/TerminmitLaraRiederervereinbaren@epicfusion.com/bookings/
             style: button
             icon: dribbble
             new_window: false
