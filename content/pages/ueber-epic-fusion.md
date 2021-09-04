@@ -73,7 +73,8 @@ sections:
           genau so schnell wie Lichtjahre entfernte Sterne.
         actions:
           - label: Jetzt Termin mit Simon Hofmann reservieren
-            url: '#'
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitSimonHofmannvereinbaren@epicfusion.com/bookings/
             style: button
             icon: dribbble
             new_window: false
