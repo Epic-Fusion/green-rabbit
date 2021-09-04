@@ -62,7 +62,7 @@ sections:
             no_follow: false
             type: action
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://www.linkedin.com/in/lara-riederer-66b75ba9/'
             style: icon
             icon: linkedin
             new_window: false
