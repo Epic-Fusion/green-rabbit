@@ -19,7 +19,7 @@ Epic Fusion ist ein Digital First-Team. Wir verbinden New Work-Ideen mit hochwer
 
 Mit dem Zuwachs durch Lara Riederer und Simon Hofmann kann Epic Fusion die akut gefragten Bereiche Modern Client Engineering und Employee Experience nachhaltig stärken und ausbauen.
 
-Frau Lara Riederer bringt jahrelange Expertise und Erfahrung aus dem Bereich von IT-Ausbildungen mit, welche sie zuletzt an Studierende und Lehrkräfte vermittelt hat. Ihren Karriereweg verläuft über die kaufmännische Ausbildung mit Betriebswirtschafterin HF, direkte Geschäftsleitungs-Assistenz in die IT-Branche als Abacus Beraterin. Als Lehrperson HF gestaltet sie jedes IT-Training strukturiert und didaktisch fundiert.
+Frau Lara Riederer bringt jahrelange Expertise und Erfahrung aus dem Bereich von IT-Ausbildungen mit, welche sie zuletzt an Studierende und Lehrkräfte vermittelt hat. Ihr Karriereweg verläuft über die kaufmännische Ausbildung mit Betriebswirtschafterin HF, direkte Geschäftsleitungs-Assistenz in die IT-Branche als Abacus Beraterin. Als Lehrperson HF gestaltet sie jedes IT-Training strukturiert und didaktisch fundiert.
 
 Herr Simon Hofmann ist leidenschaftlicher Workplace Engineer. Als ausgebildeter Informatiker bringt er breite Erfahrung aus Networking & Engineering mit. Durch seine Weiterbildung zum Informatiker HF konnte er diese Expertise ausbauen und bestätigen. Simon Hofmann deckt die ganze Breite des Client-, Netzwerk- und Cloud-Infrastruktur-Stack ab um jede IT-Landschaft Modern Coud Managed Ready zu machen.
 
