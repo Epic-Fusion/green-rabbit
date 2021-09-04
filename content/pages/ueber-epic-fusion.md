@@ -64,7 +64,7 @@ sections:
           Modern Work Transformation, Partner
         actions: []
         type: grid_item
-        image: /images/portrait-andreas-min.jpg
+        image: /images/AndreasNeu-min.png
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: |
