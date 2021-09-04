@@ -60,17 +60,8 @@ sections:
         image: /images/portrait-lara-min.jpg
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Modern Work Transformation, Partner
         actions: []
         type: grid_item
         image: /images/portrait-andreas-min.jpg
