@@ -76,17 +76,8 @@ sections:
         image: /images/portrait-andreas-min.jpg
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Transformation Architekt, Partner
         actions: []
         type: grid_item
         image: /images/portrait-sanche-min.jpg
