@@ -3,7 +3,7 @@ title: Kontakt
 hide_title: false
 sections:
   - section_id: Kontaktformular
-    content: >
+    content: >+
       #### Adresse
 
 
@@ -16,8 +16,10 @@ sections:
       #### Wie können wir Ihnen weiterhelfen?
 
 
-      Rufen Sie uns an, schreiben Sie uns, oder chatten Sie mit uns im Messenger
+      Rufen Sie uns an, schreiben Sie uns, oder [buchen Sie direkt hier einen
+      Termin](https://outlook.office365.com/owa/calendar/EpicFusion1@epicfusion.com/bookings/)
       - wir sind für Sie da!
+
     form_id: contact
     form_action: /thankyou
     form_fields:

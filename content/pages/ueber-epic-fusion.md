@@ -61,8 +61,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
-            url: '#'
+          - label: Lara Riederer auf LinkedIn hinzufügen
+            url: 'https://www.linkedin.com/in/lara-riederer-66b75ba9/'
             style: icon
             icon: linkedin
             new_window: false
@@ -87,6 +87,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: Simon Hofmann auf LinkedIn hinzufügen
+            url: 'https://www.linkedin.com/in/simon-hofmann-619159a0/'
+            style: icon
+            icon: linkedin
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/simonNeu-min.jpg
       - title: Sanche Baskaran
@@ -107,6 +114,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: Sanche Baskaran auf LinkedIn hinzufügen
+            url: 'https://www.linkedin.com/in/sanche-baskaran-71b1ba51/'
+            style: icon
+            icon: linkedin
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/SancheNeu-min.png
       - title: Andreas Schmerek
@@ -124,6 +138,13 @@ sections:
               https://outlook.office365.com/owa/calendar/EpicFusionTerminmitAndreasSchmerek@epicfusion.com/bookings/
             style: button
             icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Andreas Schmerek auf LinkedIn hinzufügen
+            url: 'https://www.linkedin.com/in/andreas-schmerek-71b2a8163/'
+            style: icon
+            icon: linkedin
             new_window: false
             no_follow: false
             type: action
