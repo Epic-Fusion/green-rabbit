@@ -48,7 +48,14 @@ sections:
         image_alt: lorem-ipsum
         content: |
           Employee Experience und IT-Trainings
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/LaraNeu3-min.png
       - title: Simon Hofmann
