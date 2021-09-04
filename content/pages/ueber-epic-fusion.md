@@ -49,7 +49,7 @@ sections:
         content: |
           Employee Experience und IT-Trainings
         actions:
-          - label: Jetzt ein Termin mit Lara Riederer buchen
+          - label: Jetzt Termin mit Lara Riederer buchen
             url: '#'
             style: button
             icon: dribbble
