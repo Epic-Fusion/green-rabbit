@@ -46,8 +46,10 @@ sections:
     grid_items:
       - title: Lara Riederer
         image_alt: lorem-ipsum
-        content: |
-          Baut Brücken vom Mensch zur App und den Wegweisen gleich mit dazu. 
+        content: >
+          Baut Brücken vom Mensch zur App und den Wegweiser gleich mit dazu.
+          Weiss, was Kräuterspiralen mit Employee Experience zu tun haben.
+          Neugierig?
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
             url: >-
