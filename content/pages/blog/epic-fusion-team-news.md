@@ -1,5 +1,5 @@
 ---
-title: Epic Fusion Team
+title: Unser Epic Fusion Team
 date: '2021-08-01'
 image_alt: Epic Fusion Team
 excerpt: 'Erfahren Sie, wer die Menschen sind welche hinter Epic Fusion stecken.'
