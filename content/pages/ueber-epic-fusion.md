@@ -89,7 +89,14 @@ sections:
           Entwirft Cloud Architekturen und baut das Fundament gleich selbst.
           Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
           die ganze Roadmap.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/SancheNeu-min.png
       - title: Andreas Schmerek
