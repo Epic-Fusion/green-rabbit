@@ -71,7 +71,7 @@ sections:
           Transformation Architekt, Partner
         actions: []
         type: grid_item
-        image: /images/portrait-sanche-min.jpg
+        image: /images/SancheNeu-min.png
     type: section_grid
   - title: Unsere Story
     section_id: lorem-ipsum
