@@ -90,7 +90,7 @@ sections:
           Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
           die ganze Roadmap.
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt Termin mit Sanche Baskaran buchen
             url: '#'
             style: link
             icon: dribbble
