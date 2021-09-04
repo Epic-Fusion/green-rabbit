@@ -114,7 +114,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Sanche Baskaran auf LLinkedIn hinzufügen
+          - label: Sanche Baskaran auf LinkedIn hinzufügen
             url: '#'
             style: link
             icon: dribbble
