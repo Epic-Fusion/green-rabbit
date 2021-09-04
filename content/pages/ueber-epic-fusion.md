@@ -95,6 +95,9 @@ sections:
           Entwirft Cloud Architekturen und baut das Fundament gleich selbst.
           Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
           die ganze Roadmap.
+
+
+          **Transformation Architekt, Partner**
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
             url: >-
