@@ -105,7 +105,14 @@ sections:
           Startet für Modern Work Transformation und Agilität im Garten. Was
           möchten Sie anpflanzen? Liebt es, die Dinge einfach und greifbar zu
           machen.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/AndreasNeu-min.png
     type: section_grid
