@@ -50,7 +50,7 @@ sections:
           Baut Brücken vom Mensch zur App und den Wegweiser gleich dazu. Für
           Studierende, Ihre Mitarbeitenden oder fürs Management.
         actions:
-          - label: Jetzt Termin mit Lara Riederer reservieren
+          - label: Jetzt Termin mit Lara Riederer buchen
             url: >-
               https://outlook.office365.com/owa/calendar/TerminmitLaraRiederervereinbaren@epicfusion.com/bookings/
             style: button
