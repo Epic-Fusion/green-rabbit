@@ -107,7 +107,8 @@ sections:
           machen.
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
-            url: '#'
+            url: >-
+              https://outlook.office365.com/owa/calendar/EpicFusionTerminmitAndreasSchmerek@epicfusion.com/bookings/
             style: link
             icon: dribbble
             new_window: false
