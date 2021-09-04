@@ -47,7 +47,7 @@ sections:
       - title: Lara Riederer
         image_alt: lorem-ipsum
         content: |
-          Employee Experience und IT-Trainings
+          Weiss was eine Kräuterspirale mit IT-Trainings zu tun hat. Neugierig?
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
             url: >-
