@@ -75,6 +75,9 @@ sections:
         content: >
           Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
           genau so schnell wie Lichtjahre entfernte Sterne.
+
+
+          **Cloud Workplace Engineer**
         actions:
           - label: Jetzt Termin mit Simon Hofmann buchen
             url: >-
