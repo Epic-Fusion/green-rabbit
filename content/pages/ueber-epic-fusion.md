@@ -73,7 +73,7 @@ sections:
           Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
           genau so schnell wie Lichtjahre entfernte Sterne.
         actions:
-          - label: Jetzt Termin mit Simon Hofmann reservieren
+          - label: Jetzt Termin mit Simon Hofmann buchen
             url: >-
               https://outlook.office365.com/owa/calendar/TerminmitSimonHofmannvereinbaren@epicfusion.com/bookings/
             style: button
