@@ -88,7 +88,7 @@ sections:
             no_follow: false
             type: action
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://www.linkedin.com/in/simon-hofmann-619159a0/'
             style: icon
             icon: linkedin
             new_window: false
