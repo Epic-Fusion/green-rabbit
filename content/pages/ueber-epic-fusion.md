@@ -54,7 +54,7 @@ sections:
       - title: Lara Riederer
         image_alt: lorem-ipsum
         content: |
-          IT Training, User Adoption & Change
+          Employee Experience und IT-Trainings
         actions: []
         type: grid_item
         image: /images/portrait-lara-min.jpg
