@@ -72,7 +72,7 @@ sections:
           Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
           genau so schnell wie Lichtjahre entfernte Sterne.
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt Termin mit Simon Hofmann reservieren
             url: '#'
             style: link
             icon: dribbble
