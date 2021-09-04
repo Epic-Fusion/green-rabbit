@@ -2,7 +2,7 @@
 title: Epic Fusion Team
 date: '2021-08-01'
 image_alt: Epic Fusion Team
-excerpt: lorem-ipsum
+excerpt: 'Lernen '
 seo:
   title: ''
   description: ''
