@@ -91,7 +91,8 @@ sections:
           die ganze Roadmap.
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
-            url: '#'
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitSancheBaskaranvereinbaren@epicfusion.com/bookings/
             style: button
             icon: dribbble
             new_window: false
