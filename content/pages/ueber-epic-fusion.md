@@ -8,12 +8,12 @@ sections:
       ## Wer steckt hinter Epic Fusion?
 
 
-      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-001-min.jpg)
+      ![](/images/group-neu-min.jpg)
 
 
-      Andreas Schmerek und Sanche Baskaran, die beiden Gründer von Epic Fusion,
-      sind überzeugt: Das geht doch besser mit diesen digitalen Projekten! Mit
-      Epic Fusion unterstützen sie Unternehmen bei der digitalen Transformation.
+      Das Team von Epic Fusion ist überzeugt: Das geht doch besser mit diesen
+      digitalen Projekten! Mit Epic Fusion unterstützen sie Unternehmen bei der
+      digitalen Transformation.
 
 
       > *«Wir leben unsere Angebote und Prinzipien selbst vor. Epic Fusion
