@@ -4,7 +4,7 @@ date: '2021-08-01'
 image_alt: Epic Fusion Team
 excerpt: >-
   Unser Team von Epic Fusion hat Verstärkung erhalten! Erfahren Sie, wer die
-  Menschen sind welche hinter Epic Fusion stecken.
+  Menschen sind welche hinter Epic Fusion stecken und wofür ihr Herz schlägt.
 seo:
   title: ''
   description: ''
