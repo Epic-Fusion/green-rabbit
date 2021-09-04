@@ -79,7 +79,7 @@ sections:
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: |
-          Modern Work Transformation, Partner
+          Beginnt mit Agilität im Garten. 
         actions: []
         type: grid_item
         image: /images/AndreasNeu-min.png
