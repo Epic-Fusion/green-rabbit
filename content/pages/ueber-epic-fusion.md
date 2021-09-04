@@ -141,7 +141,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Simon Hofmann auf LinkedIn hinzufügen
+          - label: Andreas Schmerek auf LinkedIn hinzufügen
             url: '#'
             style: link
             icon: dribbble
