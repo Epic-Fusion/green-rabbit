@@ -69,8 +69,10 @@ sections:
         image: /images/simonNeu-min.jpg
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
-        content: |
-          Transformation Architekt, Partner
+        content: >
+          Entwirft Cloud Architekturen und baut das Fundament gleich selbst.
+          Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
+          die ganze Roadmap.
         actions: []
         type: grid_item
         image: /images/SancheNeu-min.png
