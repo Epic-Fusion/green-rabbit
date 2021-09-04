@@ -109,7 +109,7 @@ sections:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
               https://outlook.office365.com/owa/calendar/EpicFusionTerminmitAndreasSchmerek@epicfusion.com/bookings/
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
