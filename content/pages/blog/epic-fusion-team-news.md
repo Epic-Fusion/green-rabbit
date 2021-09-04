@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: /images/curious-elm.jpg
+thumb_image: /images/group-neu-min-600.jpg
 ---
 ## Lorem ipsum
 
