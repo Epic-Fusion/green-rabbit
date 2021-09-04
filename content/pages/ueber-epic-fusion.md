@@ -49,7 +49,7 @@ sections:
         content: |
           Employee Experience und IT-Trainings
         actions:
-          - label: Jetzt ein Termin vereinabren
+          - label: Jetzt ein Termin buchen
             url: '#'
             style: link
             icon: dribbble
