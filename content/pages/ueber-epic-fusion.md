@@ -104,8 +104,8 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Startet für Modern Work Transformation und Agilität im Garten. Was
-          möchten Sie anpflanzen? Liebt es, die Dinge einfach und greifbar zu
-          machen.
+          möchten Sie anpflanzen? Liebt es, komplexe Themen einfach und greifbar
+          zu machen.
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
