@@ -106,7 +106,7 @@ sections:
           möchten Sie anpflanzen? Liebt es, die Dinge einfach und greifbar zu
           machen.
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt Termin mit Andreas Schmerek buchen
             url: '#'
             style: link
             icon: dribbble
