@@ -48,7 +48,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Baut Brücken vom Mensch zur App und den Wegweiser gleich dazu. Für
-          Studierende, Ihre Mitarbeitende oder fürs Management.
+          Studierende, Ihre Mitarbeitenden oder fürs Management.
         actions:
           - label: Jetzt Termin mit Lara Riederer reservieren
             url: >-
