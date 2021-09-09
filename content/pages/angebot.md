@@ -8,7 +8,7 @@ sections:
       ## Ist Ihr Unternehmen für die digitale Zukunft richtig aufgestellt?
 
 
-      Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud Strategie?
+      Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud-Strategie?
       Haben Sie mit agilen Projekt- und Arbeitsformen die Effizienz in Ihren
       Teams gesteigert? Beherrschen Ihre Mitarbeitenden den Funktionsumfang
       Ihrer IT-Programme? Sie sind sich bei der Beantwortung dieser Fragen
@@ -21,7 +21,7 @@ sections:
       Epic Fusion schafft Sicherheit. Und steigert die Effizienz. Wir führen Sie
       mit unserer integralen Arbeitsweise und massgeschneiderten Angeboten
       zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
-      und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
+      und Zielsetzungen entwickeln wir eine clevere Cloud-Strategie, etablieren
       agile Projekt- und Arbeitsformen, befähigen Ihre Mitarbeitenden und
       modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
       digitale Zukunft. Entfesseln wir mit der richtigen Digital
