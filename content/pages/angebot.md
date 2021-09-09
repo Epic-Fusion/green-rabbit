@@ -73,7 +73,7 @@ sections:
           *   Zielgerichtete Führung durch die digitale Transformation Ihres
           Unternehmens
         actions:
-          - label: Wie clever ist Ihre Cloud Strategie?
+          - label: Wie clever ist Ihre Cloud-Strategie?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
