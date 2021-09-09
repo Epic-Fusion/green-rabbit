@@ -99,7 +99,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-    title: Clevere Cloud Strategien
+    title: Clevere Cloud-Strategien
     subtitle: >-
       Epic Fusion verbindet Ihre Anforderungen und Rahmenbedingungen mit dem
       vollen Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir
