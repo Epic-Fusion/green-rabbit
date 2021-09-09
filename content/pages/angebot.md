@@ -66,7 +66,7 @@ sections:
           *   Visionsworkshops mit integralen Konzepte und ganzheitlicher
           Beratung
 
-          *   Begleitung beim Veränderungsmanagement und Change Prozessen
+          *   Begleitung beim Veränderungsmanagement und Change-Prozessen
 
           *   Technical Change Advisory zur M365-Plattform
 
