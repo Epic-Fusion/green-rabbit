@@ -8,7 +8,7 @@ sections:
       ## Ist Ihr Unternehmen für die digitale Zukunft richtig aufgestellt?
 
 
-      Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud Strategie?
+      Nutzen Sie in Ihrem Unternehmen das volle Potential einer Cloud-Strategie?
       Haben Sie mit agilen Projekt- und Arbeitsformen die Effizienz in Ihren
       Teams gesteigert? Beherrschen Ihre Mitarbeitenden den Funktionsumfang
       Ihrer IT-Programme? Sie sind sich bei der Beantwortung dieser Fragen
@@ -21,7 +21,7 @@ sections:
       Epic Fusion schafft Sicherheit. Und steigert die Effizienz. Wir führen Sie
       mit unserer integralen Arbeitsweise und massgeschneiderten Angeboten
       zielgerichtet durch die digitale Transformation. Anhand Ihrer Ausgangslage
-      und Zielsetzungen entwickeln wir eine clevere Cloud Strategie, etablieren
+      und Zielsetzungen entwickeln wir eine clevere Cloud-Strategie, etablieren
       agile Projekt- und Arbeitsformen, befähigen Ihre Mitarbeitenden und
       modernisieren Ihre App- und Prozesslandschaft. Machen wir Sie fit für die
       digitale Zukunft. Entfesseln wir mit der richtigen Digital
@@ -73,7 +73,7 @@ sections:
           *   Zielgerichtete Führung durch die digitale Transformation Ihres
           Unternehmens
         actions:
-          - label: Wie clever ist Ihre Cloud Strategie?
+          - label: Wie clever ist Ihre Cloud-Strategie?
             url: '#beratungsanfrage'
             style: link
             icon: dribbble
@@ -99,7 +99,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-    title: Clevere Cloud Strategien
+    title: Clevere Cloud-Strategien
     subtitle: >-
       Epic Fusion verbindet Ihre Anforderungen und Rahmenbedingungen mit dem
       vollen Microsoft 365 Cloud-Potenzial der Zukunft. Gemeinsam erarbeiten wir
