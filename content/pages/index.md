@@ -79,8 +79,8 @@ sections:
       - title: Clevere Cloud-Strategien
         image_alt: lorem-ipsum
         content: >
-          Gemeinsam erarbeiten wir eine intelligente, phasenweise
-          Cloud-Enablement Strategie. Damit reduzieren wir die Komplexität bei
+          Gemeinsam erarbeiten wir eine intelligente, phasenweise Cloud
+          Enablement-Strategie. Damit reduzieren wir die Komplexität bei
           gleichen Ressourcen. Epic Fusion verbindet Ihre Anforderungen und
           Rahmenbedingungen mit dem vollen Cloud-Potenzial der Zukunft.
         actions:
