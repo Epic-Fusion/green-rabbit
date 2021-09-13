@@ -27,7 +27,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Unser Team
+  - title: Das Epic Fusion Powerteam
     section_id: lorem-ipsum
     col_number: two
     is_numbered: false
