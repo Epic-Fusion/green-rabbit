@@ -5,10 +5,10 @@ sections:
   - title: Über Epic Fusion
     section_id: Über Epic Fusion - hero
     content: >
-      ## Wer steckt hinter Epic Fusion?
-
-
       ![](/images/group-neu-min.jpg)
+
+
+      ## Wer steckt hinter Epic Fusion?
 
 
       Das Team von Epic Fusion ist überzeugt: Das geht doch besser mit diesen
@@ -18,18 +18,6 @@ sections:
 
       > *«Wir leben unsere Angebote und Prinzipien selbst vor. Epic Fusion
       fordert die Zukunft bewusst heraus und etabliert neue Lösungen.»*
-
-
-      ##
-
-
-      ## Epic Fusion Teampower
-
-
-      Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
-      Modern Work Transformation, Cloud-Strategie und -Architektur, Adoption und
-      Training, Change Management, Agile Coaching sowie Collaboration und
-      Communication.
     actions:
       - label: Gemeinsam mit Epic Fusion durchstarten
         url: 'https://www.epicfusion.com/angebot/#beratungsanfrage'
@@ -39,19 +27,19 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Unser Team
-    section_id: lorem-ipsum
+  - title: Epic Fusion Teampower
+    section_id: Epic Fusion Teampower
     col_number: two
     is_numbered: false
     grid_items:
       - title: Lara Riederer
         image_alt: lorem-ipsum
         content: >
-          Baut Brücken vom Mensch zur App und den Wegweiser gleich dazu. Für
-          Studierende, Ihre Mitarbeitenden oder fürs Management.
+          Lara baut Brücken vom Mensch zur App – und den Wegweiser gleich dazu.
+          Für Studierende, Mitarbeitende und für das Management.
 
 
-          **User Adoption, Change und IT-Trainings**
+          **Spezialistin für User Adoption, Change und IT-Trainings**
         actions:
           - label: Jetzt Termin mit Lara Riederer buchen
             url: >-
@@ -73,8 +61,8 @@ sections:
       - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: >
-          Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
-          genau so schnell wie Lichtjahre entfernte Sterne.
+          Simon pendelt zwischen Cloud und Universum. Er identifiziert Ihre
+          Cloud Issues genau so schnell wie Lichtjahre entfernte Sterne.
 
 
           **Cloud Workplace Engineer**
@@ -99,9 +87,9 @@ sections:
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: >
-          Entwirft Cloud Architekturen und baut das Fundament gleich selbst.
-          Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
-          die ganze Roadmap.
+          Sanche entwirft Cloud Architekturen und baut das Fundament gleich
+          selbst. Er kennt nicht nur alle Cloud Serviceänderungen auswendig,
+          sondern auch die ganze Roadmap.
 
 
           **Transformation Architekt, Partner**
@@ -126,12 +114,12 @@ sections:
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: >
-          Startet für Modern Work Transformation und Agilität im Garten. Was
-          möchten Sie anpflanzen? Liebt es, komplexe Themen einfach und greifbar
-          zu machen.
+          Andreas startet für Modern Work Transformation und Agilität im Garten.
+          Was möchten Sie anpflanzen? Er liebt es, komplexe Themen einfach und
+          greifbar zu machen.
 
 
-          **Modern Work Transformation, Partner**
+          **Modern Work Transformation-Experte, Partner**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
@@ -151,11 +139,19 @@ sections:
         type: grid_item
         image: /images/AndreasNeu-min.png
     type: section_grid
+    subtitle: >-
+      Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
+      Modern Work Transformation, Cloud-Strategie und -Architektur, Adoption und
+      Training, Change Management, Agile Coaching sowie Collaboration und
+      Communication.
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       ##### &#xD;
+
+
+      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
 
 
       Epic Fusion ist ein Digital First-Team. Wir verbinden New Work-Ideen mit
@@ -187,9 +183,6 @@ sections:
       die Arbeitsweisen bis hin zur Teamstrukturierung. Wir teilen unsere
       Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
       zielgerichtet durch die digitale Transformation.
-
-
-      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
 
 
       [Machen wir auch Sie fit für die digitale
