@@ -61,11 +61,11 @@ sections:
       - title: Simon Hofmann
         image_alt: lorem-ipsum
         content: >
-          Pendelt zwischen Cloud und Universum. Identifiziert Ihre Cloud-Issues
-          genau so schnell wie Lichtjahre entfernte Sterne.
+          Simon pendelt zwischen Cloud und Universum. Er identifiziert Ihre
+          Cloud Issues genau so schnell wie Lichtjahre entfernte Sterne.
 
 
-          **Cloud Workplace Engineer**
+          **Experte in Cloud Workplace Engineer**
         actions:
           - label: Jetzt Termin mit Simon Hofmann buchen
             url: >-
