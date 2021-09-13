@@ -119,7 +119,7 @@ sections:
           greifbar zu machen.
 
 
-          **Modern Work Transformation, Partner**
+          **Modern Work Transformation-Experte, Partner**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
