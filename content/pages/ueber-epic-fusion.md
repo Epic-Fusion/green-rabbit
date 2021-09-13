@@ -28,7 +28,7 @@ sections:
         type: action
     type: section_hero
   - title: Epic Fusion Teampower
-    section_id: lorem-ipsum
+    section_id: Epic Fusion Teampower
     col_number: two
     is_numbered: false
     grid_items:
