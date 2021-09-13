@@ -36,7 +36,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Lara baut Brücken vom Mensch zur App – und den Wegweiser gleich dazu.
-          Für Studierende, Mitarbeitenden und für das Management.
+          Für Studierende, Mitarbeitende und für das Management.
 
 
           **Expertin in User Adoption, Change und IT-Trainings**
