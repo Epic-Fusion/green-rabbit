@@ -87,9 +87,9 @@ sections:
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: >
-          Entwirft Cloud Architekturen und baut das Fundament gleich selbst.
-          Kennt nicht nur alle Cloud Serviceänderungen auswendig, sondern auch
-          die ganze Roadmap.
+          Sanche entwirft Cloud Architekturen und baut das Fundament gleich
+          selbst. Er kennt nicht nur alle Cloud Serviceänderungen auswendig,
+          sondern auch die ganze Roadmap.
 
 
           **Transformation Architekt, Partner**
