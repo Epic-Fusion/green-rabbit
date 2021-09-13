@@ -39,7 +39,7 @@ sections:
           Für Studierende, Ihre Mitarbeitenden und für das Management.
 
 
-          **Ihre Spezialgebiete: User Adoption, Change und IT-Trainings**
+          **Expertin in User Adoption, Change und IT-Trainings**
         actions:
           - label: Jetzt Termin mit Lara Riederer buchen
             url: >-
