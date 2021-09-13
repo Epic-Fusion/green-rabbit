@@ -27,7 +27,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Das Epic Fusion Teampower
+  - title: Epic Fusion Teampower
     section_id: lorem-ipsum
     col_number: two
     is_numbered: false
