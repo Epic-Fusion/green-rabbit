@@ -18,15 +18,6 @@ sections:
       Das Team von Epic Fusion ist überzeugt: Das geht doch besser mit diesen
       digitalen Projekten! Mit Epic Fusion unterstützen sie Unternehmen bei der
       digitalen Transformation.
-
-
-      ## Epic Fusion Teampower
-
-
-      Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
-      Modern Work Transformation, Cloud-Strategie und -Architektur, Adoption und
-      Training, Change Management, Agile Coaching sowie Collaboration und
-      Communication.
     actions:
       - label: Gemeinsam mit Epic Fusion durchstarten
         url: 'https://www.epicfusion.com/angebot/#beratungsanfrage'
