@@ -5,7 +5,8 @@ sections:
   - title: Über Epic Fusion
     section_id: Über Epic Fusion - hero
     content: >
-      ##
+      > *«Wir leben unsere Angebote und Prinzipien selbst vor. Epic Fusion
+      fordert die Zukunft bewusst heraus und etabliert neue Lösungen.»*
 
 
       ![](/images/group-neu-min.jpg)
@@ -17,10 +18,6 @@ sections:
       Das Team von Epic Fusion ist überzeugt: Das geht doch besser mit diesen
       digitalen Projekten! Mit Epic Fusion unterstützen sie Unternehmen bei der
       digitalen Transformation.
-
-
-      > *«Wir leben unsere Angebote und Prinzipien selbst vor. Epic Fusion
-      fordert die Zukunft bewusst heraus und etabliert neue Lösungen.»*
 
 
       ## Epic Fusion Teampower
