@@ -151,6 +151,9 @@ sections:
       ##### &#xD;
 
 
+      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
+
+
       Epic Fusion ist ein Digital First-Team. Wir verbinden New Work-Ideen mit
       hochwertigen Lösungen. So ermöglichen wir eine echte, digitale
       Transformation. Unsere Devise: No Excuses – keine Kompromisse. Wir leben
@@ -180,9 +183,6 @@ sections:
       die Arbeitsweisen bis hin zur Teamstrukturierung. Wir teilen unsere
       Erfahrungen und Expertise mit Ihnen und führen Sie so sicher und
       zielgerichtet durch die digitale Transformation.
-
-
-      ![](/images/210802\_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-115-min.jpg)
 
 
       [Machen wir auch Sie fit für die digitale
