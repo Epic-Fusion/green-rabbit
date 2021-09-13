@@ -139,6 +139,11 @@ sections:
         type: grid_item
         image: /images/AndreasNeu-min.png
     type: section_grid
+    subtitle: >-
+      Das Epic Fusion Teampower Das wachsende Epic Fusion Team besteht aus
+      Spezialisten in den Bereichen Modern Work Transformation, Cloud-Strategie
+      und -Architektur, Adoption und Training, Change Management, Agile Coaching
+      sowie Collaboration und Communication.
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
