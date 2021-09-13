@@ -5,7 +5,12 @@ sections:
   - title: Über Epic Fusion
     section_id: Über Epic Fusion - hero
     content: >
-      ## ![](/images/group-neu-min.jpg)Wer steckt hinter Epic Fusion?
+      ## ![](/images/group-neu-min.jpg)
+
+
+
+
+      ## Wer steckt hinter Epic Fusion?
 
 
       Das Team von Epic Fusion ist überzeugt: Das geht doch besser mit diesen
