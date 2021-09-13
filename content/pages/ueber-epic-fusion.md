@@ -65,7 +65,7 @@ sections:
           Cloud Issues genau so schnell wie Lichtjahre entfernte Sterne.
 
 
-          **Experte in Cloud Workplace Engineering**
+          **Cloud Workplace Engineer**
         actions:
           - label: Jetzt Termin mit Simon Hofmann buchen
             url: >-
