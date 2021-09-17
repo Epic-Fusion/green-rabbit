@@ -42,15 +42,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "EN",
-                "url": "https://en.epicfusion.com",
-                "style": "link",
-                "icon": "linkedin",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "logo_img": "/images/Epic Fusion Logo PNG Minimiert.png",
