@@ -34,12 +34,10 @@ sections:
     grid_items:
       - title: Lara Riederer
         image_alt: lorem-ipsum
-        content: >
-          Lara baut Brücken vom Mensch zur App – und den Wegweiser gleich dazu.
-          Für Studierende, Mitarbeitende und für das Management.
+        content: |
+          «Ich baue Brücken – und verbinde so Ihr Team mit digitalen Lösungen.»
 
-
-          **Spezialistin für User Adoption, Change und IT-Trainings**
+          **Trainerin für User Adoption und Change**
         actions:
           - label: Jetzt Termin mit Lara Riederer buchen
             url: >-
