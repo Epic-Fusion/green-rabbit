@@ -109,12 +109,11 @@ sections:
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: >
-          Andreas startet für Modern Work Transformation und Agilität im Garten.
-          Was möchten Sie anpflanzen? Er liebt es, komplexe Themen einfach und
-          greifbar zu machen.
+          «Einfach weniger komplex – ich mache abstrakte Themen greifbar und
+          führe Menschen mit Technologien zusammen.»
 
 
-          **Modern Work Transformation-Experte, Partner**
+          **Modern Work Transformation-Experte**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
