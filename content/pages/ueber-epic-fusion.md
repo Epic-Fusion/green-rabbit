@@ -83,12 +83,11 @@ sections:
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: >
-          Sanche entwirft Cloud Architekturen und baut das Fundament gleich
-          selbst. Er kennt nicht nur alle Cloud Serviceänderungen auswendig,
-          sondern auch die ganze Roadmap.
+          «Der digitale Arbeitsplatz als Big Picture – bei mir stehen clevere
+          Cloud Architekturen im Fokus.»
 
 
-          **Transformation Architekt, Partner**
+          **Digital Transformation Architekt**
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
             url: >-
