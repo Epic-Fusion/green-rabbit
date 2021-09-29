@@ -34,12 +34,10 @@ sections:
     grid_items:
       - title: Lara Riederer
         image_alt: lorem-ipsum
-        content: >
-          Lara baut Brücken vom Mensch zur App – und den Wegweiser gleich dazu.
-          Für Studierende, Mitarbeitende und für das Management.
+        content: |
+          «Ich baue Brücken – und verbinde so Ihr Team mit digitalen Lösungen.»
 
-
-          **Spezialistin für User Adoption, Change und IT-Trainings**
+          **Trainerin für User Adoption und Change**
         actions:
           - label: Jetzt Termin mit Lara Riederer buchen
             url: >-
@@ -60,12 +58,10 @@ sections:
         image: /images/LaraNeu3-min.png
       - title: Simon Hofmann
         image_alt: lorem-ipsum
-        content: >
-          Simon pendelt zwischen Cloud und Universum. Er identifiziert Ihre
-          Cloud Issues genau so schnell wie Lichtjahre entfernte Sterne.
+        content: |
+          «Weitblick mit Perspektivenwechsel – das zeichnet meine Arbeit aus.»
 
-
-          **Cloud Workplace Engineer**
+          **Workplace Engineer**
         actions:
           - label: Jetzt Termin mit Simon Hofmann buchen
             url: >-
@@ -87,12 +83,11 @@ sections:
       - title: Sanche Baskaran
         image_alt: lorem-ipsum
         content: >
-          Sanche entwirft Cloud Architekturen und baut das Fundament gleich
-          selbst. Er kennt nicht nur alle Cloud Serviceänderungen auswendig,
-          sondern auch die ganze Roadmap.
+          «Der digitale Arbeitsplatz als Big Picture – bei mir stehen clevere
+          Cloud Architekturen im Fokus.»
 
 
-          **Transformation Architekt, Partner**
+          **Digital Transformation Architekt**
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
             url: >-
@@ -114,12 +109,11 @@ sections:
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: >
-          Andreas startet für Modern Work Transformation und Agilität im Garten.
-          Was möchten Sie anpflanzen? Er liebt es, komplexe Themen einfach und
-          greifbar zu machen.
+          «Einfach weniger komplex – ich mache abstrakte Themen greifbar und
+          führe Menschen mit Technologien zusammen.»
 
 
-          **Modern Work Transformation-Experte, Partner**
+          **Modern Work Transformation-Experte**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
