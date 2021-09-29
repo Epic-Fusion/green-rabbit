@@ -58,12 +58,10 @@ sections:
         image: /images/LaraNeu3-min.png
       - title: Simon Hofmann
         image_alt: lorem-ipsum
-        content: >
-          Simon pendelt zwischen Cloud und Universum. Er identifiziert Ihre
-          Cloud Issues genau so schnell wie Lichtjahre entfernte Sterne.
+        content: |
+          «Weitblick mit Perspektivenwechsel – das zeichnet meine Arbeit aus.»
 
-
-          **Cloud Workplace Engineer**
+          **Workplace Engineer**
         actions:
           - label: Jetzt Termin mit Simon Hofmann buchen
             url: >-
