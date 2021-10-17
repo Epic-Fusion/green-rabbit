@@ -141,7 +141,7 @@ sections:
 
           **New Work Coach**
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt Termin mit Tobias Stocker buchen
             url: '#'
             style: link
             icon: dribbble
