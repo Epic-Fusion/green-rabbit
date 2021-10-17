@@ -142,7 +142,8 @@ sections:
           **New Work Coach**
         actions:
           - label: Jetzt Termin mit Tobias Stocker buchen
-            url: Wir nehmen uns gerne Zeit für Sie.
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitTobiasStockervereinbaren@epicfusion.com/bookings/
             style: link
             icon: dribbble
             new_window: false
