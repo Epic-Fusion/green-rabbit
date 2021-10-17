@@ -146,6 +146,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/Tobias-Stocker.jpg
     type: section_grid
     subtitle: >-
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
