@@ -106,6 +106,29 @@ sections:
             type: action
         type: grid_item
         image: /images/SancheNeu-min.png
+      - title: Tobias Stocker
+        image_alt: lorem-ipsum
+        content: >
+          «Ich begleite Menschen und Organisationen in ihrer Entwicklung -
+          lösungsorientiert und emphatisch..»
+
+
+          **New Work Coach**
+        actions:
+          - label: Jetzt Termin mit Tobias Stocker buchen
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitTobiasStockervereinbaren@epicfusion.com/bookings/
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+          - label: LinkedIn Profil Tobias Stocker
+            url: 'https://www.linkedin.com/in/mhrgy913u8p8v5ni/'
+            style: icon
+            icon: linkedin
+            new_window: false
+            no_follow: false
+        image: /images/Tobias-Stocker.jpg
       - title: Andreas Schmerek
         image_alt: lorem-ipsum
         content: >
