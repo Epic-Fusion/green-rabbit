@@ -151,7 +151,7 @@ sections:
           - label: LinkedIn Profil Tobias Stocker
             url: '#'
             style: icon
-            icon: dribbble
+            icon: linkedin
             new_window: false
             no_follow: false
         image: /images/Tobias-Stocker.jpg
