@@ -149,7 +149,7 @@ sections:
             new_window: false
             no_follow: false
           - label: LinkedIn Profil Tobias Stocker
-            url: '#'
+            url: 'https://www.linkedin.com/in/mhrgy913u8p8v5ni/'
             style: icon
             icon: linkedin
             new_window: false
