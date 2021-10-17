@@ -148,6 +148,12 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
         image: /images/Tobias-Stocker.jpg
     type: section_grid
     subtitle: >-
