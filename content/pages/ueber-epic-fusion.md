@@ -132,7 +132,7 @@ sections:
             type: action
         type: grid_item
         image: /images/AndreasNeu-min.png
-      - title: lorem-ipsum
+      - title: Tobias Stocker
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
