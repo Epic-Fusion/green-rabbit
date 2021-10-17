@@ -144,7 +144,7 @@ sections:
           - label: Jetzt Termin mit Tobias Stocker buchen
             url: >-
               https://outlook.office365.com/owa/calendar/TerminmitTobiasStockervereinbaren@epicfusion.com/bookings/
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
