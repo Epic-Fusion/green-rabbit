@@ -134,17 +134,12 @@ sections:
         image: /images/AndreasNeu-min.png
       - title: Tobias Stocker
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          «Ich begleite Menschen und Organisationen in ihrer Entwicklung -
+          lösungsorientiert und emphatisch..»
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **New Work Coach**
         actions: []
         image: /images/Tobias-Stocker.jpg
     type: section_grid
