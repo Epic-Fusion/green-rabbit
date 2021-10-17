@@ -148,7 +148,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
+          - label: LinkedIn Profil Tobias Stocker
             url: '#'
             style: link
             icon: dribbble
