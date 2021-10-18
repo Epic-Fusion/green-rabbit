@@ -110,7 +110,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           «Ich begleite Menschen und Organisationen in ihrer Entwicklung -
-          lösungsorientiert und emphatisch..»
+          lösungsorientiert und emphatisch.»
 
 
           **New Work Coach**
