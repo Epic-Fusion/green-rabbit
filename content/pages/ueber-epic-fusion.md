@@ -110,7 +110,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           «Ich begleite Menschen und Organisationen in ihrer Entwicklung -
-          lösungsorientiert und emphatisch..»
+          lösungsorientiert und emphatisch.»
 
 
           **New Work Coach**
@@ -158,9 +158,8 @@ sections:
     type: section_grid
     subtitle: >-
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
-      Modern Work Transformation, Cloud-Strategie und -Architektur, Adoption und
-      Training, Change Management, Agile Coaching sowie Collaboration und
-      Communication.
+      Cloud Transformation, Modern Workplace, Collaboration, Training sowie New
+      Work Coaching.
   - title: Unsere Story
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
