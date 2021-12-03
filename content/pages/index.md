@@ -155,7 +155,7 @@ sections:
       Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
       informiert
 seo:
-  title: Mindset is everything | Epic Fusion
+  title: Epic Fusion | Modern. Sicher. Partizipativ.
   description: >-
     Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
     Coaching • Cloud-Strategie ✓ Epic Fusion führt Sie durch die digitale
