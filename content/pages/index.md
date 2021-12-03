@@ -1,12 +1,12 @@
 ---
-title: 'Epic Fusion: Mindset is everything'
+title: Epic Fusion | Modern. Sicher. Partizipativ.
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Epic Fusion: Mindset is everything'
+    title: Epic Fusion | Modern. Sicher. Partizipativ.
     content: >
-      ## Sind Sie fit für die digitale Zukunft?
+      ## Neue Arbeitswelten beschleunigen Ihre digitale Transformation
 
 
       Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet und sicher durch
@@ -155,7 +155,7 @@ sections:
       Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
       informiert
 seo:
-  title: Mindset is everything | Epic Fusion
+  title: Epic Fusion | Modern. Sicher. Partizipativ.
   description: >-
     Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
     Coaching • Cloud-Strategie ✓ Epic Fusion führt Sie durch die digitale
@@ -165,7 +165,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Mindset is everything | Epic Fusion
+      value: Epic Fusion | Modern. Sicher. Partizipativ.
       keyName: property
     - name: 'og:description'
       value: >-
@@ -180,7 +180,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Mindset is everything | Epic Fusion
+      value: Epic Fusion | Modern. Sicher. Partizipativ.
     - name: 'twitter:description'
       value: >-
         Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
