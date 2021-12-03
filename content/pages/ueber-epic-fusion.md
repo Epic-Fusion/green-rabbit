@@ -87,7 +87,7 @@ sections:
           Cloud Architekturen im Fokus.»
 
 
-          **Digital Transformation Architekt**
+          **Co-CEO und Mitinhaber**
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
             url: >-
