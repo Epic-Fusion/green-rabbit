@@ -180,7 +180,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Mindset is everything | Epic Fusion
+      value: Epic Fusion | Modern. Sicher. Partizipativ.
     - name: 'twitter:description'
       value: >-
         Fit für die digitale Zukunft? Digital Workplace • Microsoft 365 • Agile
