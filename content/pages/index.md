@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Epic Fusion | Modern. Sicher. Partizipativ.
     content: >
-      ## Sind Sie fit für die digitale Zukunft?
+      ## Neue Arbeitswelten beschleunigen Ihre digitale Transformation
 
 
       Epic Fusion führt Sie und Ihr Unternehmen zielgerichtet und sicher durch
