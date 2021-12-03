@@ -1,5 +1,5 @@
 ---
-title: 'Epic Fusion: Mindset is everything'
+title: Epic Fusion | Modern. Sicher. Partizipativ.
 hide_title: true
 sections:
   - section_id: hero
