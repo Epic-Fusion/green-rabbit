@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Epic Fusion: Mindset is everything'
+    title: Epic Fusion | Modern. Sicher. Partizipativ.
     content: >
       ## Sind Sie fit für die digitale Zukunft?
 
