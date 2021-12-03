@@ -136,7 +136,7 @@ sections:
           führe Menschen mit Technologien zusammen.»
 
 
-          **Modern Work Transformation-Experte**
+          **Co-CEO und Mitinhaber**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
