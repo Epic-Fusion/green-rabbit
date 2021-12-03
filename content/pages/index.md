@@ -165,7 +165,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Mindset is everything | Epic Fusion
+      value: Epic Fusion | Modern. Sicher. Partizipativ.
       keyName: property
     - name: 'og:description'
       value: >-
