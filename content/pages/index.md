@@ -177,6 +177,11 @@ sections:
       - title: Partizipativ.
         image_alt: lorem-ipsum
         actions: []
+        content: >
+          Zusammenarbeit war gestern. Wir setzen auf Arbeitsformen, die Ihre
+          Mitarbeitenden aktiv integrieren und involvieren. Mit unserem Angebot
+          zu partizipativen Arbeitsmodellen sichern Sie sich Ihre wichtigen
+          Führungskräfte und Innovation.
     type: section_grid
 seo:
   title: Epic Fusion | Modern. Sicher. Partizipativ.
