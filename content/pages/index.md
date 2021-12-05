@@ -154,6 +154,21 @@ sections:
     subtitle: >-
       Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
       informiert
+  - title: Warum Epic Fusion?
+    section_id: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items:
+      - title: Modern.
+        image_alt: lorem-ipsum
+        actions: []
+      - title: Sicher.
+        image_alt: lorem-ipsum
+        actions: []
+      - title: Partizipativ.
+        image_alt: lorem-ipsum
+        actions: []
+    type: section_grid
 seo:
   title: Epic Fusion | Modern. Sicher. Partizipativ.
   description: >-
