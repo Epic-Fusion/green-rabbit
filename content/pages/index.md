@@ -162,6 +162,8 @@ sections:
       - title: Modern.
         image_alt: lorem-ipsum
         actions: []
+        content: |
+          Ihre zukunftssichere IT durch moderne Technologien.
       - title: Sicher.
         image_alt: lorem-ipsum
         actions: []
