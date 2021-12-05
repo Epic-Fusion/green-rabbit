@@ -154,6 +154,13 @@ sections:
     subtitle: >-
       Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
       informiert
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
 seo:
   title: Epic Fusion | Modern. Sicher. Partizipativ.
   description: >-
