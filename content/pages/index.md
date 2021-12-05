@@ -154,7 +154,7 @@ sections:
     subtitle: >-
       Der Epic Fusion Blog: Bestens über aktuelle Digital-Trends und Tools
       informiert
-  - title: lorem-ipsum
+  - title: Warum Epic Fusion?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
