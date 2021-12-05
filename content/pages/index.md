@@ -164,7 +164,9 @@ sections:
         actions: []
         content: >
           Ihre zukunftssichere IT durch moderne Technologien. Wir setzen schon
-          heute auf die Möglichkeiten von Morgen. 
+          heute auf die Möglichkeiten von Morgen. Nutzen Sie Apps, Services und
+          eine Infrastruktur, die auf neue Betriebs- und Arbeitsmodelle
+          ausgerichtet ist.
       - title: Sicher.
         image_alt: lorem-ipsum
         actions: []
