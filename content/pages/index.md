@@ -231,7 +231,7 @@ sections:
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
         actions: []
-      - title: lorem-ipsum
+      - title: Partizipativ.
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
