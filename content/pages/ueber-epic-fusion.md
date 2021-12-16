@@ -164,7 +164,13 @@ sections:
 
 
           **Dann gib uns ein Zeichen!**
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
     type: section_grid
     subtitle: >-
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
