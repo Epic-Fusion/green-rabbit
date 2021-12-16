@@ -160,10 +160,10 @@ sections:
         content: >
           Möchtest du mit uns neue Arbeitswelten gestalten? Bringst du Expertise
           im Bereich von New Work, Projektmanagement, Cloud Engineering oder
-          Microsoft 365 / Azure mit? 
+          Microsoft 365 / Azure mit?
 
 
-          Dann pack deine Koffer! 
+          **Dann gib uns ein Zeichen!**
         actions: []
     type: section_grid
     subtitle: >-
