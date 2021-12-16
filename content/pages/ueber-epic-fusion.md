@@ -155,7 +155,7 @@ sections:
             type: action
         type: grid_item
         image: /images/AndreasNeu-min.png
-      - title: lorem-ipsum
+      - title: 'Warum '
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
