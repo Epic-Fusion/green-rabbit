@@ -136,7 +136,7 @@ sections:
           führe Menschen mit Technologien zusammen.»
 
 
-          **Co-CEO und Mitinhaber**
+          **Co-CEO und Gründer**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
