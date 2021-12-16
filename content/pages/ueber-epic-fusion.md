@@ -165,7 +165,7 @@ sections:
 
           **Dann gib uns ein Zeichen!**
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt Koffer packen!
             url: '#'
             style: link
             icon: dribbble
