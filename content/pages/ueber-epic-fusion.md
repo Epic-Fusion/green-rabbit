@@ -87,7 +87,7 @@ sections:
           Cloud Architekturen im Fokus.»
 
 
-          **Co-CEO und Mitinhaber**
+          **Co-CEO und Gründer**
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
             url: >-
