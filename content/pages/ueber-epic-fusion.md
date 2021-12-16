@@ -157,13 +157,20 @@ sections:
         image: /images/AndreasNeu-min.png
       - title: Vielleicht bald auch du?
         image_alt: lorem-ipsum
-        content: >
-          Möchtest du mit uns neue Arbeitswelten gestalten? Bringst du Expertise
-          im Bereich von New Work, Projektmanagement, Cloud Engineering oder
-          Microsoft 365 / Azure mit?
+        content: |
+          Möchtest du mit uns neue Arbeitswelten gestalten?
 
+          Wir suchen ExpertInnen in den Bereichen:
 
-          **Dann gib uns ein Zeichen!**
+          **Microsoft 365 Cloud Engineering**
+
+          **Cloud Security Architektur**
+
+          **Agiles Projektmanagement**
+
+          **Responsive Organisationen**
+
+          In welchem Bereich steigst du bei uns ein?
         actions:
           - label: Jetzt Koffer packen!
             url: 'https://www.epicfusion.com/koffer-packen/'
