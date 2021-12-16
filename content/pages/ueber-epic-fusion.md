@@ -166,7 +166,7 @@ sections:
           **Dann gib uns ein Zeichen!**
         actions:
           - label: Jetzt Koffer packen!
-            url: '#'
+            url: 'https://www.epicfusion.com/koffer-packen/'
             style: button
             icon: dribbble
             new_window: false
