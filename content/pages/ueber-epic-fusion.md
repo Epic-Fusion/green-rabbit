@@ -87,7 +87,7 @@ sections:
           Cloud Architekturen im Fokus.»
 
 
-          **Co-CEO und Mitinhaber**
+          **Co-CEO und Gründer**
         actions:
           - label: Jetzt Termin mit Sanche Baskaran buchen
             url: >-
@@ -136,7 +136,7 @@ sections:
           führe Menschen mit Technologien zusammen.»
 
 
-          **Co-CEO und Mitinhaber**
+          **Co-CEO und Gründer**
         actions:
           - label: Jetzt Termin mit Andreas Schmerek buchen
             url: >-
@@ -155,6 +155,29 @@ sections:
             type: action
         type: grid_item
         image: /images/AndreasNeu-min.png
+      - title: Vielleicht bald auch du?
+        image_alt: lorem-ipsum
+        content: |
+          Möchtest du mit uns neue Arbeitswelten gestalten?
+
+          Wir suchen ExpertInnen in den Bereichen:
+
+          **Microsoft 365 Cloud Engineering**
+
+          **Cloud Security Architektur**
+
+          **Agiles Projektmanagement**
+
+          **Responsive Organisationen**
+
+          In welchem Bereich steigst du bei uns ein?
+        actions:
+          - label: Jetzt Koffer packen!
+            url: 'https://www.epicfusion.com/koffer-packen/'
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
     type: section_grid
     subtitle: >-
       Das wachsende Epic Fusion Team besteht aus Spezialisten in den Bereichen
