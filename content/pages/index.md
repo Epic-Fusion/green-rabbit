@@ -172,7 +172,7 @@ sections:
         actions: []
         content: >
           Ihre Daten und Informationen verdienen besten Schutz. Wir setzen
-          intelligente Cloud-Security Lösungen ein, um modernes, verteiltes
+          intelligente Sicherheits-Lösungen ein, um modernes, verteiltes
           Arbeiten mit verschiedenen Geräten erst recht sicher zu machen.
       - title: Partizipativ.
         image_alt: lorem-ipsum
