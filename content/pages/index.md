@@ -163,25 +163,25 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         content: >
-          Ihre zukunftssichere IT durch moderne Technologien. Wir setzen schon
-          heute auf die Möglichkeiten von Morgen. Nutzen Sie Apps, Services und
-          eine Infrastruktur, die auf neue Betriebs- und Arbeitsmodelle
-          ausgerichtet ist.
+          Wir setzen heute auf die Möglichkeiten von morgen. Mit modernen
+          Technologien etablieren wir Ihre zukunftssichere IT. Eine innovative
+          Infrastruktur mit cleveren Apps und Services beschleunigt Ihre
+          Betriebs- und Arbeitsmodelle.
       - title: Sicher.
         image_alt: lorem-ipsum
         actions: []
         content: >
-          Ihre Daten und Informationen verdienen besten Schutz. Wir setzen
-          intelligente Sicherheits-Lösungen ein, um modernes, verteiltes
-          Arbeiten mit verschiedenen Geräten erst recht sicher zu machen.
+          Ihre Daten und Informationen verdienen besten Schutz. Mit
+          intelligenten Sicherheitslösungen schaffen wir für modernes,
+          verteiltes Arbeiten mit verschiedenen Geräten einen sicheren Raum.
       - title: Partizipativ.
         image_alt: lorem-ipsum
         actions: []
         content: >
-          Zusammenarbeit war gestern. Wir setzen auf Arbeitsformen, die Ihre
-          Mitarbeitenden aktiv integrieren und involvieren. Mit unserem Angebot
-          zu partizipativen Arbeitsmodellen sichern Sie sich die besten
-          Fachkräfte und steigern Innovation.
+          Sichern Sie sich mit partizipativen Arbeitsformen die besten
+          Fachkräfte. Wir eröffnen Ihnen Arbeitswelten, die Ihre Mitarbeitenden
+          aktiv integrieren und involvieren. Und steigern so Ihre
+          Innovationskraft.
     type: section_grid
 seo:
   title: Epic Fusion | Modern. Sicher. Partizipativ.
