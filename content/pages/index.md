@@ -171,9 +171,9 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         content: >
-          Ihre Daten und Informationen verdienen besten Schutz. Wir setzen
-          intelligente Sicherheits-Lösungen ein, um modernes, verteiltes
-          Arbeiten mit verschiedenen Geräten erst recht sicher zu machen.
+          Ihre Daten und Informationen verdienen besten Schutz. Mit
+          intelligenten Sicherheitslösungen schaffen wir für modernes,
+          verteiltes Arbeiten mit verschiedenen Geräten einen sicheren Raum.
       - title: Partizipativ.
         image_alt: lorem-ipsum
         actions: []
