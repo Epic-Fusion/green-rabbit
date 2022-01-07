@@ -178,10 +178,10 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         content: >
-          Zusammenarbeit war gestern. Wir setzen auf Arbeitsformen, die Ihre
-          Mitarbeitenden aktiv integrieren und involvieren. Mit unserem Angebot
-          zu partizipativen Arbeitsmodellen sichern Sie sich die besten
-          Fachkräfte und steigern Innovation.
+          Sichern Sie sich mit partizipativen Arbeitsformen die besten
+          Fachkräfte. Wir eröffnen Ihnen Arbeitswelten, die Ihre Mitarbeitenden
+          aktiv integrieren und involvieren. Und steigern so Ihre
+          Innovationskraft.
     type: section_grid
 seo:
   title: Epic Fusion | Modern. Sicher. Partizipativ.
