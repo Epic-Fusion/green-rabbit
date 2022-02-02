@@ -164,7 +164,7 @@ sections:
 
           **New Work Coach**
         actions:
-          - label: lorem-ipsum
+          - label: Jetzt Termin mit Andy Limmen buchen
             url: '#'
             style: link
             icon: dribbble
