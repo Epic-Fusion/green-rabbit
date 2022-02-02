@@ -170,7 +170,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
+          - label: Andy Limmen auf LinkedIn
             url: '#'
             style: link
             icon: dribbble
