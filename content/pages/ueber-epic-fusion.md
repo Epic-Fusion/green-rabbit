@@ -158,8 +158,12 @@ sections:
       - title: Andy Limmen
         image_alt: lorem-ipsum
         content: >
-          Motivierte Mitarbeitende sind die Zukunft - ich unterstütze
-          Organisationen auf allen Ebenen bei Schaffen optimaler Arbeitswelten.
+          «Motivierte Mitarbeitende sind die Zukunft - ich unterstütze
+          Organisationen auf allen Ebenen bei Schaffen optimaler
+          Arbeitswelten..»
+
+
+          **New Work Coach**
         actions: []
       - title: Vielleicht bald auch du?
         image_alt: lorem-ipsum
