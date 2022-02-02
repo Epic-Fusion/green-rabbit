@@ -173,7 +173,7 @@ sections:
           - label: Andy Limmen auf LinkedIn
             url: '#'
             style: icon
-            icon: dribbble
+            icon: linkedin
             new_window: false
             no_follow: false
       - title: Vielleicht bald auch du?
