@@ -166,7 +166,7 @@ sections:
         actions:
           - label: Jetzt Termin mit Andy Limmen buchen
             url: '#'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
