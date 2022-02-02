@@ -159,8 +159,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           «Motivierte Mitarbeitende sind die Zukunft - ich unterstütze
-          Organisationen auf allen Ebenen bei Schaffen optimaler
-          Arbeitswelten..»
+          Organisationen auf allen Ebenen bei Schaffen optimaler Arbeitswelten.»
 
 
           **New Work Coach**
