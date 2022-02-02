@@ -171,7 +171,7 @@ sections:
             new_window: false
             no_follow: false
           - label: Andy Limmen auf LinkedIn
-            url: '#'
+            url: 'https://www.linkedin.com/in/andy-limmen-a4a35895/'
             style: icon
             icon: linkedin
             new_window: false
