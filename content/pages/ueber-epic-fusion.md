@@ -155,6 +155,27 @@ sections:
             type: action
         type: grid_item
         image: /images/AndreasNeu-min.png
+      - title: Andy Limmen
+        image_alt: lorem-ipsum
+        content: >
+          «Motivierte Mitarbeitende sind die Zukunft - ich unterstütze
+          Organisationen auf allen Ebenen bei Schaffen optimaler Arbeitswelten.»
+
+
+          **New Work Coach**
+        actions:
+          - label: Jetzt Termin mit Andy Limmen buchen
+            url: '#'
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+          - label: Andy Limmen auf LinkedIn
+            url: 'https://www.linkedin.com/in/andy-limmen-a4a35895/'
+            style: icon
+            icon: linkedin
+            new_window: false
+            no_follow: false
       - title: Vielleicht bald auch du?
         image_alt: lorem-ipsum
         content: |
