@@ -189,7 +189,7 @@ sections:
 
           **Microsoft 365 Cloud Engineering**
 
-          **Cloud Security Architektur**
+          **Cloud & Security Architektur**
 
           **Agiles Projektmanagement**
 
