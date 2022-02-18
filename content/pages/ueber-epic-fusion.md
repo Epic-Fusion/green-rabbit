@@ -165,7 +165,8 @@ sections:
           **New Work Coach**
         actions:
           - label: Jetzt Termin mit Andy Limmen buchen
-            url: '#'
+            url: >-
+              https://outlook.office365.com/owa/calendar/TerminmitAndyLimmenvereinbaren@epicfusion.com/bookings/
             style: button
             icon: dribbble
             new_window: false
@@ -176,6 +177,8 @@ sections:
             icon: linkedin
             new_window: false
             no_follow: false
+        image: >-
+          /images/220211_foundbyheart_Nora_Brumm_EpicFusion_AndyLimmen-15_Crop_kleiner.png
       - title: Vielleicht bald auch du?
         image_alt: lorem-ipsum
         content: |
