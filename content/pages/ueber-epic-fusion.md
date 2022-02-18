@@ -178,7 +178,8 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-        image: /images/AndreasNeu-min.png
+        image: >-
+          /images/210802_foundbyheart_Nora_Brumm_BrandingPortrait_EpicFusion-090_kleiner.png
       - title: Vielleicht bald auch du?
         image_alt: lorem-ipsum
         content: |
